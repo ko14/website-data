@@ -1,108 +1,108 @@
-timeframe:1 month|sector:Transportation|symbol:AAL|start_date:2016-02-17|start_open:38.95|end_date:2016-08-15|end_close:35.87|stock_return:-0.079076
-timeframe:1 month|sector:Transportation|symbol:AAWW|start_date:2016-02-17|start_open:37.33|end_date:2016-08-15|end_close:35.46|stock_return:-0.050094
-timeframe:1 month|sector:Transportation|symbol:AIRM|start_date:2016-02-17|start_open:37.44|end_date:2016-08-15|end_close:33.04|stock_return:-0.117521
-timeframe:1 month|sector:Transportation|symbol:AIRT|start_date:2016-02-17|start_open:21.71|end_date:2016-08-15|end_close:22.09|stock_return:0.017503
-timeframe:1 month|sector:Transportation|symbol:ALGT|start_date:2016-02-17|start_open:155.95|end_date:2016-08-15|end_close:128.51|stock_return:-0.175954
-timeframe:1 month|sector:Transportation|symbol:ALK|start_date:2016-02-17|start_open:69.90|end_date:2016-08-15|end_close:66.12|stock_return:-0.054077
-timeframe:1 month|sector:Transportation|symbol:ARCB|start_date:2016-02-17|start_open:20.00|end_date:2016-08-15|end_close:17.43|stock_return:-0.128500
-timeframe:1 month|sector:Transportation|symbol:ASC|start_date:2016-02-17|start_open:7.85|end_date:2016-08-15|end_close:8.04|stock_return:0.024204
-timeframe:1 month|sector:Transportation|symbol:ASR|start_date:2016-02-17|start_open:135.44|end_date:2016-08-15|end_close:161.54|stock_return:0.192705
-timeframe:1 month|sector:Transportation|symbol:ATSG|start_date:2016-02-17|start_open:11.41|end_date:2016-08-15|end_close:14.59|stock_return:0.278703
-timeframe:1 month|sector:Transportation|symbol:AVH|start_date:2016-02-17|start_open:4.22|end_date:2016-08-15|end_close:6.52|stock_return:0.545024
-timeframe:1 month|sector:Transportation|symbol:BCO|start_date:2016-02-17|start_open:29.36|end_date:2016-08-15|end_close:37.10|stock_return:0.263624
-timeframe:1 month|sector:Transportation|symbol:BRS|start_date:2016-02-17|start_open:14.34|end_date:2016-08-15|end_close:12.41|stock_return:-0.134589
-timeframe:1 month|sector:Transportation|symbol:CEA|start_date:2016-02-17|start_open:23.78|end_date:2016-08-15|end_close:29.72|stock_return:0.249790
-timeframe:1 month|sector:Transportation|symbol:CGI|start_date:2016-02-17|start_open:9.55|end_date:2016-08-15|end_close:7.02|stock_return:-0.264921
-timeframe:1 month|sector:Transportation|symbol:CHRW|start_date:2016-02-17|start_open:71.24|end_date:2016-08-15|end_close:69.23|stock_return:-0.028214
-timeframe:1 month|sector:Transportation|symbol:CKH|start_date:2016-02-17|start_open:42.98|end_date:2016-08-15|end_close:55.52|stock_return:0.291764
-timeframe:1 month|sector:Transportation|symbol:CMRE|start_date:2016-02-17|start_open:7.03|end_date:2016-08-15|end_close:9.25|stock_return:0.315789
-timeframe:1 month|sector:Transportation|symbol:CNI|start_date:2016-02-17|start_open:55.93|end_date:2016-08-15|end_close:63.36|stock_return:0.132845
-timeframe:1 month|sector:Transportation|symbol:CP|start_date:2016-02-17|start_open:126.50|end_date:2016-08-15|end_close:148.92|stock_return:0.177233
-timeframe:1 month|sector:Transportation|symbol:CPA|start_date:2016-02-17|start_open:55.61|end_date:2016-08-15|end_close:82.75|stock_return:0.488042
-timeframe:1 month|sector:Transportation|symbol:CPLP|start_date:2016-02-17|start_open:3.77|end_date:2016-08-15|end_close:3.50|stock_return:-0.071618
-timeframe:1 month|sector:Transportation|symbol:CSX|start_date:2016-02-17|start_open:24.37|end_date:2016-08-15|end_close:28.01|stock_return:0.149364
-timeframe:1 month|sector:Transportation|symbol:CVTI|start_date:2016-02-17|start_open:22.39|end_date:2016-08-15|end_close:20.22|stock_return:-0.096918
-timeframe:1 month|sector:Transportation|symbol:DAC|start_date:2016-02-17|start_open:4.96|end_date:2016-08-15|end_close:3.91|stock_return:-0.211694
-timeframe:1 month|sector:Transportation|symbol:DAL|start_date:2016-02-17|start_open:44.98|end_date:2016-08-15|end_close:36.92|stock_return:-0.179191
-timeframe:1 month|sector:Transportation|symbol:DCIX|start_date:2016-02-17|start_open:0.38|end_date:2016-08-15|end_close:3.96|stock_return:9.421053
-timeframe:1 month|sector:Transportation|symbol:DHT|start_date:2016-02-17|start_open:5.75|end_date:2016-08-15|end_close:5.35|stock_return:-0.069565
-timeframe:1 month|sector:Transportation|symbol:DRYS|start_date:2016-02-17|start_open:0.13|end_date:2016-08-15|end_close:1.05|stock_return:7.076923
-timeframe:1 month|sector:Transportation|symbol:DSX|start_date:2016-02-17|start_open:2.46|end_date:2016-08-15|end_close:2.61|stock_return:0.060976
-timeframe:1 month|sector:Transportation|symbol:DSXN|start_date:2016-02-17|start_open:17.25|end_date:2016-08-15|end_close:22.11|stock_return:0.281739
-timeframe:1 month|sector:Transportation|symbol:ECHO|start_date:2016-02-17|start_open:24.98|end_date:2016-08-15|end_close:25.75|stock_return:0.030825
-timeframe:1 month|sector:Transportation|symbol:EGLE|start_date:2016-02-17|start_open:0.57|end_date:2016-08-15|end_close:5.75|stock_return:9.087719
-timeframe:1 month|sector:Transportation|symbol:ERA|start_date:2016-02-17|start_open:8.04|end_date:2016-08-15|end_close:7.64|stock_return:-0.049751
-timeframe:1 month|sector:Transportation|symbol:ESEA|start_date:2016-02-17|start_open:1.91|end_date:2016-08-15|end_close:1.70|stock_return:-0.109948
-timeframe:1 month|sector:Transportation|symbol:EURN|start_date:2016-02-17|start_open:11.17|end_date:2016-08-15|end_close:9.16|stock_return:-0.179946
-timeframe:1 month|sector:Transportation|symbol:EXPD|start_date:2016-02-17|start_open:46.84|end_date:2016-08-15|end_close:51.14|stock_return:0.091802
-timeframe:1 month|sector:Transportation|symbol:FDX|start_date:2016-02-17|start_open:133.56|end_date:2016-08-15|end_close:166.40|stock_return:0.245882
-timeframe:1 month|sector:Transportation|symbol:FRO|start_date:2016-02-17|start_open:8.87|end_date:2016-08-15|end_close:8.46|stock_return:-0.046223
-timeframe:1 month|sector:Transportation|symbol:FWRD|start_date:2016-02-17|start_open:39.73|end_date:2016-08-15|end_close:45.93|stock_return:0.156053
-timeframe:1 month|sector:Transportation|symbol:GASS|start_date:2016-02-17|start_open:2.92|end_date:2016-08-15|end_close:3.49|stock_return:0.195205
-timeframe:1 month|sector:Transportation|symbol:GLBS|start_date:2016-02-17|start_open:0.17|end_date:2016-08-15|end_close:0.70|stock_return:3.117647
-timeframe:1 month|sector:Transportation|symbol:GNK|start_date:2016-02-17|start_open:0.50|end_date:2016-08-15|end_close:4.77|stock_return:8.540000
-timeframe:1 month|sector:Transportation|symbol:GNRT|start_date:2016-02-17|start_open:5.70|end_date:2016-08-15|end_close:5.41|stock_return:-0.050877
-timeframe:1 month|sector:Transportation|symbol:GOL|start_date:2016-02-17|start_open:0.47|end_date:2016-08-15|end_close:19.63|stock_return:40.765957
-timeframe:1 month|sector:Transportation|symbol:GSH|start_date:2016-02-17|start_open:22.73|end_date:2016-08-15|end_close:25.06|stock_return:0.102508
-timeframe:1 month|sector:Transportation|symbol:GSL|start_date:2016-02-17|start_open:1.89|end_date:2016-08-15|end_close:1.66|stock_return:-0.121693
-timeframe:1 month|sector:Transportation|symbol:GWR|start_date:2016-02-17|start_open:55.92|end_date:2016-08-15|end_close:66.00|stock_return:0.180258
-timeframe:1 month|sector:Transportation|symbol:HA|start_date:2016-02-17|start_open:37.22|end_date:2016-08-15|end_close:44.74|stock_return:0.202042
-timeframe:1 month|sector:Transportation|symbol:HTLD|start_date:2016-02-17|start_open:19.35|end_date:2016-08-15|end_close:19.00|stock_return:-0.018088
-timeframe:1 month|sector:Transportation|symbol:HUBG|start_date:2016-02-17|start_open:36.61|end_date:2016-08-15|end_close:40.72|stock_return:0.112264
-timeframe:1 month|sector:Transportation|symbol:JBHT|start_date:2016-02-17|start_open:75.87|end_date:2016-08-15|end_close:82.31|stock_return:0.084882
-timeframe:1 month|sector:Transportation|symbol:JBLU|start_date:2016-02-17|start_open:21.69|end_date:2016-08-15|end_close:17.05|stock_return:-0.213923
-timeframe:1 month|sector:Transportation|symbol:KNX|start_date:2016-02-17|start_open:25.48|end_date:2016-08-15|end_close:27.85|stock_return:0.093014
-timeframe:1 month|sector:Transportation|symbol:KSU|start_date:2016-02-17|start_open:81.17|end_date:2016-08-15|end_close:97.09|stock_return:0.196132
-timeframe:1 month|sector:Transportation|symbol:LFL|start_date:2016-02-17|start_open:6.00|end_date:2016-08-15|end_close:8.76|stock_return:0.460000
-timeframe:1 month|sector:Transportation|symbol:LPG|start_date:2016-02-17|start_open:9.63|end_date:2016-08-15|end_close:6.30|stock_return:-0.345794
-timeframe:1 month|sector:Transportation|symbol:LSTR|start_date:2016-02-17|start_open:59.89|end_date:2016-08-15|end_close:68.71|stock_return:0.147270
-timeframe:1 month|sector:Transportation|symbol:LUV|start_date:2016-02-17|start_open:37.47|end_date:2016-08-15|end_close:36.88|stock_return:-0.015746
-timeframe:1 month|sector:Transportation|symbol:MRTN|start_date:2016-02-17|start_open:17.65|end_date:2016-08-15|end_close:21.63|stock_return:0.225496
-timeframe:1 month|sector:Transportation|symbol:NAO|start_date:2016-02-17|start_open:4.16|end_date:2016-08-15|end_close:4.36|stock_return:0.048077
-timeframe:1 month|sector:Transportation|symbol:NM|start_date:2016-02-17|start_open:0.91|end_date:2016-08-15|end_close:1.06|stock_return:0.164835
-timeframe:1 month|sector:Transportation|symbol:NMM|start_date:2016-02-17|start_open:1.00|end_date:2016-08-15|end_close:1.68|stock_return:0.680000
-timeframe:1 month|sector:Transportation|symbol:NNA|start_date:2016-02-17|start_open:1.99|end_date:2016-08-15|end_close:1.61|stock_return:-0.190955
-timeframe:1 month|sector:Transportation|symbol:NSC|start_date:2016-02-17|start_open:74.35|end_date:2016-08-15|end_close:88.92|stock_return:0.195965
-timeframe:1 month|sector:Transportation|symbol:NVGS|start_date:2016-02-17|start_open:14.52|end_date:2016-08-15|end_close:8.75|stock_return:-0.397383
-timeframe:1 month|sector:Transportation|symbol:ODFL|start_date:2016-02-17|start_open:62.79|end_date:2016-08-15|end_close:69.76|stock_return:0.111005
-timeframe:1 month|sector:Transportation|symbol:OMAB|start_date:2016-02-17|start_open:36.12|end_date:2016-08-15|end_close:51.83|stock_return:0.434939
-timeframe:1 month|sector:Transportation|symbol:PAC|start_date:2016-02-17|start_open:80.52|end_date:2016-08-15|end_close:104.39|stock_return:0.296448
-timeframe:1 month|sector:Transportation|symbol:PHII|start_date:2016-02-17|start_open:16.38|end_date:2016-08-15|end_close:19.10|stock_return:0.166056
-timeframe:1 month|sector:Transportation|symbol:PHIIK|start_date:2016-02-17|start_open:16.06|end_date:2016-08-15|end_close:19.28|stock_return:0.200498
-timeframe:1 month|sector:Transportation|symbol:PTSI|start_date:2016-02-17|start_open:24.54|end_date:2016-08-15|end_close:18.56|stock_return:-0.243684
-timeframe:1 month|sector:Transportation|symbol:PWX|start_date:2016-02-17|start_open:12.76|end_date:2016-08-15|end_close:24.56|stock_return:0.924765
-timeframe:1 month|sector:Transportation|symbol:PXS|start_date:2016-02-17|start_open:0.93|end_date:2016-08-15|end_close:2.31|stock_return:1.483871
-timeframe:1 month|sector:Transportation|symbol:RRTS|start_date:2016-02-17|start_open:11.66|end_date:2016-08-15|end_close:7.70|stock_return:-0.339623
-timeframe:1 month|sector:Transportation|symbol:RYAAY|start_date:2016-02-17|start_open:80.36|end_date:2016-08-15|end_close:72.19|stock_return:-0.101667
-timeframe:1 month|sector:Transportation|symbol:SAIA|start_date:2016-02-17|start_open:27.56|end_date:2016-08-15|end_close:29.53|stock_return:0.071480
-timeframe:1 month|sector:Transportation|symbol:SALT|start_date:2016-02-17|start_open:2.31|end_date:2016-08-15|end_close:3.36|stock_return:0.454545
-timeframe:1 month|sector:Transportation|symbol:SAVE|start_date:2016-02-17|start_open:46.60|end_date:2016-08-15|end_close:40.27|stock_return:-0.135837
-timeframe:1 month|sector:Transportation|symbol:SB|start_date:2016-02-17|start_open:0.69|end_date:2016-08-15|end_close:1.27|stock_return:0.840580
-timeframe:1 month|sector:Transportation|symbol:SBLK|start_date:2016-02-17|start_open:0.41|end_date:2016-08-15|end_close:4.00|stock_return:8.756098
-timeframe:1 month|sector:Transportation|symbol:SBLKL|start_date:2016-02-17|start_open:9.28|end_date:2016-08-15|end_close:18.70|stock_return:1.015086
-timeframe:1 month|sector:Transportation|symbol:SBNA|start_date:2016-02-17|start_open:20.51|end_date:2016-08-15|end_close:24.21|stock_return:0.180400
-timeframe:1 month|sector:Transportation|symbol:SFL|start_date:2016-02-17|start_open:12.08|end_date:2016-08-15|end_close:15.57|stock_return:0.288907
-timeframe:1 month|sector:Transportation|symbol:SHIP|start_date:2016-02-17|start_open:3.01|end_date:2016-08-15|end_close:3.79|stock_return:0.259136
-timeframe:1 month|sector:Transportation|symbol:SINO|start_date:2016-02-17|start_open:0.45|end_date:2016-08-15|end_close:1.84|stock_return:3.088889
-timeframe:1 month|sector:Transportation|symbol:SKYW|start_date:2016-02-17|start_open:15.80|end_date:2016-08-15|end_close:28.24|stock_return:0.787342
-timeframe:1 month|sector:Transportation|symbol:SLTB|start_date:2016-02-17|start_open:9.30|end_date:2016-08-15|end_close:20.00|stock_return:1.150538
-timeframe:1 month|sector:Transportation|symbol:SSW|start_date:2016-02-17|start_open:16.43|end_date:2016-08-15|end_close:15.06|stock_return:-0.083384
-timeframe:1 month|sector:Transportation|symbol:SSWN|start_date:2016-02-17|start_open:23.90|end_date:2016-08-15|end_close:25.29|stock_return:0.058159
-timeframe:1 month|sector:Transportation|symbol:STB|start_date:2016-02-17|start_open:4.04|end_date:2016-08-15|end_close:5.35|stock_return:0.324257
-timeframe:1 month|sector:Transportation|symbol:STNG|start_date:2016-02-17|start_open:5.56|end_date:2016-08-15|end_close:5.31|stock_return:-0.044964
-timeframe:1 month|sector:Transportation|symbol:SWFT|start_date:2016-02-17|start_open:17.47|end_date:2016-08-15|end_close:18.57|stock_return:0.062965
-timeframe:1 month|sector:Transportation|symbol:TK|start_date:2016-02-17|start_open:6.55|end_date:2016-08-15|end_close:6.84|stock_return:0.044275
-timeframe:1 month|sector:Transportation|symbol:TNP|start_date:2016-02-17|start_open:5.38|end_date:2016-08-15|end_close:5.09|stock_return:-0.053903
-timeframe:1 month|sector:Transportation|symbol:TOPS|start_date:2016-02-17|start_open:0.24|end_date:2016-08-15|end_close:4.83|stock_return:19.125000
-timeframe:1 month|sector:Transportation|symbol:UAL|start_date:2016-02-17|start_open:49.42|end_date:2016-08-15|end_close:48.01|stock_return:-0.028531
-timeframe:1 month|sector:Transportation|symbol:ULH|start_date:2016-02-17|start_open:14.70|end_date:2016-08-15|end_close:13.67|stock_return:-0.070068
-timeframe:1 month|sector:Transportation|symbol:ULTR|start_date:2016-02-17|start_open:0.08|end_date:2016-08-15|end_close:0.35|stock_return:3.375000
-timeframe:1 month|sector:Transportation|symbol:UNP|start_date:2016-02-17|start_open:78.72|end_date:2016-08-15|end_close:92.50|stock_return:0.175051
-timeframe:1 month|sector:Transportation|symbol:UPS|start_date:2016-02-17|start_open:98.81|end_date:2016-08-15|end_close:109.85|stock_return:0.111730
-timeframe:1 month|sector:Transportation|symbol:USAK|start_date:2016-02-17|start_open:16.24|end_date:2016-08-15|end_close:12.31|stock_return:-0.241995
-timeframe:1 month|sector:Transportation|symbol:USDP|start_date:2016-02-17|start_open:6.14|end_date:2016-08-15|end_close:12.22|stock_return:0.990228
-timeframe:1 month|sector:Transportation|symbol:VA|start_date:2016-02-17|start_open:29.57|end_date:2016-08-15|end_close:55.98|stock_return:0.893135
-timeframe:1 month|sector:Transportation|symbol:VLRS|start_date:2016-02-17|start_open:18.34|end_date:2016-08-15|end_close:18.78|stock_return:0.023991
-timeframe:1 month|sector:Transportation|symbol:WERN|start_date:2016-02-17|start_open:26.96|end_date:2016-08-15|end_close:23.05|stock_return:-0.145030
-timeframe:1 month|sector:Transportation|symbol:YRCW|start_date:2016-02-17|start_open:7.98|end_date:2016-08-15|end_close:11.48|stock_return:0.438596
-timeframe:1 month|sector:Transportation|symbol:ZNH|start_date:2016-02-17|start_open:29.65|end_date:2016-08-15|end_close:36.29|stock_return:0.223946
+timeframe:6mo|sector:Transportation|symbol:AAL|start_date:2016-02-17|start_open:38.95|end_date:2016-08-15|end_close:35.87|stock_return:-0.079076
+timeframe:6mo|sector:Transportation|symbol:AAWW|start_date:2016-02-17|start_open:37.33|end_date:2016-08-15|end_close:35.46|stock_return:-0.050094
+timeframe:6mo|sector:Transportation|symbol:AIRM|start_date:2016-02-17|start_open:37.44|end_date:2016-08-15|end_close:33.04|stock_return:-0.117521
+timeframe:6mo|sector:Transportation|symbol:AIRT|start_date:2016-02-17|start_open:21.71|end_date:2016-08-15|end_close:22.09|stock_return:0.017503
+timeframe:6mo|sector:Transportation|symbol:ALGT|start_date:2016-02-17|start_open:155.95|end_date:2016-08-15|end_close:128.51|stock_return:-0.175954
+timeframe:6mo|sector:Transportation|symbol:ALK|start_date:2016-02-17|start_open:69.90|end_date:2016-08-15|end_close:66.12|stock_return:-0.054077
+timeframe:6mo|sector:Transportation|symbol:ARCB|start_date:2016-02-17|start_open:20.00|end_date:2016-08-15|end_close:17.43|stock_return:-0.128500
+timeframe:6mo|sector:Transportation|symbol:ASC|start_date:2016-02-17|start_open:7.85|end_date:2016-08-15|end_close:8.04|stock_return:0.024204
+timeframe:6mo|sector:Transportation|symbol:ASR|start_date:2016-02-17|start_open:135.44|end_date:2016-08-15|end_close:161.54|stock_return:0.192705
+timeframe:6mo|sector:Transportation|symbol:ATSG|start_date:2016-02-17|start_open:11.41|end_date:2016-08-15|end_close:14.59|stock_return:0.278703
+timeframe:6mo|sector:Transportation|symbol:AVH|start_date:2016-02-17|start_open:4.22|end_date:2016-08-15|end_close:6.52|stock_return:0.545024
+timeframe:6mo|sector:Transportation|symbol:BCO|start_date:2016-02-17|start_open:29.36|end_date:2016-08-15|end_close:37.10|stock_return:0.263624
+timeframe:6mo|sector:Transportation|symbol:BRS|start_date:2016-02-17|start_open:14.34|end_date:2016-08-15|end_close:12.41|stock_return:-0.134589
+timeframe:6mo|sector:Transportation|symbol:CEA|start_date:2016-02-17|start_open:23.78|end_date:2016-08-15|end_close:29.72|stock_return:0.249790
+timeframe:6mo|sector:Transportation|symbol:CGI|start_date:2016-02-17|start_open:9.55|end_date:2016-08-15|end_close:7.02|stock_return:-0.264921
+timeframe:6mo|sector:Transportation|symbol:CHRW|start_date:2016-02-17|start_open:71.24|end_date:2016-08-15|end_close:69.23|stock_return:-0.028214
+timeframe:6mo|sector:Transportation|symbol:CKH|start_date:2016-02-17|start_open:42.98|end_date:2016-08-15|end_close:55.52|stock_return:0.291764
+timeframe:6mo|sector:Transportation|symbol:CMRE|start_date:2016-02-17|start_open:7.03|end_date:2016-08-15|end_close:9.25|stock_return:0.315789
+timeframe:6mo|sector:Transportation|symbol:CNI|start_date:2016-02-17|start_open:55.93|end_date:2016-08-15|end_close:63.36|stock_return:0.132845
+timeframe:6mo|sector:Transportation|symbol:CP|start_date:2016-02-17|start_open:126.50|end_date:2016-08-15|end_close:148.92|stock_return:0.177233
+timeframe:6mo|sector:Transportation|symbol:CPA|start_date:2016-02-17|start_open:55.61|end_date:2016-08-15|end_close:82.75|stock_return:0.488042
+timeframe:6mo|sector:Transportation|symbol:CPLP|start_date:2016-02-17|start_open:3.77|end_date:2016-08-15|end_close:3.50|stock_return:-0.071618
+timeframe:6mo|sector:Transportation|symbol:CSX|start_date:2016-02-17|start_open:24.37|end_date:2016-08-15|end_close:28.01|stock_return:0.149364
+timeframe:6mo|sector:Transportation|symbol:CVTI|start_date:2016-02-17|start_open:22.39|end_date:2016-08-15|end_close:20.22|stock_return:-0.096918
+timeframe:6mo|sector:Transportation|symbol:DAC|start_date:2016-02-17|start_open:4.96|end_date:2016-08-15|end_close:3.91|stock_return:-0.211694
+timeframe:6mo|sector:Transportation|symbol:DAL|start_date:2016-02-17|start_open:44.98|end_date:2016-08-15|end_close:36.92|stock_return:-0.179191
+timeframe:6mo|sector:Transportation|symbol:DCIX|start_date:2016-02-17|start_open:0.38|end_date:2016-08-15|end_close:3.96|stock_return:9.421053
+timeframe:6mo|sector:Transportation|symbol:DHT|start_date:2016-02-17|start_open:5.75|end_date:2016-08-15|end_close:5.35|stock_return:-0.069565
+timeframe:6mo|sector:Transportation|symbol:DRYS|start_date:2016-02-17|start_open:0.13|end_date:2016-08-15|end_close:1.05|stock_return:7.076923
+timeframe:6mo|sector:Transportation|symbol:DSX|start_date:2016-02-17|start_open:2.46|end_date:2016-08-15|end_close:2.61|stock_return:0.060976
+timeframe:6mo|sector:Transportation|symbol:DSXN|start_date:2016-02-17|start_open:17.25|end_date:2016-08-15|end_close:22.11|stock_return:0.281739
+timeframe:6mo|sector:Transportation|symbol:ECHO|start_date:2016-02-17|start_open:24.98|end_date:2016-08-15|end_close:25.75|stock_return:0.030825
+timeframe:6mo|sector:Transportation|symbol:EGLE|start_date:2016-02-17|start_open:0.57|end_date:2016-08-15|end_close:5.75|stock_return:9.087719
+timeframe:6mo|sector:Transportation|symbol:ERA|start_date:2016-02-17|start_open:8.04|end_date:2016-08-15|end_close:7.64|stock_return:-0.049751
+timeframe:6mo|sector:Transportation|symbol:ESEA|start_date:2016-02-17|start_open:1.91|end_date:2016-08-15|end_close:1.70|stock_return:-0.109948
+timeframe:6mo|sector:Transportation|symbol:EURN|start_date:2016-02-17|start_open:11.17|end_date:2016-08-15|end_close:9.16|stock_return:-0.179946
+timeframe:6mo|sector:Transportation|symbol:EXPD|start_date:2016-02-17|start_open:46.84|end_date:2016-08-15|end_close:51.14|stock_return:0.091802
+timeframe:6mo|sector:Transportation|symbol:FDX|start_date:2016-02-17|start_open:133.56|end_date:2016-08-15|end_close:166.40|stock_return:0.245882
+timeframe:6mo|sector:Transportation|symbol:FRO|start_date:2016-02-17|start_open:8.87|end_date:2016-08-15|end_close:8.46|stock_return:-0.046223
+timeframe:6mo|sector:Transportation|symbol:FWRD|start_date:2016-02-17|start_open:39.73|end_date:2016-08-15|end_close:45.93|stock_return:0.156053
+timeframe:6mo|sector:Transportation|symbol:GASS|start_date:2016-02-17|start_open:2.92|end_date:2016-08-15|end_close:3.49|stock_return:0.195205
+timeframe:6mo|sector:Transportation|symbol:GLBS|start_date:2016-02-17|start_open:0.17|end_date:2016-08-15|end_close:0.70|stock_return:3.117647
+timeframe:6mo|sector:Transportation|symbol:GNK|start_date:2016-02-17|start_open:0.50|end_date:2016-08-15|end_close:4.77|stock_return:8.540000
+timeframe:6mo|sector:Transportation|symbol:GNRT|start_date:2016-02-17|start_open:5.70|end_date:2016-08-15|end_close:5.41|stock_return:-0.050877
+timeframe:6mo|sector:Transportation|symbol:GOL|start_date:2016-02-17|start_open:0.47|end_date:2016-08-15|end_close:19.63|stock_return:40.765957
+timeframe:6mo|sector:Transportation|symbol:GSH|start_date:2016-02-17|start_open:22.73|end_date:2016-08-15|end_close:25.06|stock_return:0.102508
+timeframe:6mo|sector:Transportation|symbol:GSL|start_date:2016-02-17|start_open:1.89|end_date:2016-08-15|end_close:1.66|stock_return:-0.121693
+timeframe:6mo|sector:Transportation|symbol:GWR|start_date:2016-02-17|start_open:55.92|end_date:2016-08-15|end_close:66.00|stock_return:0.180258
+timeframe:6mo|sector:Transportation|symbol:HA|start_date:2016-02-17|start_open:37.22|end_date:2016-08-15|end_close:44.74|stock_return:0.202042
+timeframe:6mo|sector:Transportation|symbol:HTLD|start_date:2016-02-17|start_open:19.35|end_date:2016-08-15|end_close:19.00|stock_return:-0.018088
+timeframe:6mo|sector:Transportation|symbol:HUBG|start_date:2016-02-17|start_open:36.61|end_date:2016-08-15|end_close:40.72|stock_return:0.112264
+timeframe:6mo|sector:Transportation|symbol:JBHT|start_date:2016-02-17|start_open:75.87|end_date:2016-08-15|end_close:82.31|stock_return:0.084882
+timeframe:6mo|sector:Transportation|symbol:JBLU|start_date:2016-02-17|start_open:21.69|end_date:2016-08-15|end_close:17.05|stock_return:-0.213923
+timeframe:6mo|sector:Transportation|symbol:KNX|start_date:2016-02-17|start_open:25.48|end_date:2016-08-15|end_close:27.85|stock_return:0.093014
+timeframe:6mo|sector:Transportation|symbol:KSU|start_date:2016-02-17|start_open:81.17|end_date:2016-08-15|end_close:97.09|stock_return:0.196132
+timeframe:6mo|sector:Transportation|symbol:LFL|start_date:2016-02-17|start_open:6.00|end_date:2016-08-15|end_close:8.76|stock_return:0.460000
+timeframe:6mo|sector:Transportation|symbol:LPG|start_date:2016-02-17|start_open:9.63|end_date:2016-08-15|end_close:6.30|stock_return:-0.345794
+timeframe:6mo|sector:Transportation|symbol:LSTR|start_date:2016-02-17|start_open:59.89|end_date:2016-08-15|end_close:68.71|stock_return:0.147270
+timeframe:6mo|sector:Transportation|symbol:LUV|start_date:2016-02-17|start_open:37.47|end_date:2016-08-15|end_close:36.88|stock_return:-0.015746
+timeframe:6mo|sector:Transportation|symbol:MRTN|start_date:2016-02-17|start_open:17.65|end_date:2016-08-15|end_close:21.63|stock_return:0.225496
+timeframe:6mo|sector:Transportation|symbol:NAO|start_date:2016-02-17|start_open:4.16|end_date:2016-08-15|end_close:4.36|stock_return:0.048077
+timeframe:6mo|sector:Transportation|symbol:NM|start_date:2016-02-17|start_open:0.91|end_date:2016-08-15|end_close:1.06|stock_return:0.164835
+timeframe:6mo|sector:Transportation|symbol:NMM|start_date:2016-02-17|start_open:1.00|end_date:2016-08-15|end_close:1.68|stock_return:0.680000
+timeframe:6mo|sector:Transportation|symbol:NNA|start_date:2016-02-17|start_open:1.99|end_date:2016-08-15|end_close:1.61|stock_return:-0.190955
+timeframe:6mo|sector:Transportation|symbol:NSC|start_date:2016-02-17|start_open:74.35|end_date:2016-08-15|end_close:88.92|stock_return:0.195965
+timeframe:6mo|sector:Transportation|symbol:NVGS|start_date:2016-02-17|start_open:14.52|end_date:2016-08-15|end_close:8.75|stock_return:-0.397383
+timeframe:6mo|sector:Transportation|symbol:ODFL|start_date:2016-02-17|start_open:62.79|end_date:2016-08-15|end_close:69.76|stock_return:0.111005
+timeframe:6mo|sector:Transportation|symbol:OMAB|start_date:2016-02-17|start_open:36.12|end_date:2016-08-15|end_close:51.83|stock_return:0.434939
+timeframe:6mo|sector:Transportation|symbol:PAC|start_date:2016-02-17|start_open:80.52|end_date:2016-08-15|end_close:104.39|stock_return:0.296448
+timeframe:6mo|sector:Transportation|symbol:PHII|start_date:2016-02-17|start_open:16.38|end_date:2016-08-15|end_close:19.10|stock_return:0.166056
+timeframe:6mo|sector:Transportation|symbol:PHIIK|start_date:2016-02-17|start_open:16.06|end_date:2016-08-15|end_close:19.28|stock_return:0.200498
+timeframe:6mo|sector:Transportation|symbol:PTSI|start_date:2016-02-17|start_open:24.54|end_date:2016-08-15|end_close:18.56|stock_return:-0.243684
+timeframe:6mo|sector:Transportation|symbol:PWX|start_date:2016-02-17|start_open:12.76|end_date:2016-08-15|end_close:24.56|stock_return:0.924765
+timeframe:6mo|sector:Transportation|symbol:PXS|start_date:2016-02-17|start_open:0.93|end_date:2016-08-15|end_close:2.31|stock_return:1.483871
+timeframe:6mo|sector:Transportation|symbol:RRTS|start_date:2016-02-17|start_open:11.66|end_date:2016-08-15|end_close:7.70|stock_return:-0.339623
+timeframe:6mo|sector:Transportation|symbol:RYAAY|start_date:2016-02-17|start_open:80.36|end_date:2016-08-15|end_close:72.19|stock_return:-0.101667
+timeframe:6mo|sector:Transportation|symbol:SAIA|start_date:2016-02-17|start_open:27.56|end_date:2016-08-15|end_close:29.53|stock_return:0.071480
+timeframe:6mo|sector:Transportation|symbol:SALT|start_date:2016-02-17|start_open:2.31|end_date:2016-08-15|end_close:3.36|stock_return:0.454545
+timeframe:6mo|sector:Transportation|symbol:SAVE|start_date:2016-02-17|start_open:46.60|end_date:2016-08-15|end_close:40.27|stock_return:-0.135837
+timeframe:6mo|sector:Transportation|symbol:SB|start_date:2016-02-17|start_open:0.69|end_date:2016-08-15|end_close:1.27|stock_return:0.840580
+timeframe:6mo|sector:Transportation|symbol:SBLK|start_date:2016-02-17|start_open:0.41|end_date:2016-08-15|end_close:4.00|stock_return:8.756098
+timeframe:6mo|sector:Transportation|symbol:SBLKL|start_date:2016-02-17|start_open:9.28|end_date:2016-08-15|end_close:18.70|stock_return:1.015086
+timeframe:6mo|sector:Transportation|symbol:SBNA|start_date:2016-02-17|start_open:20.51|end_date:2016-08-15|end_close:24.21|stock_return:0.180400
+timeframe:6mo|sector:Transportation|symbol:SFL|start_date:2016-02-17|start_open:12.08|end_date:2016-08-15|end_close:15.57|stock_return:0.288907
+timeframe:6mo|sector:Transportation|symbol:SHIP|start_date:2016-02-17|start_open:3.01|end_date:2016-08-15|end_close:3.79|stock_return:0.259136
+timeframe:6mo|sector:Transportation|symbol:SINO|start_date:2016-02-17|start_open:0.45|end_date:2016-08-15|end_close:1.84|stock_return:3.088889
+timeframe:6mo|sector:Transportation|symbol:SKYW|start_date:2016-02-17|start_open:15.80|end_date:2016-08-15|end_close:28.24|stock_return:0.787342
+timeframe:6mo|sector:Transportation|symbol:SLTB|start_date:2016-02-17|start_open:9.30|end_date:2016-08-15|end_close:20.00|stock_return:1.150538
+timeframe:6mo|sector:Transportation|symbol:SSW|start_date:2016-02-17|start_open:16.43|end_date:2016-08-15|end_close:15.06|stock_return:-0.083384
+timeframe:6mo|sector:Transportation|symbol:SSWN|start_date:2016-02-17|start_open:23.90|end_date:2016-08-15|end_close:25.29|stock_return:0.058159
+timeframe:6mo|sector:Transportation|symbol:STB|start_date:2016-02-17|start_open:4.04|end_date:2016-08-15|end_close:5.35|stock_return:0.324257
+timeframe:6mo|sector:Transportation|symbol:STNG|start_date:2016-02-17|start_open:5.56|end_date:2016-08-15|end_close:5.31|stock_return:-0.044964
+timeframe:6mo|sector:Transportation|symbol:SWFT|start_date:2016-02-17|start_open:17.47|end_date:2016-08-15|end_close:18.57|stock_return:0.062965
+timeframe:6mo|sector:Transportation|symbol:TK|start_date:2016-02-17|start_open:6.55|end_date:2016-08-15|end_close:6.84|stock_return:0.044275
+timeframe:6mo|sector:Transportation|symbol:TNP|start_date:2016-02-17|start_open:5.38|end_date:2016-08-15|end_close:5.09|stock_return:-0.053903
+timeframe:6mo|sector:Transportation|symbol:TOPS|start_date:2016-02-17|start_open:0.24|end_date:2016-08-15|end_close:4.83|stock_return:19.125000
+timeframe:6mo|sector:Transportation|symbol:UAL|start_date:2016-02-17|start_open:49.42|end_date:2016-08-15|end_close:48.01|stock_return:-0.028531
+timeframe:6mo|sector:Transportation|symbol:ULH|start_date:2016-02-17|start_open:14.70|end_date:2016-08-15|end_close:13.67|stock_return:-0.070068
+timeframe:6mo|sector:Transportation|symbol:ULTR|start_date:2016-02-17|start_open:0.08|end_date:2016-08-15|end_close:0.35|stock_return:3.375000
+timeframe:6mo|sector:Transportation|symbol:UNP|start_date:2016-02-17|start_open:78.72|end_date:2016-08-15|end_close:92.50|stock_return:0.175051
+timeframe:6mo|sector:Transportation|symbol:UPS|start_date:2016-02-17|start_open:98.81|end_date:2016-08-15|end_close:109.85|stock_return:0.111730
+timeframe:6mo|sector:Transportation|symbol:USAK|start_date:2016-02-17|start_open:16.24|end_date:2016-08-15|end_close:12.31|stock_return:-0.241995
+timeframe:6mo|sector:Transportation|symbol:USDP|start_date:2016-02-17|start_open:6.14|end_date:2016-08-15|end_close:12.22|stock_return:0.990228
+timeframe:6mo|sector:Transportation|symbol:VA|start_date:2016-02-17|start_open:29.57|end_date:2016-08-15|end_close:55.98|stock_return:0.893135
+timeframe:6mo|sector:Transportation|symbol:VLRS|start_date:2016-02-17|start_open:18.34|end_date:2016-08-15|end_close:18.78|stock_return:0.023991
+timeframe:6mo|sector:Transportation|symbol:WERN|start_date:2016-02-17|start_open:26.96|end_date:2016-08-15|end_close:23.05|stock_return:-0.145030
+timeframe:6mo|sector:Transportation|symbol:YRCW|start_date:2016-02-17|start_open:7.98|end_date:2016-08-15|end_close:11.48|stock_return:0.438596
+timeframe:6mo|sector:Transportation|symbol:ZNH|start_date:2016-02-17|start_open:29.65|end_date:2016-08-15|end_close:36.29|stock_return:0.223946
