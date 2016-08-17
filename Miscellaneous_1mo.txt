@@ -24,7 +24,6 @@ timeframe:1mo|sector:Miscellaneous|symbol:CLCT|start_date:2016-07-15|start_open:
 timeframe:1mo|sector:Miscellaneous|symbol:CMPR|start_date:2016-07-15|start_open:98.16|end_date:2016-08-15|end_close:97.73|stock_return:-0.004381
 timeframe:1mo|sector:Miscellaneous|symbol:COTV|start_date:2016-07-15|start_open:22.88|end_date:2016-08-15|end_close:30.59|stock_return:0.336976
 timeframe:1mo|sector:Miscellaneous|symbol:CRAI|start_date:2016-07-15|start_open:26.27|end_date:2016-08-15|end_close:26.36|stock_return:0.003426
-timeframe:1mo|sector:Miscellaneous|symbol:CREG|start_date:2016-07-15|start_open:2.25|end_date:2016-08-15|end_close:1.98|stock_return:-0.120000
 timeframe:1mo|sector:Miscellaneous|symbol:CSGP|start_date:2016-07-15|start_open:220.30|end_date:2016-08-15|end_close:209.05|stock_return:-0.051067
 timeframe:1mo|sector:Miscellaneous|symbol:CTRP|start_date:2016-07-15|start_open:43.25|end_date:2016-08-15|end_close:46.98|stock_return:0.086243
 timeframe:1mo|sector:Miscellaneous|symbol:DBD|start_date:2016-07-15|start_open:25.86|end_date:2016-08-15|end_close:28.40|stock_return:0.098221

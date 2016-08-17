@@ -175,7 +175,6 @@ timeframe:1mo|sector:Health Care|symbol:CHMA|start_date:2016-07-15|start_open:2.
 timeframe:1mo|sector:Health Care|symbol:CHRS|start_date:2016-07-15|start_open:22.33|end_date:2016-08-15|end_close:30.10|stock_return:0.347962
 timeframe:1mo|sector:Health Care|symbol:CI|start_date:2016-07-15|start_open:130.47|end_date:2016-08-15|end_close:132.63|stock_return:0.016556
 timeframe:1mo|sector:Health Care|symbol:CIVI|start_date:2016-07-15|start_open:22.50|end_date:2016-08-15|end_close:18.30|stock_return:-0.186667
-timeframe:1mo|sector:Health Care|symbol:CLBS|start_date:2016-07-15|start_open:0.59|end_date:2016-08-15|end_close:6.01|stock_return:9.186441
 timeframe:1mo|sector:Health Care|symbol:CLCD|start_date:2016-07-15|start_open:9.19|end_date:2016-08-15|end_close:8.77|stock_return:-0.045702
 timeframe:1mo|sector:Health Care|symbol:CLDX|start_date:2016-07-15|start_open:4.49|end_date:2016-08-15|end_close:4.46|stock_return:-0.006682
 timeframe:1mo|sector:Health Care|symbol:CLLS|start_date:2016-07-15|start_open:25.77|end_date:2016-08-15|end_close:28.23|stock_return:0.095460
@@ -215,16 +214,13 @@ timeframe:1mo|sector:Health Care|symbol:CUTR|start_date:2016-07-15|start_open:10
 timeframe:1mo|sector:Health Care|symbol:CVS|start_date:2016-07-15|start_open:97.95|end_date:2016-08-15|end_close:97.58|stock_return:-0.003777
 timeframe:1mo|sector:Health Care|symbol:CXRX|start_date:2016-07-15|start_open:21.04|end_date:2016-08-15|end_close:9.37|stock_return:-0.554658
 timeframe:1mo|sector:Health Care|symbol:CYAD|start_date:2016-07-15|start_open:26.16|end_date:2016-08-15|end_close:25.10|stock_return:-0.040520
-timeframe:1mo|sector:Health Care|symbol:CYCC|start_date:2016-07-15|start_open:5.05|end_date:2016-08-15|end_close:5.73|stock_return:0.134653
 timeframe:1mo|sector:Health Care|symbol:CYH|start_date:2016-07-15|start_open:12.92|end_date:2016-08-15|end_close:11.03|stock_return:-0.146285
 timeframe:1mo|sector:Health Care|symbol:CYHHZ|start_date:2016-07-15|start_open:0.00|end_date:2016-08-15|end_close:0.01|stock_return:
 timeframe:1mo|sector:Health Care|symbol:CYNA|start_date:2016-07-15|start_open:16.03|end_date:2016-08-15|end_close:18.51|stock_return:0.154710
 timeframe:1mo|sector:Health Care|symbol:CYNO|start_date:2016-07-15|start_open:51.74|end_date:2016-08-15|end_close:53.42|stock_return:0.032470
 timeframe:1mo|sector:Health Care|symbol:CYTK|start_date:2016-07-15|start_open:9.77|end_date:2016-08-15|end_close:12.15|stock_return:0.243603
 timeframe:1mo|sector:Health Care|symbol:CYTR|start_date:2016-07-15|start_open:0.64|end_date:2016-08-15|end_close:0.58|stock_return:-0.093750
-timeframe:1mo|sector:Health Care|symbol:CYTX|start_date:2016-07-15|start_open:1.95|end_date:2016-08-15|end_close:2.12|stock_return:0.087179
 timeframe:1mo|sector:Health Care|symbol:DBVT|start_date:2016-07-15|start_open:33.20|end_date:2016-08-15|end_close:33.83|stock_return:0.018976
-timeframe:1mo|sector:Health Care|symbol:DCTH|start_date:2016-07-15|start_open:0.27|end_date:2016-08-15|end_close:3.93|stock_return:13.555556
 timeframe:1mo|sector:Health Care|symbol:DEPO|start_date:2016-07-15|start_open:19.01|end_date:2016-08-15|end_close:21.45|stock_return:0.128353
 timeframe:1mo|sector:Health Care|symbol:DERM|start_date:2016-07-15|start_open:30.14|end_date:2016-08-15|end_close:31.59|stock_return:0.048109
 timeframe:1mo|sector:Health Care|symbol:DGX|start_date:2016-07-15|start_open:83.81|end_date:2016-08-15|end_close:85.68|stock_return:0.022312
@@ -251,7 +247,6 @@ timeframe:1mo|sector:Health Care|symbol:EDGE|start_date:2016-07-15|start_open:10
 timeframe:1mo|sector:Health Care|symbol:EDIT|start_date:2016-07-15|start_open:24.85|end_date:2016-08-15|end_close:20.36|stock_return:-0.180684
 timeframe:1mo|sector:Health Care|symbol:EGLT|start_date:2016-07-15|start_open:6.18|end_date:2016-08-15|end_close:8.23|stock_return:0.331715
 timeframe:1mo|sector:Health Care|symbol:EGRX|start_date:2016-07-15|start_open:47.21|end_date:2016-08-15|end_close:60.66|stock_return:0.284897
-timeframe:1mo|sector:Health Care|symbol:EIGR|start_date:2016-07-15|start_open:19.25|end_date:2016-08-15|end_close:17.91|stock_return:-0.069610
 timeframe:1mo|sector:Health Care|symbol:ELGX|start_date:2016-07-15|start_open:14.08|end_date:2016-08-15|end_close:11.76|stock_return:-0.164773
 timeframe:1mo|sector:Health Care|symbol:ELOS|start_date:2016-07-15|start_open:7.55|end_date:2016-08-15|end_close:7.04|stock_return:-0.067550
 timeframe:1mo|sector:Health Care|symbol:ENDP|start_date:2016-07-15|start_open:17.76|end_date:2016-08-15|end_close:23.23|stock_return:0.307995
@@ -475,7 +470,6 @@ timeframe:1mo|sector:Health Care|symbol:NWBO|start_date:2016-07-15|start_open:0.
 timeframe:1mo|sector:Health Care|symbol:NXTM|start_date:2016-07-15|start_open:22.12|end_date:2016-08-15|end_close:25.06|stock_return:0.132911
 timeframe:1mo|sector:Health Care|symbol:NYMX|start_date:2016-07-15|start_open:3.20|end_date:2016-08-15|end_close:2.13|stock_return:-0.334375
 timeframe:1mo|sector:Health Care|symbol:OASM|start_date:2016-07-15|start_open:3.25|end_date:2016-08-15|end_close:3.29|stock_return:0.012308
-timeframe:1mo|sector:Health Care|symbol:OCLS|start_date:2016-07-15|start_open:4.25|end_date:2016-08-15|end_close:3.79|stock_return:-0.108235
 timeframe:1mo|sector:Health Care|symbol:OCLSW|start_date:2016-07-15|start_open:0.24|end_date:2016-08-15|end_close:0.23|stock_return:-0.041667
 timeframe:1mo|sector:Health Care|symbol:OCRX|start_date:2016-07-15|start_open:2.81|end_date:2016-08-15|end_close:2.46|stock_return:-0.124555
 timeframe:1mo|sector:Health Care|symbol:OCUL|start_date:2016-07-15|start_open:4.90|end_date:2016-08-15|end_close:8.21|stock_return:0.675510
@@ -487,13 +481,11 @@ timeframe:1mo|sector:Health Care|symbol:OMER|start_date:2016-07-15|start_open:11
 timeframe:1mo|sector:Health Care|symbol:OMI|start_date:2016-07-15|start_open:36.15|end_date:2016-08-15|end_close:34.00|stock_return:-0.059474
 timeframe:1mo|sector:Health Care|symbol:ONCE|start_date:2016-07-15|start_open:52.90|end_date:2016-08-15|end_close:63.87|stock_return:0.207372
 timeframe:1mo|sector:Health Care|symbol:ONCS|start_date:2016-07-15|start_open:1.65|end_date:2016-08-15|end_close:1.75|stock_return:0.060606
-timeframe:1mo|sector:Health Care|symbol:ONTX|start_date:2016-07-15|start_open:4.80|end_date:2016-08-15|end_close:3.70|stock_return:-0.229167
 timeframe:1mo|sector:Health Care|symbol:OPGN|start_date:2016-07-15|start_open:1.37|end_date:2016-08-15|end_close:1.97|stock_return:0.437956
 timeframe:1mo|sector:Health Care|symbol:OPHT|start_date:2016-07-15|start_open:55.87|end_date:2016-08-15|end_close:53.61|stock_return:-0.040451
 timeframe:1mo|sector:Health Care|symbol:OPK|start_date:2016-07-15|start_open:9.82|end_date:2016-08-15|end_close:10.08|stock_return:0.026477
 timeframe:1mo|sector:Health Care|symbol:OPXA|start_date:2016-07-15|start_open:4.29|end_date:2016-08-15|end_close:4.18|stock_return:-0.025641
 timeframe:1mo|sector:Health Care|symbol:OPXAW|start_date:2016-07-15|start_open:0.08|end_date:2016-08-15|end_close:0.12|stock_return:0.500000
-timeframe:1mo|sector:Health Care|symbol:OREX|start_date:2016-07-15|start_open:3.87|end_date:2016-08-15|end_close:4.34|stock_return:0.121447
 timeframe:1mo|sector:Health Care|symbol:ORMP|start_date:2016-07-15|start_open:8.14|end_date:2016-08-15|end_close:7.63|stock_return:-0.062654
 timeframe:1mo|sector:Health Care|symbol:ORPN|start_date:2016-07-15|start_open:1.62|end_date:2016-08-15|end_close:1.77|stock_return:0.092593
 timeframe:1mo|sector:Health Care|symbol:OSIR|start_date:2016-07-15|start_open:5.01|end_date:2016-08-15|end_close:5.40|stock_return:0.077844
@@ -573,7 +565,6 @@ timeframe:1mo|sector:Health Care|symbol:RTTR|start_date:2016-07-15|start_open:1.
 timeframe:1mo|sector:Health Care|symbol:RVNC|start_date:2016-07-15|start_open:13.88|end_date:2016-08-15|end_close:15.00|stock_return:0.080692
 timeframe:1mo|sector:Health Care|symbol:RWLK|start_date:2016-07-15|start_open:7.09|end_date:2016-08-15|end_close:6.40|stock_return:-0.097320
 timeframe:1mo|sector:Health Care|symbol:RXDX|start_date:2016-07-15|start_open:5.65|end_date:2016-08-15|end_close:5.65|stock_return:0.000000
-timeframe:1mo|sector:Health Care|symbol:RXII|start_date:2016-07-15|start_open:2.35|end_date:2016-08-15|end_close:2.37|stock_return:0.008511
 timeframe:1mo|sector:Health Care|symbol:SAGE|start_date:2016-07-15|start_open:42.50|end_date:2016-08-15|end_close:36.95|stock_return:-0.130588
 timeframe:1mo|sector:Health Care|symbol:SBBP|start_date:2016-07-15|start_open:4.15|end_date:2016-08-15|end_close:4.34|stock_return:0.045783
 timeframe:1mo|sector:Health Care|symbol:SBOT|start_date:2016-07-15|start_open:3.17|end_date:2016-08-15|end_close:2.80|stock_return:-0.116719
@@ -612,7 +603,6 @@ timeframe:1mo|sector:Health Care|symbol:SSKN|start_date:2016-07-15|start_open:0.
 timeframe:1mo|sector:Health Care|symbol:STAA|start_date:2016-07-15|start_open:6.37|end_date:2016-08-15|end_close:9.14|stock_return:0.434851
 timeframe:1mo|sector:Health Care|symbol:STDY|start_date:2016-07-15|start_open:3.30|end_date:2016-08-15|end_close:3.24|stock_return:-0.018182
 timeframe:1mo|sector:Health Care|symbol:STE|start_date:2016-07-15|start_open:69.32|end_date:2016-08-15|end_close:71.69|stock_return:0.034189
-timeframe:1mo|sector:Health Care|symbol:STEM|start_date:2016-07-15|start_open:0.37|end_date:2016-08-15|end_close:0.37|stock_return:0.000000
 timeframe:1mo|sector:Health Care|symbol:STJ|start_date:2016-07-15|start_open:80.94|end_date:2016-08-15|end_close:83.64|stock_return:0.033358
 timeframe:1mo|sector:Health Care|symbol:STML|start_date:2016-07-15|start_open:7.16|end_date:2016-08-15|end_close:7.33|stock_return:0.023743
 timeframe:1mo|sector:Health Care|symbol:SUPN|start_date:2016-07-15|start_open:22.02|end_date:2016-08-15|end_close:22.70|stock_return:0.030881
@@ -649,7 +639,6 @@ timeframe:1mo|sector:Health Care|symbol:TTPH|start_date:2016-07-15|start_open:4.
 timeframe:1mo|sector:Health Care|symbol:UAM|start_date:2016-07-15|start_open:7.90|end_date:2016-08-15|end_close:7.27|stock_return:-0.079747
 timeframe:1mo|sector:Health Care|symbol:UHS|start_date:2016-07-15|start_open:135.31|end_date:2016-08-15|end_close:126.31|stock_return:-0.066514
 timeframe:1mo|sector:Health Care|symbol:UNH|start_date:2016-07-15|start_open:141.65|end_date:2016-08-15|end_close:141.62|stock_return:-0.000212
-timeframe:1mo|sector:Health Care|symbol:UNIS|start_date:2016-07-15|start_open:3.85|end_date:2016-08-15|end_close:3.09|stock_return:-0.197403
 timeframe:1mo|sector:Health Care|symbol:USMD|start_date:2016-07-15|start_open:18.23|end_date:2016-08-15|end_close:19.99|stock_return:0.096544
 timeframe:1mo|sector:Health Care|symbol:USPH|start_date:2016-07-15|start_open:60.99|end_date:2016-08-15|end_close:61.26|stock_return:0.004427
 timeframe:1mo|sector:Health Care|symbol:UTHR|start_date:2016-07-15|start_open:111.00|end_date:2016-08-15|end_close:126.58|stock_return:0.140360
@@ -660,7 +649,6 @@ timeframe:1mo|sector:Health Care|symbol:VBIV|start_date:2016-07-15|start_open:3.
 timeframe:1mo|sector:Health Care|symbol:VBLT|start_date:2016-07-15|start_open:3.85|end_date:2016-08-15|end_close:4.06|stock_return:0.054545
 timeframe:1mo|sector:Health Care|symbol:VCEL|start_date:2016-07-15|start_open:2.07|end_date:2016-08-15|end_close:2.16|stock_return:0.043478
 timeframe:1mo|sector:Health Care|symbol:VCYT|start_date:2016-07-15|start_open:5.15|end_date:2016-08-15|end_close:5.11|stock_return:-0.007767
-timeframe:1mo|sector:Health Care|symbol:VICL|start_date:2016-07-15|start_open:4.45|end_date:2016-08-15|end_close:4.40|stock_return:-0.011236
 timeframe:1mo|sector:Health Care|symbol:VIVO|start_date:2016-07-15|start_open:20.50|end_date:2016-08-15|end_close:19.30|stock_return:-0.058537
 timeframe:1mo|sector:Health Care|symbol:VKTX|start_date:2016-07-15|start_open:1.28|end_date:2016-08-15|end_close:1.27|stock_return:-0.007813
 timeframe:1mo|sector:Health Care|symbol:VKTXW|start_date:2016-07-15|start_open:0.38|end_date:2016-08-15|end_close:0.50|stock_return:0.315789

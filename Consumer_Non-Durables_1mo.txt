@@ -35,7 +35,6 @@ timeframe:1mo|sector:Consumer Non-Durables|symbol:CL|start_date:2016-07-15|start
 timeframe:1mo|sector:Consumer Non-Durables|symbol:COH|start_date:2016-07-15|start_open:42.34|end_date:2016-08-15|end_close:39.72|stock_return:-0.061880
 timeframe:1mo|sector:Consumer Non-Durables|symbol:COKE|start_date:2016-07-15|start_open:146.38|end_date:2016-08-15|end_close:158.00|stock_return:0.079382
 timeframe:1mo|sector:Consumer Non-Durables|symbol:COLM|start_date:2016-07-15|start_open:61.89|end_date:2016-08-15|end_close:56.31|stock_return:-0.090160
-timeframe:1mo|sector:Consumer Non-Durables|symbol:CORE|start_date:2016-07-15|start_open:49.09|end_date:2016-08-15|end_close:43.63|stock_return:-0.111224
 timeframe:1mo|sector:Consumer Non-Durables|symbol:COT|start_date:2016-07-15|start_open:14.61|end_date:2016-08-15|end_close:17.05|stock_return:0.167009
 timeframe:1mo|sector:Consumer Non-Durables|symbol:COTY|start_date:2016-07-15|start_open:27.31|end_date:2016-08-15|end_close:29.75|stock_return:0.089345
 timeframe:1mo|sector:Consumer Non-Durables|symbol:CPB|start_date:2016-07-15|start_open:66.64|end_date:2016-08-15|end_close:60.61|stock_return:-0.090486
@@ -182,7 +181,6 @@ timeframe:1mo|sector:Consumer Non-Durables|symbol:THO|start_date:2016-07-15|star
 timeframe:1mo|sector:Consumer Non-Durables|symbol:THS|start_date:2016-07-15|start_open:102.60|end_date:2016-08-15|end_close:97.81|stock_return:-0.046686
 timeframe:1mo|sector:Consumer Non-Durables|symbol:TLF|start_date:2016-07-15|start_open:7.38|end_date:2016-08-15|end_close:7.35|stock_return:-0.004065
 timeframe:1mo|sector:Consumer Non-Durables|symbol:TPB|start_date:2016-07-15|start_open:10.54|end_date:2016-08-15|end_close:12.81|stock_return:0.215370
-timeframe:1mo|sector:Consumer Non-Durables|symbol:TR|start_date:2016-07-15|start_open:38.09|end_date:2016-08-15|end_close:37.22|stock_return:-0.022841
 timeframe:1mo|sector:Consumer Non-Durables|symbol:TSN|start_date:2016-07-15|start_open:70.00|end_date:2016-08-15|end_close:75.09|stock_return:0.072714
 timeframe:1mo|sector:Consumer Non-Durables|symbol:TSNU|start_date:2016-07-15|start_open:76.63|end_date:2016-08-15|end_close:82.47|stock_return:0.076210
 timeframe:1mo|sector:Consumer Non-Durables|symbol:TUP|start_date:2016-07-15|start_open:59.46|end_date:2016-08-15|end_close:65.44|stock_return:0.100572

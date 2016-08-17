@@ -24,13 +24,10 @@ timeframe:1mo|sector:Transportation|symbol:CSX|start_date:2016-07-15|start_open:
 timeframe:1mo|sector:Transportation|symbol:CVTI|start_date:2016-07-15|start_open:20.99|end_date:2016-08-15|end_close:20.22|stock_return:-0.036684
 timeframe:1mo|sector:Transportation|symbol:DAC|start_date:2016-07-15|start_open:4.10|end_date:2016-08-15|end_close:3.91|stock_return:-0.046341
 timeframe:1mo|sector:Transportation|symbol:DAL|start_date:2016-07-15|start_open:40.46|end_date:2016-08-15|end_close:36.92|stock_return:-0.087494
-timeframe:1mo|sector:Transportation|symbol:DCIX|start_date:2016-07-15|start_open:3.94|end_date:2016-08-15|end_close:3.96|stock_return:0.005076
 timeframe:1mo|sector:Transportation|symbol:DHT|start_date:2016-07-15|start_open:4.90|end_date:2016-08-15|end_close:5.35|stock_return:0.091837
-timeframe:1mo|sector:Transportation|symbol:DRYS|start_date:2016-07-15|start_open:0.45|end_date:2016-08-15|end_close:1.05|stock_return:1.333333
 timeframe:1mo|sector:Transportation|symbol:DSX|start_date:2016-07-15|start_open:3.12|end_date:2016-08-15|end_close:2.61|stock_return:-0.163462
 timeframe:1mo|sector:Transportation|symbol:DSXN|start_date:2016-07-15|start_open:22.56|end_date:2016-08-15|end_close:22.11|stock_return:-0.019947
 timeframe:1mo|sector:Transportation|symbol:ECHO|start_date:2016-07-15|start_open:24.04|end_date:2016-08-15|end_close:25.75|stock_return:0.071131
-timeframe:1mo|sector:Transportation|symbol:EGLE|start_date:2016-07-15|start_open:0.37|end_date:2016-08-15|end_close:5.75|stock_return:14.540541
 timeframe:1mo|sector:Transportation|symbol:ERA|start_date:2016-07-15|start_open:10.18|end_date:2016-08-15|end_close:7.64|stock_return:-0.249509
 timeframe:1mo|sector:Transportation|symbol:ESEA|start_date:2016-07-15|start_open:1.80|end_date:2016-08-15|end_close:1.70|stock_return:-0.055556
 timeframe:1mo|sector:Transportation|symbol:EURN|start_date:2016-07-15|start_open:8.80|end_date:2016-08-15|end_close:9.16|stock_return:0.040909
@@ -40,9 +37,7 @@ timeframe:1mo|sector:Transportation|symbol:FRO|start_date:2016-07-15|start_open:
 timeframe:1mo|sector:Transportation|symbol:FWRD|start_date:2016-07-15|start_open:45.84|end_date:2016-08-15|end_close:45.93|stock_return:0.001963
 timeframe:1mo|sector:Transportation|symbol:GASS|start_date:2016-07-15|start_open:3.44|end_date:2016-08-15|end_close:3.49|stock_return:0.014535
 timeframe:1mo|sector:Transportation|symbol:GLBS|start_date:2016-07-15|start_open:0.41|end_date:2016-08-15|end_close:0.70|stock_return:0.707317
-timeframe:1mo|sector:Transportation|symbol:GNK|start_date:2016-07-15|start_open:6.62|end_date:2016-08-15|end_close:4.77|stock_return:-0.279456
 timeframe:1mo|sector:Transportation|symbol:GNRT|start_date:2016-07-15|start_open:5.64|end_date:2016-08-15|end_close:5.41|stock_return:-0.040780
-timeframe:1mo|sector:Transportation|symbol:GOL|start_date:2016-07-15|start_open:13.81|end_date:2016-08-15|end_close:19.63|stock_return:0.421434
 timeframe:1mo|sector:Transportation|symbol:GSH|start_date:2016-07-15|start_open:23.51|end_date:2016-08-15|end_close:25.06|stock_return:0.065929
 timeframe:1mo|sector:Transportation|symbol:GSL|start_date:2016-07-15|start_open:1.37|end_date:2016-08-15|end_close:1.66|stock_return:0.211679
 timeframe:1mo|sector:Transportation|symbol:GWR|start_date:2016-07-15|start_open:65.16|end_date:2016-08-15|end_close:66.00|stock_return:0.012891
@@ -79,7 +74,6 @@ timeframe:1mo|sector:Transportation|symbol:SAIA|start_date:2016-07-15|start_open
 timeframe:1mo|sector:Transportation|symbol:SALT|start_date:2016-07-15|start_open:3.13|end_date:2016-08-15|end_close:3.36|stock_return:0.073482
 timeframe:1mo|sector:Transportation|symbol:SAVE|start_date:2016-07-15|start_open:47.23|end_date:2016-08-15|end_close:40.27|stock_return:-0.147364
 timeframe:1mo|sector:Transportation|symbol:SB|start_date:2016-07-15|start_open:1.30|end_date:2016-08-15|end_close:1.27|stock_return:-0.023077
-timeframe:1mo|sector:Transportation|symbol:SBLK|start_date:2016-07-15|start_open:3.75|end_date:2016-08-15|end_close:4.00|stock_return:0.066667
 timeframe:1mo|sector:Transportation|symbol:SBLKL|start_date:2016-07-15|start_open:17.23|end_date:2016-08-15|end_close:18.70|stock_return:0.085316
 timeframe:1mo|sector:Transportation|symbol:SBNA|start_date:2016-07-15|start_open:23.68|end_date:2016-08-15|end_close:24.21|stock_return:0.022382
 timeframe:1mo|sector:Transportation|symbol:SFL|start_date:2016-07-15|start_open:14.91|end_date:2016-08-15|end_close:15.57|stock_return:0.044266
