@@ -32,6 +32,7 @@ timeframe:6mo|sector:Technology|symbol:ATHM|start_date:2016-02-25|start_open:24.
 timeframe:6mo|sector:Technology|symbol:ATU|start_date:2016-02-25|start_open:22.64|end_date:2016-08-23|end_close:24.55|stock_return:0.084364
 timeframe:6mo|sector:Technology|symbol:ATVI|start_date:2016-02-25|start_open:31.98|end_date:2016-08-23|end_close:40.64|stock_return:0.270794
 timeframe:6mo|sector:Technology|symbol:AVGO|start_date:2016-02-25|start_open:130.78|end_date:2016-08-23|end_close:177.34|stock_return:0.356018
+timeframe:6mo|sector:Technology|symbol:AVID|start_date:2016-02-25|start_open:7.28|end_date:2016-08-23|end_close:9.66|stock_return:0.326923
 timeframe:6mo|sector:Technology|symbol:AXTI|start_date:2016-02-25|start_open:2.75|end_date:2016-08-23|end_close:4.35|stock_return:0.581818
 timeframe:6mo|sector:Technology|symbol:AYA|start_date:2016-02-25|start_open:14.20|end_date:2016-08-23|end_close:15.59|stock_return:0.097887
 timeframe:6mo|sector:Technology|symbol:AZPN|start_date:2016-02-25|start_open:32.72|end_date:2016-08-23|end_close:45.40|stock_return:0.387531

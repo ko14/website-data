@@ -131,6 +131,7 @@ timeframe:1mo|sector:Consumer Services|symbol:FRGI|start_date:2016-07-22|start_o
 timeframe:1mo|sector:Consumer Services|symbol:FRSH|start_date:2016-07-22|start_open:7.16|end_date:2016-08-23|end_close:6.06|stock_return:-0.153631
 timeframe:1mo|sector:Consumer Services|symbol:FTD|start_date:2016-07-22|start_open:25.44|end_date:2016-08-23|end_close:24.25|stock_return:-0.046777
 timeframe:1mo|sector:Consumer Services|symbol:FUN|start_date:2016-07-22|start_open:61.32|end_date:2016-08-23|end_close:58.49|stock_return:-0.046151
+timeframe:1mo|sector:Consumer Services|symbol:FUND|start_date:2016-07-22|start_open:6.74|end_date:2016-08-23|end_close:7.14|stock_return:0.059347
 timeframe:1mo|sector:Consumer Services|symbol:GAIA|start_date:2016-07-22|start_open:7.91|end_date:2016-08-23|end_close:7.97|stock_return:0.007585
 timeframe:1mo|sector:Consumer Services|symbol:GEO|start_date:2016-07-22|start_open:34.49|end_date:2016-08-23|end_close:23.51|stock_return:-0.318353
 timeframe:1mo|sector:Consumer Services|symbol:GFNCP|start_date:2016-07-22|start_open:91.50|end_date:2016-08-23|end_close:89.44|stock_return:-0.022514

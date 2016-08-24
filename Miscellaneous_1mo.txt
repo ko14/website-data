@@ -2,7 +2,6 @@ timeframe:1mo|sector:Miscellaneous|symbol:ACN|start_date:2016-07-22|start_open:1
 timeframe:1mo|sector:Miscellaneous|symbol:ACTG|start_date:2016-07-22|start_open:4.62|end_date:2016-08-23|end_close:6.04|stock_return:0.307359
 timeframe:1mo|sector:Miscellaneous|symbol:AKAM|start_date:2016-07-22|start_open:57.45|end_date:2016-08-23|end_close:53.60|stock_return:-0.067015
 timeframe:1mo|sector:Miscellaneous|symbol:ATHN|start_date:2016-07-22|start_open:123.00|end_date:2016-08-23|end_close:124.68|stock_return:0.013659
-timeframe:1mo|sector:Miscellaneous|symbol:AVID|start_date:2016-07-22|start_open:6.31|end_date:2016-08-23|end_close:9.66|stock_return:0.530903
 timeframe:1mo|sector:Miscellaneous|symbol:BABA|start_date:2016-07-22|start_open:84.00|end_date:2016-08-23|end_close:95.79|stock_return:0.140357
 timeframe:1mo|sector:Miscellaneous|symbol:CASS|start_date:2016-07-22|start_open:53.41|end_date:2016-08-23|end_close:56.89|stock_return:0.065156
 timeframe:1mo|sector:Miscellaneous|symbol:CATM|start_date:2016-07-22|start_open:43.11|end_date:2016-08-23|end_close:45.30|stock_return:0.050800
