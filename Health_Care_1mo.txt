@@ -227,6 +227,7 @@ timeframe:1mo|sector:Health Care|symbol:SGRY|start_date:2016-07-25|start_open:17
 timeframe:1mo|sector:Health Care|symbol:SGYP|start_date:2016-07-25|start_open:4.04|end_date:2016-08-24|end_close:4.60|stock_return:0.138614
 timeframe:1mo|sector:Health Care|symbol:SHPG|start_date:2016-07-25|start_open:193.21|end_date:2016-08-24|end_close:193.85|stock_return:0.003312
 timeframe:1mo|sector:Health Care|symbol:SIEN|start_date:2016-07-25|start_open:7.09|end_date:2016-08-24|end_close:7.85|stock_return:0.107193
+timeframe:1mo|sector:Health Care|symbol:SMLR|start_date:2016-07-25|start_open:1.79|end_date:2016-08-24|end_close:1.95|stock_return:0.089385
 timeframe:1mo|sector:Health Care|symbol:SNDX|start_date:2016-07-25|start_open:12.45|end_date:2016-08-24|end_close:14.82|stock_return:0.190361
 timeframe:1mo|sector:Health Care|symbol:SPNC|start_date:2016-07-25|start_open:21.88|end_date:2016-08-24|end_close:24.61|stock_return:0.124771
 timeframe:1mo|sector:Health Care|symbol:SPNE|start_date:2016-07-25|start_open:9.64|end_date:2016-08-24|end_close:10.39|stock_return:0.077801

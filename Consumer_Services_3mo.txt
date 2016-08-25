@@ -293,6 +293,7 @@ timeframe:3mo|sector:Consumer Services|symbol:SPH|start_date:2016-05-26|start_op
 timeframe:3mo|sector:Consumer Services|symbol:SPLS|start_date:2016-05-26|start_open:8.54|end_date:2016-08-24|end_close:8.50|stock_return:-0.004684
 timeframe:3mo|sector:Consumer Services|symbol:SRSC|start_date:2016-05-26|start_open:3.34|end_date:2016-08-24|end_close:2.88|stock_return:-0.137725
 timeframe:3mo|sector:Consumer Services|symbol:SSP|start_date:2016-05-26|start_open:16.36|end_date:2016-08-24|end_close:17.49|stock_return:0.069071
+timeframe:3mo|sector:Consumer Services|symbol:SSS|start_date:2016-05-26|start_open:106.50|end_date:2016-08-24|end_close:0.18|stock_return:-0.998310
 timeframe:3mo|sector:Consumer Services|symbol:STAY|start_date:2016-05-26|start_open:14.06|end_date:2016-08-24|end_close:14.58|stock_return:0.036984
 timeframe:3mo|sector:Consumer Services|symbol:STKL|start_date:2016-05-26|start_open:3.54|end_date:2016-08-24|end_close:6.40|stock_return:0.807910
 timeframe:3mo|sector:Consumer Services|symbol:STON|start_date:2016-05-26|start_open:23.79|end_date:2016-08-24|end_close:24.64|stock_return:0.035729
