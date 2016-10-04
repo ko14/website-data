@@ -1,2 +1,2 @@
-timeframe:1mo|sector:Technology|symbol:EMC|start_date:2016-08-31|start_open:28.88|end_date:2016-09-30|end_close:0.93|stock_return:-0.967798
-timeframe:1mo|sector:Technology|symbol:FCS|start_date:2016-08-31|start_open:19.90|end_date:2016-09-30|end_close:1151.00|stock_return:56.839196
+timeframe:1mo|sector:Technology|symbol:EMC|start_date:2016-09-02|start_open:28.82|end_date:2016-10-03|end_close:1.03|stock_return:-0.964261
+timeframe:1mo|sector:Technology|symbol:FCS|start_date:2016-09-02|start_open:19.91|end_date:2016-10-03|end_close:1156.00|stock_return:57.061276

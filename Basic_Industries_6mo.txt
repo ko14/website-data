@@ -1,1 +1,1 @@
-timeframe:6mo|sector:Basic Industries|symbol:LIME|start_date:2016-04-01|start_open:3.04|end_date:2016-09-30|end_close:2.08|stock_return:-0.315789
+timeframe:6mo|sector:Basic Industries|symbol:LIME|start_date:2016-04-06|start_open:2.90|end_date:2016-10-03|end_close:2.07|stock_return:-0.286207

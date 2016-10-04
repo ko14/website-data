@@ -1,2 +1,2 @@
-timeframe:1mo|sector:Public Utilities|symbol:EFM|start_date:2016-08-31|start_open:25.93|end_date:2016-09-30|end_close:25.40|stock_return:-0.020440
-timeframe:1mo|sector:Public Utilities|symbol:STR|start_date:2016-08-31|start_open:25.00|end_date:2016-09-30|end_close:277.50|stock_return:10.100000
+timeframe:1mo|sector:Public Utilities|symbol:EFM|start_date:2016-09-02|start_open:26.09|end_date:2016-10-03|end_close:25.43|stock_return:-0.025297
+timeframe:1mo|sector:Public Utilities|symbol:STR|start_date:2016-09-02|start_open:25.08|end_date:2016-10-03|end_close:272.50|stock_return:9.865231

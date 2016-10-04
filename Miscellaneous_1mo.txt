@@ -1,2 +1,2 @@
-timeframe:1mo|sector:Miscellaneous|symbol:ICLD|start_date:2016-08-31|start_open:0.33|end_date:2016-09-30|end_close:0.12|stock_return:-0.636364
-timeframe:1mo|sector:Miscellaneous|symbol:ROVI|start_date:2016-08-31|start_open:21.09|end_date:2016-09-30|end_close:12.95|stock_return:-0.385965
+timeframe:1mo|sector:Miscellaneous|symbol:ICLD|start_date:2016-09-02|start_open:0.25|end_date:2016-10-03|end_close:0.11|stock_return:-0.560000
+timeframe:1mo|sector:Miscellaneous|symbol:ROVI|start_date:2016-09-02|start_open:20.69|end_date:2016-10-03|end_close:12.96|stock_return:-0.373610

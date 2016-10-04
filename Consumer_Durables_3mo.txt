@@ -1,1 +1,0 @@
-timeframe:3mo|sector:Consumer Durables|symbol:NTK|start_date:2016-07-01|start_open:59.20|end_date:2016-09-30|end_close:0.88|stock_return:-0.985135

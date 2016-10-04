@@ -1,1 +1,0 @@
-timeframe:6mo|sector:Finance|symbol:REXI|start_date:2016-04-01|start_open:5.71|end_date:2016-09-30|end_close:649.40|stock_return:112.730298

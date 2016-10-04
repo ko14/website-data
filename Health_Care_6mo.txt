@@ -1,1 +1,2 @@
-timeframe:6mo|sector:Health Care|symbol:RLYP|start_date:2016-04-01|start_open:13.14|end_date:2016-09-30|end_close:0.10|stock_return:-0.992390
+timeframe:6mo|sector:Health Care|symbol:RLYP|start_date:2016-04-06|start_open:13.86|end_date:2016-10-03|end_close:0.11|stock_return:-0.992063
+timeframe:6mo|sector:Health Care|symbol:SMLR|start_date:2016-04-06|start_open:1.94|end_date:2016-10-03|end_close:1.70|stock_return:-0.123711
