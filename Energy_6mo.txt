@@ -1,2 +1,2 @@
-timeframe:6mo|sector:Energy|symbol:GLRI|start_date:2016-06-10|start_open:0.34|end_date:2016-12-09|end_close:0.08|stock_return:-0.764706
-timeframe:6mo|sector:Energy|symbol:MRD|start_date:2016-06-10|start_open:16.73|end_date:2016-12-09|end_close:13.51|stock_return:-0.192469
+timeframe:6mo|sector:Energy|symbol:GLRI|start_date:2016-06-15|start_open:0.24|end_date:2016-12-12|end_close:0.10|stock_return:-0.583333
+timeframe:6mo|sector:Energy|symbol:MRD|start_date:2016-06-15|start_open:15.79|end_date:2016-12-12|end_close:13.60|stock_return:-0.138695

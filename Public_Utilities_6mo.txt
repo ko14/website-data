@@ -1,3 +1,3 @@
-timeframe:6mo|sector:Public Utilities|symbol:EFM|start_date:2016-06-10|start_open:25.97|end_date:2016-12-09|end_close:296.50|stock_return:10.417020
-timeframe:6mo|sector:Public Utilities|symbol:ITC|start_date:2016-06-10|start_open:45.86|end_date:2016-12-09|end_close:1.86|stock_return:-0.959442
-timeframe:6mo|sector:Public Utilities|symbol:STR|start_date:2016-06-10|start_open:25.03|end_date:2016-12-09|end_close:225.00|stock_return:7.989213
+timeframe:6mo|sector:Public Utilities|symbol:EFM|start_date:2016-06-15|start_open:25.92|end_date:2016-12-12|end_close:292.00|stock_return:10.265432
+timeframe:6mo|sector:Public Utilities|symbol:ITC|start_date:2016-06-15|start_open:45.36|end_date:2016-12-12|end_close:2.00|stock_return:-0.955908
+timeframe:6mo|sector:Public Utilities|symbol:STR|start_date:2016-06-15|start_open:25.13|end_date:2016-12-12|end_close:218.50|stock_return:7.694787

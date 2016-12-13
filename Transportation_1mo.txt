@@ -1,2 +1,1 @@
-timeframe:1mo|sector:Transportation|symbol:PWX|start_date:2016-11-09|start_open:16.59|end_date:2016-12-09|end_close:16.79|stock_return:0.012055
-timeframe:1mo|sector:Transportation|symbol:ULTR|start_date:2016-11-09|start_open:0.12|end_date:2016-12-09|end_close:0.15|stock_return:0.250000
+timeframe:1mo|sector:Transportation|symbol:ULTR|start_date:2016-11-11|start_open:0.15|end_date:2016-12-12|end_close:0.13|stock_return:-0.133333

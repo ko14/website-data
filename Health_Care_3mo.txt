@@ -1,7 +1,6 @@
-timeframe:3mo|sector:Health Care|symbol:ESMC|start_date:2016-09-09|start_open:0.66|end_date:2016-12-09|end_close:0.12|stock_return:-0.818182
-timeframe:3mo|sector:Health Care|symbol:GBSN|start_date:2016-09-09|start_open:0.15|end_date:2016-12-09|end_close:0.01|stock_return:-0.933333
-timeframe:3mo|sector:Health Care|symbol:GI|start_date:2016-09-09|start_open:4.58|end_date:2016-12-09|end_close:0.06|stock_return:-0.986900
-timeframe:3mo|sector:Health Care|symbol:MATN|start_date:2016-09-09|start_open:0.67|end_date:2016-12-09|end_close:0.37|stock_return:-0.447761
-timeframe:3mo|sector:Health Care|symbol:RLYP|start_date:2016-09-09|start_open:0.13|end_date:2016-12-09|end_close:0.05|stock_return:-0.615385
-timeframe:3mo|sector:Health Care|symbol:SMLR|start_date:2016-09-09|start_open:1.98|end_date:2016-12-09|end_close:1.70|stock_return:-0.141414
-timeframe:3mo|sector:Health Care|symbol:TLOG|start_date:2016-09-09|start_open:0.20|end_date:2016-12-09|end_close:0.07|stock_return:-0.650000
+timeframe:3mo|sector:Health Care|symbol:ESMC|start_date:2016-09-13|start_open:0.67|end_date:2016-12-12|end_close:0.12|stock_return:-0.820896
+timeframe:3mo|sector:Health Care|symbol:GBSN|start_date:2016-09-13|start_open:0.12|end_date:2016-12-12|end_close:0.01|stock_return:-0.916667
+timeframe:3mo|sector:Health Care|symbol:GI|start_date:2016-09-13|start_open:4.82|end_date:2016-12-12|end_close:0.06|stock_return:-0.987552
+timeframe:3mo|sector:Health Care|symbol:MATN|start_date:2016-09-13|start_open:0.69|end_date:2016-12-12|end_close:0.35|stock_return:-0.492754
+timeframe:3mo|sector:Health Care|symbol:RLYP|start_date:2016-09-13|start_open:0.13|end_date:2016-12-12|end_close:0.05|stock_return:-0.615385
+timeframe:3mo|sector:Health Care|symbol:TLOG|start_date:2016-09-13|start_open:0.20|end_date:2016-12-12|end_close:0.06|stock_return:-0.700000

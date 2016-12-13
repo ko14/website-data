@@ -1,3 +1,3 @@
-timeframe:6mo|sector:Miscellaneous|symbol:ICLD|start_date:2016-06-10|start_open:1.10|end_date:2016-12-09|end_close:0.05|stock_return:-0.954545
-timeframe:6mo|sector:Miscellaneous|symbol:ROVI|start_date:2016-06-10|start_open:15.58|end_date:2016-12-09|end_close:11.88|stock_return:-0.237484
-timeframe:6mo|sector:Miscellaneous|symbol:RSTI|start_date:2016-06-10|start_open:31.80|end_date:2016-12-09|end_close:3.59|stock_return:-0.887107
+timeframe:6mo|sector:Miscellaneous|symbol:ICLD|start_date:2016-06-15|start_open:0.97|end_date:2016-12-12|end_close:0.05|stock_return:-0.948454
+timeframe:6mo|sector:Miscellaneous|symbol:ROVI|start_date:2016-06-15|start_open:16.26|end_date:2016-12-12|end_close:11.93|stock_return:-0.266298
+timeframe:6mo|sector:Miscellaneous|symbol:RSTI|start_date:2016-06-15|start_open:31.85|end_date:2016-12-12|end_close:3.59|stock_return:-0.887284

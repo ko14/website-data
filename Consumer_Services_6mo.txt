@@ -1,5 +1,5 @@
-timeframe:6mo|sector:Consumer Services|symbol:CSH|start_date:2016-06-10|start_open:39.08|end_date:2016-12-09|end_close:103.00|stock_return:1.635619
-timeframe:6mo|sector:Consumer Services|symbol:ESI|start_date:2016-06-10|start_open:1.81|end_date:2016-12-09|end_close:9.49|stock_return:4.243094
-timeframe:6mo|sector:Consumer Services|symbol:HOT|start_date:2016-06-10|start_open:74.03|end_date:2016-12-09|end_close:780.00|stock_return:9.536269
-timeframe:6mo|sector:Consumer Services|symbol:PPS|start_date:2016-06-10|start_open:57.85|end_date:2016-12-09|end_close:14.36|stock_return:-0.751772
-timeframe:6mo|sector:Consumer Services|symbol:SSS|start_date:2016-06-10|start_open:102.88|end_date:2016-12-09|end_close:0.10|stock_return:-0.999028
+timeframe:6mo|sector:Consumer Services|symbol:CSH|start_date:2016-06-15|start_open:38.85|end_date:2016-12-12|end_close:102.88|stock_return:1.648134
+timeframe:6mo|sector:Consumer Services|symbol:ESI|start_date:2016-06-15|start_open:1.75|end_date:2016-12-12|end_close:9.46|stock_return:4.405714
+timeframe:6mo|sector:Consumer Services|symbol:HOT|start_date:2016-06-15|start_open:73.28|end_date:2016-12-12|end_close:792.25|stock_return:9.811272
+timeframe:6mo|sector:Consumer Services|symbol:PPS|start_date:2016-06-15|start_open:58.22|end_date:2016-12-12|end_close:14.45|stock_return:-0.751804
+timeframe:6mo|sector:Consumer Services|symbol:SSS|start_date:2016-06-15|start_open:100.96|end_date:2016-12-12|end_close:0.10|stock_return:-0.999010

@@ -1,2 +1,1 @@
-timeframe:6mo|sector:Basic Industries|symbol:CAS|start_date:2016-06-10|start_open:1.89|end_date:2016-12-09|end_close:11.67|stock_return:5.174603
-timeframe:6mo|sector:Basic Industries|symbol:LIME|start_date:2016-06-10|start_open:2.32|end_date:2016-12-09|end_close:2.00|stock_return:-0.137931
+timeframe:6mo|sector:Basic Industries|symbol:CAS|start_date:2016-06-15|start_open:1.75|end_date:2016-12-12|end_close:11.42|stock_return:5.525714

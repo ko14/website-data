@@ -1,2 +1,2 @@
-timeframe:6mo|sector:Consumer Non-Durables|symbol:GRO|start_date:2016-06-10|start_open:0.89|end_date:2016-12-09|end_close:0.18|stock_return:-0.797753
-timeframe:6mo|sector:Consumer Non-Durables|symbol:PSG|start_date:2016-06-10|start_open:3.12|end_date:2016-12-09|end_close:10.80|stock_return:2.461538
+timeframe:6mo|sector:Consumer Non-Durables|symbol:GRO|start_date:2016-06-15|start_open:0.90|end_date:2016-12-12|end_close:0.17|stock_return:-0.811111
+timeframe:6mo|sector:Consumer Non-Durables|symbol:PSG|start_date:2016-06-15|start_open:3.08|end_date:2016-12-12|end_close:11.02|stock_return:2.577922

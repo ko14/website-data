@@ -1,3 +1,3 @@
-timeframe:6mo|sector:Capital Goods|symbol:ACW|start_date:2016-06-10|start_open:1.58|end_date:2016-12-09|end_close:0.16|stock_return:-0.898734
-timeframe:6mo|sector:Capital Goods|symbol:EAC|start_date:2016-06-10|start_open:0.93|end_date:2016-12-09|end_close:73.14|stock_return:77.645161
-timeframe:6mo|sector:Capital Goods|symbol:SWH|start_date:2016-06-10|start_open:119.26|end_date:2016-12-09|end_close:0.31|stock_return:-0.997401
+timeframe:6mo|sector:Capital Goods|symbol:ACW|start_date:2016-06-15|start_open:1.57|end_date:2016-12-12|end_close:0.16|stock_return:-0.898089
+timeframe:6mo|sector:Capital Goods|symbol:EAC|start_date:2016-06-15|start_open:0.65|end_date:2016-12-12|end_close:72.94|stock_return:111.215385
+timeframe:6mo|sector:Capital Goods|symbol:SWH|start_date:2016-06-15|start_open:116.52|end_date:2016-12-12|end_close:0.31|stock_return:-0.997340

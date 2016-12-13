@@ -1,4 +1,4 @@
-timeframe:6mo|sector:Finance|symbol:COB|start_date:2016-06-10|start_open:13.38|end_date:2016-12-09|end_close:167.70|stock_return:11.533632
-timeframe:6mo|sector:Finance|symbol:NATL|start_date:2016-06-10|start_open:30.90|end_date:2016-12-09|end_close:412.22|stock_return:12.340453
-timeframe:6mo|sector:Finance|symbol:REXI|start_date:2016-06-10|start_open:9.73|end_date:2016-12-09|end_close:624.35|stock_return:63.167523
-timeframe:6mo|sector:Finance|symbol:WFD|start_date:2016-06-10|start_open:7.66|end_date:2016-12-09|end_close:8.89|stock_return:0.160574
+timeframe:6mo|sector:Finance|symbol:COB|start_date:2016-06-15|start_open:13.20|end_date:2016-12-12|end_close:164.40|stock_return:11.454545
+timeframe:6mo|sector:Finance|symbol:NATL|start_date:2016-06-15|start_open:30.96|end_date:2016-12-12|end_close:412.74|stock_return:12.331395
+timeframe:6mo|sector:Finance|symbol:REXI|start_date:2016-06-15|start_open:9.70|end_date:2016-12-12|end_close:623.49|stock_return:63.277320
+timeframe:6mo|sector:Finance|symbol:WFD|start_date:2016-06-15|start_open:7.65|end_date:2016-12-12|end_close:8.82|stock_return:0.152941
