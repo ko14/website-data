@@ -24,6 +24,7 @@ timeframe:1mo|sector:Miscellaneous|symbol:CLCT|start_date:2016-11-16|start_open:
 timeframe:1mo|sector:Miscellaneous|symbol:CMPR|start_date:2016-11-16|start_open:82.95|end_date:2016-12-16|end_close:93.50|stock_return:0.127185
 timeframe:1mo|sector:Miscellaneous|symbol:COTV|start_date:2016-11-16|start_open:33.28|end_date:2016-12-16|end_close:33.13|stock_return:-0.004507
 timeframe:1mo|sector:Miscellaneous|symbol:CRAI|start_date:2016-11-16|start_open:30.89|end_date:2016-12-16|end_close:36.59|stock_return:0.184526
+timeframe:1mo|sector:Miscellaneous|symbol:CREG|start_date:2016-11-16|start_open:1.50|end_date:2016-12-16|end_close:1.50|stock_return:0.000000
 timeframe:1mo|sector:Miscellaneous|symbol:CSGP|start_date:2016-11-16|start_open:195.00|end_date:2016-12-16|end_close:190.53|stock_return:-0.022923
 timeframe:1mo|sector:Miscellaneous|symbol:CTRP|start_date:2016-11-16|start_open:40.78|end_date:2016-12-16|end_close:41.00|stock_return:0.005395
 timeframe:1mo|sector:Miscellaneous|symbol:DBD|start_date:2016-11-16|start_open:22.95|end_date:2016-12-16|end_close:24.95|stock_return:0.087146
@@ -104,7 +105,6 @@ timeframe:1mo|sector:Miscellaneous|symbol:RILY|start_date:2016-11-16|start_open:
 timeframe:1mo|sector:Miscellaneous|symbol:RMGN|start_date:2016-11-16|start_open:0.66|end_date:2016-12-16|end_close:0.67|stock_return:0.015152
 timeframe:1mo|sector:Miscellaneous|symbol:ROVI|start_date:2016-11-16|start_open:12.39|end_date:2016-12-16|end_close:12.19|stock_return:-0.016142
 timeframe:1mo|sector:Miscellaneous|symbol:RPXC|start_date:2016-11-16|start_open:10.31|end_date:2016-12-16|end_close:11.09|stock_return:0.075655
-timeframe:1mo|sector:Miscellaneous|symbol:RRD|start_date:2016-11-16|start_open:17.40|end_date:2016-12-16|end_close:16.93|stock_return:-0.027011
 timeframe:1mo|sector:Miscellaneous|symbol:RSTI|start_date:2016-11-16|start_open:3.00|end_date:2016-12-16|end_close:3.59|stock_return:0.196667
 timeframe:1mo|sector:Miscellaneous|symbol:SAJA|start_date:2016-11-16|start_open:3.76|end_date:2016-12-16|end_close:3.60|stock_return:-0.042553
 timeframe:1mo|sector:Miscellaneous|symbol:SCOR|start_date:2016-11-16|start_open:29.21|end_date:2016-12-16|end_close:32.86|stock_return:0.124957

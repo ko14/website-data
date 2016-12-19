@@ -46,7 +46,6 @@ timeframe:6mo|sector:Basic Industries|symbol:CETC|start_date:2016-06-17|start_op
 timeframe:6mo|sector:Basic Industries|symbol:CF|start_date:2016-06-17|start_open:27.65|end_date:2016-12-16|end_close:29.48|stock_return:0.066184
 timeframe:6mo|sector:Basic Industries|symbol:CFI|start_date:2016-06-17|start_open:28.00|end_date:2016-12-16|end_close:35.45|stock_return:0.266071
 timeframe:6mo|sector:Basic Industries|symbol:CGA|start_date:2016-06-17|start_open:1.52|end_date:2016-12-16|end_close:1.25|stock_return:-0.177632
-timeframe:6mo|sector:Basic Industries|symbol:CHD|start_date:2016-06-17|start_open:99.30|end_date:2016-12-16|end_close:44.96|stock_return:-0.547231
 timeframe:6mo|sector:Basic Industries|symbol:CHMT|start_date:2016-06-17|start_open:27.95|end_date:2016-12-16|end_close:33.20|stock_return:0.187835
 timeframe:6mo|sector:Basic Industries|symbol:CHNR|start_date:2016-06-17|start_open:1.37|end_date:2016-12-16|end_close:2.11|stock_return:0.540146
 timeframe:6mo|sector:Basic Industries|symbol:CINR|start_date:2016-06-17|start_open:28.56|end_date:2016-12-16|end_close:30.39|stock_return:0.064076
@@ -219,7 +218,6 @@ timeframe:6mo|sector:Basic Industries|symbol:SRCL|start_date:2016-06-17|start_op
 timeframe:6mo|sector:Basic Industries|symbol:SSRI|start_date:2016-06-17|start_open:11.39|end_date:2016-12-16|end_close:8.15|stock_return:-0.284460
 timeframe:6mo|sector:Basic Industries|symbol:STLD|start_date:2016-06-17|start_open:25.98|end_date:2016-12-16|end_close:36.68|stock_return:0.411855
 timeframe:6mo|sector:Basic Industries|symbol:STRL|start_date:2016-06-17|start_open:5.24|end_date:2016-12-16|end_close:8.39|stock_return:0.601145
-timeframe:6mo|sector:Basic Industries|symbol:SUM|start_date:2016-06-17|start_open:20.13|end_date:2016-12-16|end_close:23.69|stock_return:0.176850
 timeframe:6mo|sector:Basic Industries|symbol:SWC|start_date:2016-06-17|start_open:10.45|end_date:2016-12-16|end_close:16.27|stock_return:0.556938
 timeframe:6mo|sector:Basic Industries|symbol:SWM|start_date:2016-06-17|start_open:34.02|end_date:2016-12-16|end_close:45.11|stock_return:0.325985
 timeframe:6mo|sector:Basic Industries|symbol:SXC|start_date:2016-06-17|start_open:5.79|end_date:2016-12-16|end_close:11.82|stock_return:1.041451
@@ -247,6 +245,7 @@ timeframe:6mo|sector:Basic Industries|symbol:UFPI|start_date:2016-06-17|start_op
 timeframe:6mo|sector:Basic Industries|symbol:UFS|start_date:2016-06-17|start_open:36.56|end_date:2016-12-16|end_close:39.37|stock_return:0.076860
 timeframe:6mo|sector:Basic Industries|symbol:UL|start_date:2016-06-17|start_open:44.19|end_date:2016-12-16|end_close:39.70|stock_return:-0.101607
 timeframe:6mo|sector:Basic Industries|symbol:UN|start_date:2016-06-17|start_open:43.18|end_date:2016-12-16|end_close:40.03|stock_return:-0.072950
+timeframe:6mo|sector:Basic Industries|symbol:URRE|start_date:2016-06-17|start_open:1.87|end_date:2016-12-16|end_close:1.18|stock_return:-0.368984
 timeframe:6mo|sector:Basic Industries|symbol:USAP|start_date:2016-06-17|start_open:11.25|end_date:2016-12-16|end_close:14.98|stock_return:0.331556
 timeframe:6mo|sector:Basic Industries|symbol:USLM|start_date:2016-06-17|start_open:57.94|end_date:2016-12-16|end_close:74.01|stock_return:0.277356
 timeframe:6mo|sector:Basic Industries|symbol:VAL|start_date:2016-06-17|start_open:107.79|end_date:2016-12-16|end_close:104.52|stock_return:-0.030337

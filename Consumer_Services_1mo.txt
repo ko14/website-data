@@ -71,7 +71,6 @@ timeframe:1mo|sector:Consumer Services|symbol:BFS|start_date:2016-11-16|start_op
 timeframe:1mo|sector:Consumer Services|symbol:BGFV|start_date:2016-11-16|start_open:19.30|end_date:2016-12-16|end_close:18.05|stock_return:-0.064767
 timeframe:1mo|sector:Consumer Services|symbol:BH|start_date:2016-11-16|start_open:453.92|end_date:2016-12-16|end_close:472.21|stock_return:0.040293
 timeframe:1mo|sector:Consumer Services|symbol:BIG|start_date:2016-11-16|start_open:51.51|end_date:2016-12-16|end_close:55.22|stock_return:0.072025
-timeframe:1mo|sector:Consumer Services|symbol:BIP|start_date:2016-11-16|start_open:31.73|end_date:2016-12-16|end_close:33.19|stock_return:0.046013
 timeframe:1mo|sector:Consumer Services|symbol:BJRI|start_date:2016-11-16|start_open:38.85|end_date:2016-12-16|end_close:39.35|stock_return:0.012870
 timeframe:1mo|sector:Consumer Services|symbol:BKE|start_date:2016-11-16|start_open:23.60|end_date:2016-12-16|end_close:23.40|stock_return:-0.008475
 timeframe:1mo|sector:Consumer Services|symbol:BKS|start_date:2016-11-16|start_open:11.60|end_date:2016-12-16|end_close:12.60|stock_return:0.086207
@@ -131,6 +130,7 @@ timeframe:1mo|sector:Consumer Services|symbol:CHSCP|start_date:2016-11-16|start_
 timeframe:1mo|sector:Consumer Services|symbol:CHSP|start_date:2016-11-16|start_open:22.94|end_date:2016-12-16|end_close:26.67|stock_return:0.162598
 timeframe:1mo|sector:Consumer Services|symbol:CHTR|start_date:2016-11-16|start_open:260.00|end_date:2016-12-16|end_close:288.44|stock_return:0.109385
 timeframe:1mo|sector:Consumer Services|symbol:CHUY|start_date:2016-11-16|start_open:31.15|end_date:2016-12-16|end_close:34.20|stock_return:0.097913
+timeframe:1mo|sector:Consumer Services|symbol:CIDM|start_date:2016-11-16|start_open:1.73|end_date:2016-12-16|end_close:1.39|stock_return:-0.196532
 timeframe:1mo|sector:Consumer Services|symbol:CIM|start_date:2016-11-16|start_open:16.39|end_date:2016-12-16|end_close:17.00|stock_return:0.037218
 timeframe:1mo|sector:Consumer Services|symbol:CIO|start_date:2016-11-16|start_open:12.34|end_date:2016-12-16|end_close:12.63|stock_return:0.023501
 timeframe:1mo|sector:Consumer Services|symbol:CKEC|start_date:2016-11-16|start_open:34.05|end_date:2016-12-16|end_close:33.10|stock_return:-0.027900
@@ -141,7 +141,6 @@ timeframe:1mo|sector:Consumer Services|symbol:CLUB|start_date:2016-11-16|start_o
 timeframe:1mo|sector:Consumer Services|symbol:CMCSA|start_date:2016-11-16|start_open:66.78|end_date:2016-12-16|end_close:69.86|stock_return:0.046122
 timeframe:1mo|sector:Consumer Services|symbol:CMCT|start_date:2016-11-16|start_open:15.50|end_date:2016-12-16|end_close:15.50|stock_return:0.000000
 timeframe:1mo|sector:Consumer Services|symbol:CMG|start_date:2016-11-16|start_open:399.00|end_date:2016-12-16|end_close:392.07|stock_return:-0.017368
-timeframe:1mo|sector:Consumer Services|symbol:CMLS|start_date:2016-11-16|start_open:1.15|end_date:2016-12-16|end_close:1.09|stock_return:-0.052174
 timeframe:1mo|sector:Consumer Services|symbol:CMO|start_date:2016-11-16|start_open:9.94|end_date:2016-12-16|end_close:10.21|stock_return:0.027163
 timeframe:1mo|sector:Consumer Services|symbol:CNCO|start_date:2016-11-16|start_open:8.83|end_date:2016-12-16|end_close:8.54|stock_return:-0.032843
 timeframe:1mo|sector:Consumer Services|symbol:CNK|start_date:2016-11-16|start_open:41.87|end_date:2016-12-16|end_close:38.84|stock_return:-0.072367
@@ -441,6 +440,7 @@ timeframe:1mo|sector:Consumer Services|symbol:MGM|start_date:2016-11-16|start_op
 timeframe:1mo|sector:Consumer Services|symbol:MGP|start_date:2016-11-16|start_open:23.97|end_date:2016-12-16|end_close:24.43|stock_return:0.019191
 timeframe:1mo|sector:Consumer Services|symbol:MIK|start_date:2016-11-16|start_open:23.98|end_date:2016-12-16|end_close:21.84|stock_return:-0.089241
 timeframe:1mo|sector:Consumer Services|symbol:MMYT|start_date:2016-11-16|start_open:26.10|end_date:2016-12-16|end_close:24.10|stock_return:-0.076628
+timeframe:1mo|sector:Consumer Services|symbol:MNI|start_date:2016-11-16|start_open:15.17|end_date:2016-12-16|end_close:13.94|stock_return:-0.081081
 timeframe:1mo|sector:Consumer Services|symbol:MNR|start_date:2016-11-16|start_open:13.27|end_date:2016-12-16|end_close:14.15|stock_return:0.066315
 timeframe:1mo|sector:Consumer Services|symbol:MNRO|start_date:2016-11-16|start_open:58.95|end_date:2016-12-16|end_close:56.75|stock_return:-0.037320
 timeframe:1mo|sector:Consumer Services|symbol:MORE|start_date:2016-11-16|start_open:10.65|end_date:2016-12-16|end_close:10.69|stock_return:0.003756
@@ -452,6 +452,7 @@ timeframe:1mo|sector:Consumer Services|symbol:MSGN|start_date:2016-11-16|start_o
 timeframe:1mo|sector:Consumer Services|symbol:MTGE|start_date:2016-11-16|start_open:16.35|end_date:2016-12-16|end_close:15.95|stock_return:-0.024465
 timeframe:1mo|sector:Consumer Services|symbol:MTGEP|start_date:2016-11-16|start_open:24.85|end_date:2016-12-16|end_close:24.75|stock_return:-0.004024
 timeframe:1mo|sector:Consumer Services|symbol:MTN|start_date:2016-11-16|start_open:155.94|end_date:2016-12-16|end_close:161.64|stock_return:0.036553
+timeframe:1mo|sector:Consumer Services|symbol:MXPT|start_date:2016-11-16|start_open:9.20|end_date:2016-12-16|end_close:7.65|stock_return:-0.168478
 timeframe:1mo|sector:Consumer Services|symbol:MYCC|start_date:2016-11-16|start_open:13.10|end_date:2016-12-16|end_close:14.65|stock_return:0.118321
 timeframe:1mo|sector:Consumer Services|symbol:NAT|start_date:2016-11-16|start_open:8.92|end_date:2016-12-16|end_close:8.99|stock_return:0.007848
 timeframe:1mo|sector:Consumer Services|symbol:NATH|start_date:2016-11-16|start_open:55.15|end_date:2016-12-16|end_close:61.80|stock_return:0.120580
@@ -494,6 +495,7 @@ timeframe:1mo|sector:Consumer Services|symbol:OFC|start_date:2016-11-16|start_op
 timeframe:1mo|sector:Consumer Services|symbol:OHI|start_date:2016-11-16|start_open:28.91|end_date:2016-12-16|end_close:30.28|stock_return:0.047388
 timeframe:1mo|sector:Consumer Services|symbol:OLLI|start_date:2016-11-16|start_open:29.85|end_date:2016-12-16|end_close:29.90|stock_return:0.001675
 timeframe:1mo|sector:Consumer Services|symbol:OLP|start_date:2016-11-16|start_open:23.85|end_date:2016-12-16|end_close:24.96|stock_return:0.046541
+timeframe:1mo|sector:Consumer Services|symbol:OMEX|start_date:2016-11-16|start_open:4.57|end_date:2016-12-16|end_close:3.29|stock_return:-0.280088
 timeframe:1mo|sector:Consumer Services|symbol:ORBC|start_date:2016-11-16|start_open:8.20|end_date:2016-12-16|end_close:8.60|stock_return:0.048780
 timeframe:1mo|sector:Consumer Services|symbol:ORC|start_date:2016-11-16|start_open:10.85|end_date:2016-12-16|end_close:10.47|stock_return:-0.035023
 timeframe:1mo|sector:Consumer Services|symbol:ORLY|start_date:2016-11-16|start_open:267.14|end_date:2016-12-16|end_close:279.30|stock_return:0.045519

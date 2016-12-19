@@ -37,7 +37,6 @@ timeframe:3mo|sector:Capital Goods|symbol:BELFA|start_date:2016-09-16|start_open
 timeframe:3mo|sector:Capital Goods|symbol:BELFB|start_date:2016-09-16|start_open:23.10|end_date:2016-12-16|end_close:28.95|stock_return:0.253247
 timeframe:3mo|sector:Capital Goods|symbol:BIO|start_date:2016-09-16|start_open:159.08|end_date:2016-12-16|end_close:180.71|stock_return:0.135969
 timeframe:3mo|sector:Capital Goods|symbol:BLBD|start_date:2016-09-16|start_open:14.65|end_date:2016-12-16|end_close:16.45|stock_return:0.122867
-timeframe:3mo|sector:Capital Goods|symbol:BMI|start_date:2016-09-16|start_open:32.85|end_date:2016-12-16|end_close:37.65|stock_return:0.146119
 timeframe:3mo|sector:Capital Goods|symbol:BNSO|start_date:2016-09-16|start_open:1.60|end_date:2016-12-16|end_close:2.31|stock_return:0.443750
 timeframe:3mo|sector:Capital Goods|symbol:BOOM|start_date:2016-09-16|start_open:10.34|end_date:2016-12-16|end_close:16.15|stock_return:0.561896
 timeframe:3mo|sector:Capital Goods|symbol:BRKR|start_date:2016-09-16|start_open:22.12|end_date:2016-12-16|end_close:21.49|stock_return:-0.028481
@@ -45,12 +44,14 @@ timeframe:3mo|sector:Capital Goods|symbol:BRSS|start_date:2016-09-16|start_open:
 timeframe:3mo|sector:Capital Goods|symbol:BW|start_date:2016-09-16|start_open:16.48|end_date:2016-12-16|end_close:16.79|stock_return:0.018811
 timeframe:3mo|sector:Capital Goods|symbol:BWA|start_date:2016-09-16|start_open:34.90|end_date:2016-12-16|end_close:39.74|stock_return:0.138682
 timeframe:3mo|sector:Capital Goods|symbol:BWEN|start_date:2016-09-16|start_open:4.42|end_date:2016-12-16|end_close:4.10|stock_return:-0.072398
+timeframe:3mo|sector:Capital Goods|symbol:BXC|start_date:2016-09-16|start_open:8.43|end_date:2016-12-16|end_close:7.63|stock_return:-0.094899
 timeframe:3mo|sector:Capital Goods|symbol:BZH|start_date:2016-09-16|start_open:11.14|end_date:2016-12-16|end_close:14.31|stock_return:0.284560
 timeframe:3mo|sector:Capital Goods|symbol:CAA|start_date:2016-09-16|start_open:33.94|end_date:2016-12-16|end_close:34.27|stock_return:0.009723
 timeframe:3mo|sector:Capital Goods|symbol:CAAS|start_date:2016-09-16|start_open:3.95|end_date:2016-12-16|end_close:5.77|stock_return:0.460759
 timeframe:3mo|sector:Capital Goods|symbol:CAMT|start_date:2016-09-16|start_open:2.63|end_date:2016-12-16|end_close:3.11|stock_return:0.182510
 timeframe:3mo|sector:Capital Goods|symbol:CAT|start_date:2016-09-16|start_open:81.62|end_date:2016-12-16|end_close:92.58|stock_return:0.134281
 timeframe:3mo|sector:Capital Goods|symbol:CBPX|start_date:2016-09-16|start_open:21.26|end_date:2016-12-16|end_close:22.90|stock_return:0.077140
+timeframe:3mo|sector:Capital Goods|symbol:CCCL|start_date:2016-09-16|start_open:2.67|end_date:2016-12-16|end_close:2.37|stock_return:-0.112360
 timeframe:3mo|sector:Capital Goods|symbol:CCS|start_date:2016-09-16|start_open:20.43|end_date:2016-12-16|end_close:20.85|stock_return:0.020558
 timeframe:3mo|sector:Capital Goods|symbol:CECE|start_date:2016-09-16|start_open:10.69|end_date:2016-12-16|end_close:14.26|stock_return:0.333957
 timeframe:3mo|sector:Capital Goods|symbol:CETX|start_date:2016-09-16|start_open:3.82|end_date:2016-12-16|end_close:4.63|stock_return:0.212042
@@ -75,6 +76,7 @@ timeframe:3mo|sector:Capital Goods|symbol:CSTE|start_date:2016-09-16|start_open:
 timeframe:3mo|sector:Capital Goods|symbol:CTRL|start_date:2016-09-16|start_open:11.02|end_date:2016-12-16|end_close:11.28|stock_return:0.023593
 timeframe:3mo|sector:Capital Goods|symbol:CUB|start_date:2016-09-16|start_open:46.17|end_date:2016-12-16|end_close:49.55|stock_return:0.073208
 timeframe:3mo|sector:Capital Goods|symbol:CVGI|start_date:2016-09-16|start_open:5.29|end_date:2016-12-16|end_close:5.31|stock_return:0.003781
+timeframe:3mo|sector:Capital Goods|symbol:CX|start_date:2016-09-16|start_open:7.46|end_date:2016-12-16|end_close:7.99|stock_return:0.071046
 timeframe:3mo|sector:Capital Goods|symbol:CXDC|start_date:2016-09-16|start_open:4.89|end_date:2016-12-16|end_close:4.35|stock_return:-0.110429
 timeframe:3mo|sector:Capital Goods|symbol:CYBE|start_date:2016-09-16|start_open:21.75|end_date:2016-12-16|end_close:24.85|stock_return:0.142529
 timeframe:3mo|sector:Capital Goods|symbol:DAIO|start_date:2016-09-16|start_open:3.63|end_date:2016-12-16|end_close:4.14|stock_return:0.140496
@@ -90,6 +92,7 @@ timeframe:3mo|sector:Capital Goods|symbol:DW|start_date:2016-09-16|start_open:95
 timeframe:3mo|sector:Capital Goods|symbol:DXPE|start_date:2016-09-16|start_open:26.11|end_date:2016-12-16|end_close:36.65|stock_return:0.403677
 timeframe:3mo|sector:Capital Goods|symbol:DYSL|start_date:2016-09-16|start_open:1.05|end_date:2016-12-16|end_close:1.27|stock_return:0.209524
 timeframe:3mo|sector:Capital Goods|symbol:EAC|start_date:2016-09-16|start_open:0.44|end_date:2016-12-16|end_close:73.56|stock_return:166.181818
+timeframe:3mo|sector:Capital Goods|symbol:EKSO|start_date:2016-09-16|start_open:3.86|end_date:2016-12-16|end_close:4.35|stock_return:0.126943
 timeframe:3mo|sector:Capital Goods|symbol:ELSE|start_date:2016-09-16|start_open:3.52|end_date:2016-12-16|end_close:3.57|stock_return:0.014205
 timeframe:3mo|sector:Capital Goods|symbol:EME|start_date:2016-09-16|start_open:56.31|end_date:2016-12-16|end_close:71.75|stock_return:0.274196
 timeframe:3mo|sector:Capital Goods|symbol:EML|start_date:2016-09-16|start_open:19.52|end_date:2016-12-16|end_close:20.70|stock_return:0.060451
@@ -166,6 +169,7 @@ timeframe:3mo|sector:Capital Goods|symbol:KLAC|start_date:2016-09-16|start_open:
 timeframe:3mo|sector:Capital Goods|symbol:KLXI|start_date:2016-09-16|start_open:33.78|end_date:2016-12-16|end_close:45.48|stock_return:0.346359
 timeframe:3mo|sector:Capital Goods|symbol:KMT|start_date:2016-09-16|start_open:27.31|end_date:2016-12-16|end_close:32.15|stock_return:0.177224
 timeframe:3mo|sector:Capital Goods|symbol:KNDI|start_date:2016-09-16|start_open:5.62|end_date:2016-12-16|end_close:4.90|stock_return:-0.128114
+timeframe:3mo|sector:Capital Goods|symbol:KOOL|start_date:2016-09-16|start_open:4.21|end_date:2016-12-16|end_close:2.74|stock_return:-0.349169
 timeframe:3mo|sector:Capital Goods|symbol:KRNT|start_date:2016-09-16|start_open:9.09|end_date:2016-12-16|end_close:14.05|stock_return:0.545655
 timeframe:3mo|sector:Capital Goods|symbol:KTOS|start_date:2016-09-16|start_open:6.59|end_date:2016-12-16|end_close:7.13|stock_return:0.081942
 timeframe:3mo|sector:Capital Goods|symbol:LCUT|start_date:2016-09-16|start_open:12.41|end_date:2016-12-16|end_close:18.40|stock_return:0.482675
@@ -181,7 +185,6 @@ timeframe:3mo|sector:Capital Goods|symbol:LPL|start_date:2016-09-16|start_open:1
 timeframe:3mo|sector:Capital Goods|symbol:MATW|start_date:2016-09-16|start_open:59.48|end_date:2016-12-16|end_close:74.25|stock_return:0.248319
 timeframe:3mo|sector:Capital Goods|symbol:MBUU|start_date:2016-09-16|start_open:14.57|end_date:2016-12-16|end_close:18.94|stock_return:0.299931
 timeframe:3mo|sector:Capital Goods|symbol:MCFT|start_date:2016-09-16|start_open:10.96|end_date:2016-12-16|end_close:14.20|stock_return:0.295620
-timeframe:3mo|sector:Capital Goods|symbol:MDC|start_date:2016-09-16|start_open:24.87|end_date:2016-12-16|end_close:26.48|stock_return:0.064737
 timeframe:3mo|sector:Capital Goods|symbol:MDR|start_date:2016-09-16|start_open:4.75|end_date:2016-12-16|end_close:7.51|stock_return:0.581053
 timeframe:3mo|sector:Capital Goods|symbol:MEI|start_date:2016-09-16|start_open:34.44|end_date:2016-12-16|end_close:42.05|stock_return:0.220964
 timeframe:3mo|sector:Capital Goods|symbol:MFRI|start_date:2016-09-16|start_open:7.82|end_date:2016-12-16|end_close:7.65|stock_return:-0.021739
@@ -252,7 +255,6 @@ timeframe:3mo|sector:Capital Goods|symbol:RFIL|start_date:2016-09-16|start_open:
 timeframe:3mo|sector:Capital Goods|symbol:RGR|start_date:2016-09-16|start_open:55.84|end_date:2016-12-16|end_close:53.45|stock_return:-0.042801
 timeframe:3mo|sector:Capital Goods|symbol:ROCK|start_date:2016-09-16|start_open:35.44|end_date:2016-12-16|end_close:42.93|stock_return:0.211343
 timeframe:3mo|sector:Capital Goods|symbol:ROK|start_date:2016-09-16|start_open:114.59|end_date:2016-12-16|end_close:134.91|stock_return:0.177328
-timeframe:3mo|sector:Capital Goods|symbol:ROKA|start_date:2016-09-16|start_open:1.00|end_date:2016-12-16|end_close:4.64|stock_return:3.640000
 timeframe:3mo|sector:Capital Goods|symbol:ROLL|start_date:2016-09-16|start_open:74.72|end_date:2016-12-16|end_close:92.77|stock_return:0.241569
 timeframe:3mo|sector:Capital Goods|symbol:ROP|start_date:2016-09-16|start_open:177.54|end_date:2016-12-16|end_close:185.00|stock_return:0.042019
 timeframe:3mo|sector:Capital Goods|symbol:RTEC|start_date:2016-09-16|start_open:17.44|end_date:2016-12-16|end_close:22.05|stock_return:0.264335
@@ -304,7 +306,6 @@ timeframe:3mo|sector:Capital Goods|symbol:TRN|start_date:2016-09-16|start_open:2
 timeframe:3mo|sector:Capital Goods|symbol:TRNS|start_date:2016-09-16|start_open:10.48|end_date:2016-12-16|end_close:10.30|stock_return:-0.017176
 timeframe:3mo|sector:Capital Goods|symbol:TRS|start_date:2016-09-16|start_open:17.37|end_date:2016-12-16|end_close:23.15|stock_return:0.332758
 timeframe:3mo|sector:Capital Goods|symbol:TSLA|start_date:2016-09-16|start_open:200.42|end_date:2016-12-16|end_close:202.49|stock_return:0.010328
-timeframe:3mo|sector:Capital Goods|symbol:TTC|start_date:2016-09-16|start_open:94.64|end_date:2016-12-16|end_close:55.32|stock_return:-0.415469
 timeframe:3mo|sector:Capital Goods|symbol:TTM|start_date:2016-09-16|start_open:41.34|end_date:2016-12-16|end_close:34.59|stock_return:-0.163280
 timeframe:3mo|sector:Capital Goods|symbol:TXT|start_date:2016-09-16|start_open:39.18|end_date:2016-12-16|end_close:48.60|stock_return:0.240429
 timeframe:3mo|sector:Capital Goods|symbol:UCP|start_date:2016-09-16|start_open:8.78|end_date:2016-12-16|end_close:11.05|stock_return:0.258542
@@ -327,7 +328,6 @@ timeframe:3mo|sector:Capital Goods|symbol:WAIR|start_date:2016-09-16|start_open:
 timeframe:3mo|sector:Capital Goods|symbol:WAT|start_date:2016-09-16|start_open:155.25|end_date:2016-12-16|end_close:137.08|stock_return:-0.117037
 timeframe:3mo|sector:Capital Goods|symbol:WBC|start_date:2016-09-16|start_open:105.02|end_date:2016-12-16|end_close:108.24|stock_return:0.030661
 timeframe:3mo|sector:Capital Goods|symbol:WCIC|start_date:2016-09-16|start_open:17.72|end_date:2016-12-16|end_close:23.45|stock_return:0.323363
-timeframe:3mo|sector:Capital Goods|symbol:WGBS|start_date:2016-09-16|start_open:0.87|end_date:2016-12-16|end_close:4.82|stock_return:4.540230
 timeframe:3mo|sector:Capital Goods|symbol:WIRE|start_date:2016-09-16|start_open:35.83|end_date:2016-12-16|end_close:45.05|stock_return:0.257326
 timeframe:3mo|sector:Capital Goods|symbol:WKHS|start_date:2016-09-16|start_open:8.35|end_date:2016-12-16|end_close:6.96|stock_return:-0.166467
 timeframe:3mo|sector:Capital Goods|symbol:WLH|start_date:2016-09-16|start_open:15.71|end_date:2016-12-16|end_close:20.30|stock_return:0.292171

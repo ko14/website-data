@@ -26,7 +26,6 @@ timeframe:3mo|sector:Public Utilities|symbol:BT|start_date:2016-09-16|start_open
 timeframe:3mo|sector:Public Utilities|symbol:BWP|start_date:2016-09-16|start_open:16.33|end_date:2016-12-16|end_close:17.69|stock_return:0.083282
 timeframe:3mo|sector:Public Utilities|symbol:CAFD|start_date:2016-09-16|start_open:14.72|end_date:2016-12-16|end_close:12.46|stock_return:-0.153533
 timeframe:3mo|sector:Public Utilities|symbol:CALL|start_date:2016-09-16|start_open:6.25|end_date:2016-12-16|end_close:7.20|stock_return:0.152000
-timeframe:3mo|sector:Public Utilities|symbol:CBB|start_date:2016-09-16|start_open:4.00|end_date:2016-12-16|end_close:21.75|stock_return:4.437500
 timeframe:3mo|sector:Public Utilities|symbol:CDZI|start_date:2016-09-16|start_open:6.90|end_date:2016-12-16|end_close:10.95|stock_return:0.586957
 timeframe:3mo|sector:Public Utilities|symbol:CEL|start_date:2016-09-16|start_open:7.41|end_date:2016-12-16|end_close:8.30|stock_return:0.120108
 timeframe:3mo|sector:Public Utilities|symbol:CHA|start_date:2016-09-16|start_open:49.88|end_date:2016-12-16|end_close:46.47|stock_return:-0.068364
@@ -110,6 +109,7 @@ timeframe:3mo|sector:Public Utilities|symbol:KEP|start_date:2016-09-16|start_ope
 timeframe:3mo|sector:Public Utilities|symbol:KMI|start_date:2016-09-16|start_open:21.28|end_date:2016-12-16|end_close:21.34|stock_return:0.002820
 timeframe:3mo|sector:Public Utilities|symbol:KT|start_date:2016-09-16|start_open:14.78|end_date:2016-12-16|end_close:14.08|stock_return:-0.047361
 timeframe:3mo|sector:Public Utilities|symbol:LMOS|start_date:2016-09-16|start_open:13.78|end_date:2016-12-16|end_close:15.09|stock_return:0.095065
+timeframe:3mo|sector:Public Utilities|symbol:LNT|start_date:2016-09-16|start_open:37.78|end_date:2016-12-16|end_close:37.61|stock_return:-0.004500
 timeframe:3mo|sector:Public Utilities|symbol:LVLT|start_date:2016-09-16|start_open:48.43|end_date:2016-12-16|end_close:56.71|stock_return:0.170968
 timeframe:3mo|sector:Public Utilities|symbol:MBT|start_date:2016-09-16|start_open:7.75|end_date:2016-12-16|end_close:9.18|stock_return:0.184516
 timeframe:3mo|sector:Public Utilities|symbol:MEP|start_date:2016-09-16|start_open:9.18|end_date:2016-12-16|end_close:7.05|stock_return:-0.232026
@@ -188,7 +188,6 @@ timeframe:3mo|sector:Public Utilities|symbol:TEP|start_date:2016-09-16|start_ope
 timeframe:3mo|sector:Public Utilities|symbol:TERP|start_date:2016-09-16|start_open:13.11|end_date:2016-12-16|end_close:12.40|stock_return:-0.054157
 timeframe:3mo|sector:Public Utilities|symbol:TGS|start_date:2016-09-16|start_open:6.41|end_date:2016-12-16|end_close:8.34|stock_return:0.301092
 timeframe:3mo|sector:Public Utilities|symbol:TKC|start_date:2016-09-16|start_open:8.11|end_date:2016-12-16|end_close:6.57|stock_return:-0.189889
-timeframe:3mo|sector:Public Utilities|symbol:TLK|start_date:2016-09-16|start_open:62.44|end_date:2016-12-16|end_close:28.47|stock_return:-0.544042
 timeframe:3mo|sector:Public Utilities|symbol:TMUS|start_date:2016-09-16|start_open:47.06|end_date:2016-12-16|end_close:57.01|stock_return:0.211432
 timeframe:3mo|sector:Public Utilities|symbol:TRGP|start_date:2016-09-16|start_open:45.53|end_date:2016-12-16|end_close:54.92|stock_return:0.206238
 timeframe:3mo|sector:Public Utilities|symbol:TRP|start_date:2016-09-16|start_open:46.43|end_date:2016-12-16|end_close:46.19|stock_return:-0.005169

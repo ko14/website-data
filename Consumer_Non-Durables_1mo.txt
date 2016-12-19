@@ -1,4 +1,3 @@
-timeframe:1mo|sector:Consumer Non-Durables|symbol:ABAC|start_date:2016-11-16|start_open:2.88|end_date:2016-12-16|end_close:3.69|stock_return:0.281250
 timeframe:1mo|sector:Consumer Non-Durables|symbol:ABEV|start_date:2016-11-16|start_open:5.10|end_date:2016-12-16|end_close:4.91|stock_return:-0.037255
 timeframe:1mo|sector:Consumer Non-Durables|symbol:ADM|start_date:2016-11-16|start_open:43.68|end_date:2016-12-16|end_close:46.51|stock_return:0.064789
 timeframe:1mo|sector:Consumer Non-Durables|symbol:AFI|start_date:2016-11-16|start_open:17.80|end_date:2016-12-16|end_close:20.01|stock_return:0.124157
@@ -13,7 +12,6 @@ timeframe:1mo|sector:Consumer Non-Durables|symbol:AVT|start_date:2016-11-16|star
 timeframe:1mo|sector:Consumer Non-Durables|symbol:AWI|start_date:2016-11-16|start_open:40.35|end_date:2016-12-16|end_close:42.45|stock_return:0.052045
 timeframe:1mo|sector:Consumer Non-Durables|symbol:AXE|start_date:2016-11-16|start_open:77.95|end_date:2016-12-16|end_close:80.60|stock_return:0.033996
 timeframe:1mo|sector:Consumer Non-Durables|symbol:BDE|start_date:2016-11-16|start_open:6.20|end_date:2016-12-16|end_close:5.75|stock_return:-0.072581
-timeframe:1mo|sector:Consumer Non-Durables|symbol:BEBE|start_date:2016-11-16|start_open:0.51|end_date:2016-12-16|end_close:5.66|stock_return:10.098039
 timeframe:1mo|sector:Consumer Non-Durables|symbol:BERY|start_date:2016-11-16|start_open:45.53|end_date:2016-12-16|end_close:51.38|stock_return:0.128487
 timeframe:1mo|sector:Consumer Non-Durables|symbol:BETR|start_date:2016-11-16|start_open:10.25|end_date:2016-12-16|end_close:9.51|stock_return:-0.072195
 timeframe:1mo|sector:Consumer Non-Durables|symbol:BG|start_date:2016-11-16|start_open:67.08|end_date:2016-12-16|end_close:72.83|stock_return:0.085719
@@ -35,6 +33,7 @@ timeframe:1mo|sector:Consumer Non-Durables|symbol:CL|start_date:2016-11-16|start
 timeframe:1mo|sector:Consumer Non-Durables|symbol:COH|start_date:2016-11-16|start_open:37.26|end_date:2016-12-16|end_close:35.32|stock_return:-0.052067
 timeframe:1mo|sector:Consumer Non-Durables|symbol:COKE|start_date:2016-11-16|start_open:164.96|end_date:2016-12-16|end_close:174.06|stock_return:0.055165
 timeframe:1mo|sector:Consumer Non-Durables|symbol:COLM|start_date:2016-11-16|start_open:59.35|end_date:2016-12-16|end_close:58.95|stock_return:-0.006740
+timeframe:1mo|sector:Consumer Non-Durables|symbol:CORE|start_date:2016-11-16|start_open:35.26|end_date:2016-12-16|end_close:42.94|stock_return:0.217811
 timeframe:1mo|sector:Consumer Non-Durables|symbol:COT|start_date:2016-11-16|start_open:12.25|end_date:2016-12-16|end_close:11.37|stock_return:-0.071837
 timeframe:1mo|sector:Consumer Non-Durables|symbol:COTY|start_date:2016-11-16|start_open:18.17|end_date:2016-12-16|end_close:18.69|stock_return:0.028619
 timeframe:1mo|sector:Consumer Non-Durables|symbol:CPB|start_date:2016-11-16|start_open:54.98|end_date:2016-12-16|end_close:59.53|stock_return:0.082757
@@ -122,7 +121,6 @@ timeframe:1mo|sector:Consumer Non-Durables|symbol:MED|start_date:2016-11-16|star
 timeframe:1mo|sector:Consumer Non-Durables|symbol:MGPI|start_date:2016-11-16|start_open:43.71|end_date:2016-12-16|end_close:49.60|stock_return:0.134752
 timeframe:1mo|sector:Consumer Non-Durables|symbol:MJN|start_date:2016-11-16|start_open:71.33|end_date:2016-12-16|end_close:71.86|stock_return:0.007430
 timeframe:1mo|sector:Consumer Non-Durables|symbol:MKC|start_date:2016-11-16|start_open:91.83|end_date:2016-12-16|end_close:92.44|stock_return:0.006643
-timeframe:1mo|sector:Consumer Non-Durables|symbol:MNST|start_date:2016-11-16|start_open:41.53|end_date:2016-12-16|end_close:44.50|stock_return:0.071515
 timeframe:1mo|sector:Consumer Non-Durables|symbol:MO|start_date:2016-11-16|start_open:61.79|end_date:2016-12-16|end_close:67.04|stock_return:0.084965
 timeframe:1mo|sector:Consumer Non-Durables|symbol:MOV|start_date:2016-11-16|start_open:26.00|end_date:2016-12-16|end_close:30.35|stock_return:0.167308
 timeframe:1mo|sector:Consumer Non-Durables|symbol:MYE|start_date:2016-11-16|start_open:14.40|end_date:2016-12-16|end_close:14.65|stock_return:0.017361
@@ -180,6 +178,7 @@ timeframe:1mo|sector:Consumer Non-Durables|symbol:THS|start_date:2016-11-16|star
 timeframe:1mo|sector:Consumer Non-Durables|symbol:THST|start_date:2016-11-16|start_open:1.56|end_date:2016-12-16|end_close:1.89|stock_return:0.211538
 timeframe:1mo|sector:Consumer Non-Durables|symbol:TLF|start_date:2016-11-16|start_open:7.15|end_date:2016-12-16|end_close:7.65|stock_return:0.069930
 timeframe:1mo|sector:Consumer Non-Durables|symbol:TPB|start_date:2016-11-16|start_open:14.64|end_date:2016-12-16|end_close:12.80|stock_return:-0.125683
+timeframe:1mo|sector:Consumer Non-Durables|symbol:TR|start_date:2016-11-16|start_open:38.90|end_date:2016-12-16|end_close:40.75|stock_return:0.047558
 timeframe:1mo|sector:Consumer Non-Durables|symbol:TSN|start_date:2016-11-16|start_open:68.81|end_date:2016-12-16|end_close:62.44|stock_return:-0.092574
 timeframe:1mo|sector:Consumer Non-Durables|symbol:TUP|start_date:2016-11-16|start_open:58.56|end_date:2016-12-16|end_close:53.09|stock_return:-0.093408
 timeframe:1mo|sector:Consumer Non-Durables|symbol:TWNK|start_date:2016-11-16|start_open:12.26|end_date:2016-12-16|end_close:12.79|stock_return:0.043230
@@ -192,7 +191,6 @@ timeframe:1mo|sector:Consumer Non-Durables|symbol:UNFI|start_date:2016-11-16|sta
 timeframe:1mo|sector:Consumer Non-Durables|symbol:USFD|start_date:2016-11-16|start_open:23.80|end_date:2016-12-16|end_close:26.90|stock_return:0.130252
 timeframe:1mo|sector:Consumer Non-Durables|symbol:VCO|start_date:2016-11-16|start_open:32.97|end_date:2016-12-16|end_close:32.30|stock_return:-0.020322
 timeframe:1mo|sector:Consumer Non-Durables|symbol:VFC|start_date:2016-11-16|start_open:56.34|end_date:2016-12-16|end_close:53.78|stock_return:-0.045438
-timeframe:1mo|sector:Consumer Non-Durables|symbol:VGR|start_date:2016-11-16|start_open:20.88|end_date:2016-12-16|end_close:22.58|stock_return:0.081418
 timeframe:1mo|sector:Consumer Non-Durables|symbol:VOXX|start_date:2016-11-16|start_open:4.60|end_date:2016-12-16|end_close:5.05|stock_return:0.097826
 timeframe:1mo|sector:Consumer Non-Durables|symbol:VRA|start_date:2016-11-16|start_open:15.09|end_date:2016-12-16|end_close:12.57|stock_return:-0.166998
 timeframe:1mo|sector:Consumer Non-Durables|symbol:VSI|start_date:2016-11-16|start_open:25.45|end_date:2016-12-16|end_close:25.25|stock_return:-0.007859

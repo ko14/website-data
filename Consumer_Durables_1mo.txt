@@ -5,7 +5,6 @@ timeframe:1mo|sector:Consumer Durables|symbol:AIT|start_date:2016-11-16|start_op
 timeframe:1mo|sector:Consumer Durables|symbol:AME|start_date:2016-11-16|start_open:47.90|end_date:2016-12-16|end_close:49.18|stock_return:0.026722
 timeframe:1mo|sector:Consumer Durables|symbol:AMSC|start_date:2016-11-16|start_open:8.08|end_date:2016-12-16|end_close:7.71|stock_return:-0.045792
 timeframe:1mo|sector:Consumer Durables|symbol:AN|start_date:2016-11-16|start_open:44.70|end_date:2016-12-16|end_close:47.96|stock_return:0.072931
-timeframe:1mo|sector:Consumer Durables|symbol:AOS|start_date:2016-11-16|start_open:47.23|end_date:2016-12-16|end_close:48.51|stock_return:0.027101
 timeframe:1mo|sector:Consumer Durables|symbol:ASH|start_date:2016-11-16|start_open:107.74|end_date:2016-12-16|end_close:110.10|stock_return:0.021905
 timeframe:1mo|sector:Consumer Durables|symbol:AVY|start_date:2016-11-16|start_open:70.91|end_date:2016-12-16|end_close:71.94|stock_return:0.014525
 timeframe:1mo|sector:Consumer Durables|symbol:AYI|start_date:2016-11-16|start_open:257.27|end_date:2016-12-16|end_close:248.16|stock_return:-0.035410
@@ -16,6 +15,7 @@ timeframe:1mo|sector:Consumer Durables|symbol:BRC|start_date:2016-11-16|start_op
 timeframe:1mo|sector:Consumer Durables|symbol:BSET|start_date:2016-11-16|start_open:27.95|end_date:2016-12-16|end_close:30.10|stock_return:0.076923
 timeframe:1mo|sector:Consumer Durables|symbol:CASY|start_date:2016-11-16|start_open:122.05|end_date:2016-12-16|end_close:124.57|stock_return:0.020647
 timeframe:1mo|sector:Consumer Durables|symbol:CCK|start_date:2016-11-16|start_open:53.62|end_date:2016-12-16|end_close:52.78|stock_return:-0.015666
+timeframe:1mo|sector:Consumer Durables|symbol:CDXC|start_date:2016-11-16|start_open:2.62|end_date:2016-12-16|end_close:2.48|stock_return:-0.053435
 timeframe:1mo|sector:Consumer Durables|symbol:CENT|start_date:2016-11-16|start_open:27.80|end_date:2016-12-16|end_close:32.58|stock_return:0.171942
 timeframe:1mo|sector:Consumer Durables|symbol:CENTA|start_date:2016-11-16|start_open:26.71|end_date:2016-12-16|end_close:30.62|stock_return:0.146387
 timeframe:1mo|sector:Consumer Durables|symbol:CJJD|start_date:2016-11-16|start_open:1.70|end_date:2016-12-16|end_close:1.76|stock_return:0.035294
@@ -102,6 +102,7 @@ timeframe:1mo|sector:Consumer Durables|symbol:PPSI|start_date:2016-11-16|start_o
 timeframe:1mo|sector:Consumer Durables|symbol:RBC|start_date:2016-11-16|start_open:68.90|end_date:2016-12-16|end_close:71.70|stock_return:0.040639
 timeframe:1mo|sector:Consumer Durables|symbol:RUSHA|start_date:2016-11-16|start_open:27.63|end_date:2016-12-16|end_close:32.16|stock_return:0.163952
 timeframe:1mo|sector:Consumer Durables|symbol:RUSHB|start_date:2016-11-16|start_open:26.88|end_date:2016-12-16|end_close:28.46|stock_return:0.058780
+timeframe:1mo|sector:Consumer Durables|symbol:RVLT|start_date:2016-11-16|start_open:5.46|end_date:2016-12-16|end_close:5.68|stock_return:0.040293
 timeframe:1mo|sector:Consumer Durables|symbol:SAH|start_date:2016-11-16|start_open:20.35|end_date:2016-12-16|end_close:22.45|stock_return:0.103194
 timeframe:1mo|sector:Consumer Durables|symbol:SCHN|start_date:2016-11-16|start_open:27.60|end_date:2016-12-16|end_close:27.90|stock_return:0.010870
 timeframe:1mo|sector:Consumer Durables|symbol:SCS|start_date:2016-11-16|start_open:15.20|end_date:2016-12-16|end_close:16.45|stock_return:0.082237
@@ -116,7 +117,6 @@ timeframe:1mo|sector:Consumer Durables|symbol:TGLS|start_date:2016-11-16|start_o
 timeframe:1mo|sector:Consumer Durables|symbol:TILE|start_date:2016-11-16|start_open:17.75|end_date:2016-12-16|end_close:18.80|stock_return:0.059155
 timeframe:1mo|sector:Consumer Durables|symbol:TPX|start_date:2016-11-16|start_open:62.43|end_date:2016-12-16|end_close:67.56|stock_return:0.082172
 timeframe:1mo|sector:Consumer Durables|symbol:UNVR|start_date:2016-11-16|start_open:24.37|end_date:2016-12-16|end_close:26.10|stock_return:0.070989
-timeframe:1mo|sector:Consumer Durables|symbol:USNA|start_date:2016-11-16|start_open:123.40|end_date:2016-12-16|end_close:62.20|stock_return:-0.495948
 timeframe:1mo|sector:Consumer Durables|symbol:UTSI|start_date:2016-11-16|start_open:1.95|end_date:2016-12-16|end_close:1.99|stock_return:0.020513
 timeframe:1mo|sector:Consumer Durables|symbol:VCRA|start_date:2016-11-16|start_open:16.16|end_date:2016-12-16|end_close:17.62|stock_return:0.090347
 timeframe:1mo|sector:Consumer Durables|symbol:VIRC|start_date:2016-11-16|start_open:4.35|end_date:2016-12-16|end_close:3.85|stock_return:-0.114943

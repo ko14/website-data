@@ -50,6 +50,7 @@ timeframe:3mo|sector:Energy|symbol:COP|start_date:2016-09-16|start_open:39.62|en
 timeframe:3mo|sector:Energy|symbol:CPE|start_date:2016-09-16|start_open:13.94|end_date:2016-12-16|end_close:15.95|stock_return:0.144189
 timeframe:3mo|sector:Energy|symbol:CPG|start_date:2016-09-16|start_open:12.78|end_date:2016-12-16|end_close:13.80|stock_return:0.079812
 timeframe:3mo|sector:Energy|symbol:CPST|start_date:2016-09-16|start_open:1.40|end_date:2016-12-16|end_close:0.81|stock_return:-0.421429
+timeframe:3mo|sector:Energy|symbol:CRC|start_date:2016-09-16|start_open:10.01|end_date:2016-12-16|end_close:18.84|stock_return:0.882118
 timeframe:3mo|sector:Energy|symbol:CRT|start_date:2016-09-16|start_open:18.12|end_date:2016-12-16|end_close:19.15|stock_return:0.056843
 timeframe:3mo|sector:Energy|symbol:CRZO|start_date:2016-09-16|start_open:33.63|end_date:2016-12-16|end_close:39.05|stock_return:0.161166
 timeframe:3mo|sector:Energy|symbol:CVE|start_date:2016-09-16|start_open:13.38|end_date:2016-12-16|end_close:15.88|stock_return:0.186846
@@ -104,7 +105,6 @@ timeframe:3mo|sector:Energy|symbol:HFC|start_date:2016-09-16|start_open:24.89|en
 timeframe:3mo|sector:Energy|symbol:HGT|start_date:2016-09-16|start_open:2.07|end_date:2016-12-16|end_close:2.20|stock_return:0.062802
 timeframe:3mo|sector:Energy|symbol:HK|start_date:2016-09-16|start_open:8.37|end_date:2016-12-16|end_close:8.63|stock_return:0.031063
 timeframe:3mo|sector:Energy|symbol:HLX|start_date:2016-09-16|start_open:6.73|end_date:2016-12-16|end_close:9.96|stock_return:0.479941
-timeframe:3mo|sector:Energy|symbol:HNR|start_date:2016-09-16|start_open:0.87|end_date:2016-12-16|end_close:5.90|stock_return:5.781609
 timeframe:3mo|sector:Energy|symbol:HNRG|start_date:2016-09-16|start_open:6.85|end_date:2016-12-16|end_close:8.74|stock_return:0.275912
 timeframe:3mo|sector:Energy|symbol:HOLI|start_date:2016-09-16|start_open:21.09|end_date:2016-12-16|end_close:18.63|stock_return:-0.116643
 timeframe:3mo|sector:Energy|symbol:HP|start_date:2016-09-16|start_open:56.82|end_date:2016-12-16|end_close:78.70|stock_return:0.385076
@@ -160,7 +160,7 @@ timeframe:3mo|sector:Energy|symbol:OIS|start_date:2016-09-16|start_open:28.64|en
 timeframe:3mo|sector:Energy|symbol:ORIG|start_date:2016-09-16|start_open:0.74|end_date:2016-12-16|end_close:1.71|stock_return:1.310811
 timeframe:3mo|sector:Energy|symbol:OXY|start_date:2016-09-16|start_open:71.60|end_date:2016-12-16|end_close:73.44|stock_return:0.025698
 timeframe:3mo|sector:Energy|symbol:PAA|start_date:2016-09-16|start_open:26.87|end_date:2016-12-16|end_close:32.39|stock_return:0.205434
-timeframe:3mo|sector:Energy|symbol:PAGP|start_date:2016-09-16|start_open:11.11|end_date:2016-12-16|end_close:33.84|stock_return:2.045905
+timeframe:3mo|sector:Energy|symbol:PACD|start_date:2016-09-16|start_open:3.21|end_date:2016-12-16|end_close:4.93|stock_return:0.535826
 timeframe:3mo|sector:Energy|symbol:PBA|start_date:2016-09-16|start_open:29.22|end_date:2016-12-16|end_close:31.64|stock_return:0.082820
 timeframe:3mo|sector:Energy|symbol:PBF|start_date:2016-09-16|start_open:22.44|end_date:2016-12-16|end_close:26.91|stock_return:0.199198
 timeframe:3mo|sector:Energy|symbol:PBFX|start_date:2016-09-16|start_open:20.32|end_date:2016-12-16|end_close:18.35|stock_return:-0.096949
@@ -177,6 +177,7 @@ timeframe:3mo|sector:Energy|symbol:PHG|start_date:2016-09-16|start_open:28.47|en
 timeframe:3mo|sector:Energy|symbol:PHX|start_date:2016-09-16|start_open:16.00|end_date:2016-12-16|end_close:24.00|stock_return:0.500000
 timeframe:3mo|sector:Energy|symbol:PKD|start_date:2016-09-16|start_open:2.14|end_date:2016-12-16|end_close:2.55|stock_return:0.191589
 timeframe:3mo|sector:Energy|symbol:PLUG|start_date:2016-09-16|start_open:1.45|end_date:2016-12-16|end_close:1.32|stock_return:-0.089655
+timeframe:3mo|sector:Energy|symbol:PQ|start_date:2016-09-16|start_open:2.86|end_date:2016-12-16|end_close:3.84|stock_return:0.342657
 timeframe:3mo|sector:Energy|symbol:PSIX|start_date:2016-09-16|start_open:11.21|end_date:2016-12-16|end_close:10.80|stock_return:-0.036574
 timeframe:3mo|sector:Energy|symbol:PSX|start_date:2016-09-16|start_open:78.32|end_date:2016-12-16|end_close:87.46|stock_return:0.116701
 timeframe:3mo|sector:Energy|symbol:PSXP|start_date:2016-09-16|start_open:47.00|end_date:2016-12-16|end_close:46.48|stock_return:-0.011064
@@ -188,6 +189,7 @@ timeframe:3mo|sector:Energy|symbol:PZE|start_date:2016-09-16|start_open:6.50|end
 timeframe:3mo|sector:Energy|symbol:QEP|start_date:2016-09-16|start_open:16.59|end_date:2016-12-16|end_close:18.81|stock_return:0.133816
 timeframe:3mo|sector:Energy|symbol:RCON|start_date:2016-09-16|start_open:1.17|end_date:2016-12-16|end_close:1.43|stock_return:0.222222
 timeframe:3mo|sector:Energy|symbol:RDC|start_date:2016-09-16|start_open:12.42|end_date:2016-12-16|end_close:19.72|stock_return:0.587762
+timeframe:3mo|sector:Energy|symbol:REN|start_date:2016-09-16|start_open:24.47|end_date:2016-12-16|end_close:39.12|stock_return:0.598692
 timeframe:3mo|sector:Energy|symbol:RES|start_date:2016-09-16|start_open:14.28|end_date:2016-12-16|end_close:19.67|stock_return:0.377451
 timeframe:3mo|sector:Energy|symbol:REXX|start_date:2016-09-16|start_open:0.51|end_date:2016-12-16|end_close:0.48|stock_return:-0.058824
 timeframe:3mo|sector:Energy|symbol:RICE|start_date:2016-09-16|start_open:26.23|end_date:2016-12-16|end_close:20.55|stock_return:-0.216546
@@ -202,6 +204,7 @@ timeframe:3mo|sector:Energy|symbol:SDRL|start_date:2016-09-16|start_open:2.12|en
 timeframe:3mo|sector:Energy|symbol:SDT|start_date:2016-09-16|start_open:1.42|end_date:2016-12-16|end_close:1.39|stock_return:-0.021127
 timeframe:3mo|sector:Energy|symbol:SEMG|start_date:2016-09-16|start_open:32.76|end_date:2016-12-16|end_close:41.15|stock_return:0.256105
 timeframe:3mo|sector:Energy|symbol:SEV|start_date:2016-09-16|start_open:8.64|end_date:2016-12-16|end_close:8.92|stock_return:0.032407
+timeframe:3mo|sector:Energy|symbol:SGY|start_date:2016-09-16|start_open:11.70|end_date:2016-12-16|end_close:7.75|stock_return:-0.337607
 timeframe:3mo|sector:Energy|symbol:SHLX|start_date:2016-09-16|start_open:29.51|end_date:2016-12-16|end_close:27.10|stock_return:-0.081667
 timeframe:3mo|sector:Energy|symbol:SJT|start_date:2016-09-16|start_open:5.25|end_date:2016-12-16|end_close:6.32|stock_return:0.203810
 timeframe:3mo|sector:Energy|symbol:SLB|start_date:2016-09-16|start_open:76.10|end_date:2016-12-16|end_close:85.50|stock_return:0.123522
