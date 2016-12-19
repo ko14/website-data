@@ -84,7 +84,6 @@ timeframe:3mo|sector:Consumer Durables|symbol:NC|start_date:2016-09-16|start_ope
 timeframe:3mo|sector:Consumer Durables|symbol:NHTC|start_date:2016-09-16|start_open:30.97|end_date:2016-12-16|end_close:25.80|stock_return:-0.166936
 timeframe:3mo|sector:Consumer Durables|symbol:NMRX|start_date:2016-09-16|start_open:7.72|end_date:2016-12-16|end_close:7.76|stock_return:0.005181
 timeframe:3mo|sector:Consumer Durables|symbol:NSSC|start_date:2016-09-16|start_open:6.64|end_date:2016-12-16|end_close:8.20|stock_return:0.234940
-timeframe:3mo|sector:Consumer Durables|symbol:NTK|start_date:2016-09-16|start_open:0.87|end_date:2016-12-16|end_close:0.77|stock_return:-0.114943
 timeframe:3mo|sector:Consumer Durables|symbol:NTZ|start_date:2016-09-16|start_open:1.54|end_date:2016-12-16|end_close:1.95|stock_return:0.266234
 timeframe:3mo|sector:Consumer Durables|symbol:NUTR|start_date:2016-09-16|start_open:26.93|end_date:2016-12-16|end_close:34.00|stock_return:0.262532
 timeframe:3mo|sector:Consumer Durables|symbol:NVFY|start_date:2016-09-16|start_open:1.69|end_date:2016-12-16|end_close:1.96|stock_return:0.159763

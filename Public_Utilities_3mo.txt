@@ -66,7 +66,6 @@ timeframe:3mo|sector:Public Utilities|symbol:ED|start_date:2016-09-16|start_open
 timeframe:3mo|sector:Public Utilities|symbol:EDE|start_date:2016-09-16|start_open:34.05|end_date:2016-12-16|end_close:34.08|stock_return:0.000881
 timeframe:3mo|sector:Public Utilities|symbol:EDN|start_date:2016-09-16|start_open:18.95|end_date:2016-12-16|end_close:26.89|stock_return:0.418997
 timeframe:3mo|sector:Public Utilities|symbol:EE|start_date:2016-09-16|start_open:45.14|end_date:2016-12-16|end_close:46.90|stock_return:0.038990
-timeframe:3mo|sector:Public Utilities|symbol:EFM|start_date:2016-09-16|start_open:26.96|end_date:2016-12-16|end_close:294.75|stock_return:9.932864
 timeframe:3mo|sector:Public Utilities|symbol:EGHT|start_date:2016-09-16|start_open:14.76|end_date:2016-12-16|end_close:14.60|stock_return:-0.010840
 timeframe:3mo|sector:Public Utilities|symbol:EIX|start_date:2016-09-16|start_open:71.97|end_date:2016-12-16|end_close:71.72|stock_return:-0.003474
 timeframe:3mo|sector:Public Utilities|symbol:ELP|start_date:2016-09-16|start_open:9.90|end_date:2016-12-16|end_close:8.35|stock_return:-0.156566
@@ -102,7 +101,6 @@ timeframe:3mo|sector:Public Utilities|symbol:IDT|start_date:2016-09-16|start_ope
 timeframe:3mo|sector:Public Utilities|symbol:INFN|start_date:2016-09-16|start_open:8.45|end_date:2016-12-16|end_close:8.86|stock_return:0.048521
 timeframe:3mo|sector:Public Utilities|symbol:INVT|start_date:2016-09-16|start_open:1.64|end_date:2016-12-16|end_close:0.47|stock_return:-0.713415
 timeframe:3mo|sector:Public Utilities|symbol:IQNT|start_date:2016-09-16|start_open:16.66|end_date:2016-12-16|end_close:22.79|stock_return:0.367947
-timeframe:3mo|sector:Public Utilities|symbol:ITC|start_date:2016-09-16|start_open:45.35|end_date:2016-12-16|end_close:2.13|stock_return:-0.953032
 timeframe:3mo|sector:Public Utilities|symbol:JCS|start_date:2016-09-16|start_open:5.19|end_date:2016-12-16|end_close:4.99|stock_return:-0.038536
 timeframe:3mo|sector:Public Utilities|symbol:JE|start_date:2016-09-16|start_open:5.05|end_date:2016-12-16|end_close:5.37|stock_return:0.063366
 timeframe:3mo|sector:Public Utilities|symbol:KEP|start_date:2016-09-16|start_open:25.57|end_date:2016-12-16|end_close:19.49|stock_return:-0.237779
@@ -173,7 +171,6 @@ timeframe:3mo|sector:Public Utilities|symbol:SPKE|start_date:2016-09-16|start_op
 timeframe:3mo|sector:Public Utilities|symbol:SPOK|start_date:2016-09-16|start_open:18.39|end_date:2016-12-16|end_close:21.05|stock_return:0.144644
 timeframe:3mo|sector:Public Utilities|symbol:SR|start_date:2016-09-16|start_open:62.73|end_date:2016-12-16|end_close:64.20|stock_return:0.023434
 timeframe:3mo|sector:Public Utilities|symbol:SRE|start_date:2016-09-16|start_open:105.32|end_date:2016-12-16|end_close:102.14|stock_return:-0.030194
-timeframe:3mo|sector:Public Utilities|symbol:STR|start_date:2016-09-16|start_open:25.06|end_date:2016-12-16|end_close:222.50|stock_return:7.878691
 timeframe:3mo|sector:Public Utilities|symbol:SUNW|start_date:2016-09-16|start_open:2.63|end_date:2016-12-16|end_close:1.98|stock_return:-0.247148
 timeframe:3mo|sector:Public Utilities|symbol:SWX|start_date:2016-09-16|start_open:68.66|end_date:2016-12-16|end_close:76.02|stock_return:0.107195
 timeframe:3mo|sector:Public Utilities|symbol:SXE|start_date:2016-09-16|start_open:1.62|end_date:2016-12-16|end_close:1.52|stock_return:-0.061728

@@ -3,7 +3,6 @@ timeframe:3mo|sector:Capital Goods|symbol:AA|start_date:2016-09-16|start_open:9.
 timeframe:3mo|sector:Capital Goods|symbol:AAON|start_date:2016-09-16|start_open:27.70|end_date:2016-12-16|end_close:32.70|stock_return:0.180505
 timeframe:3mo|sector:Capital Goods|symbol:ABAX|start_date:2016-09-16|start_open:49.10|end_date:2016-12-16|end_close:53.13|stock_return:0.082077
 timeframe:3mo|sector:Capital Goods|symbol:ACAT|start_date:2016-09-16|start_open:14.38|end_date:2016-12-16|end_close:16.76|stock_return:0.165508
-timeframe:3mo|sector:Capital Goods|symbol:ACW|start_date:2016-09-16|start_open:2.56|end_date:2016-12-16|end_close:0.15|stock_return:-0.941406
 timeframe:3mo|sector:Capital Goods|symbol:AEHR|start_date:2016-09-16|start_open:2.31|end_date:2016-12-16|end_close:2.37|stock_return:0.025974
 timeframe:3mo|sector:Capital Goods|symbol:AEIS|start_date:2016-09-16|start_open:44.89|end_date:2016-12-16|end_close:53.37|stock_return:0.188906
 timeframe:3mo|sector:Capital Goods|symbol:AEMD|start_date:2016-09-16|start_open:4.70|end_date:2016-12-16|end_close:4.46|stock_return:-0.051064
@@ -91,7 +90,6 @@ timeframe:3mo|sector:Capital Goods|symbol:DORM|start_date:2016-09-16|start_open:
 timeframe:3mo|sector:Capital Goods|symbol:DW|start_date:2016-09-16|start_open:95.51|end_date:2016-12-16|end_close:108.15|stock_return:0.132342
 timeframe:3mo|sector:Capital Goods|symbol:DXPE|start_date:2016-09-16|start_open:26.11|end_date:2016-12-16|end_close:36.65|stock_return:0.403677
 timeframe:3mo|sector:Capital Goods|symbol:DYSL|start_date:2016-09-16|start_open:1.05|end_date:2016-12-16|end_close:1.27|stock_return:0.209524
-timeframe:3mo|sector:Capital Goods|symbol:EAC|start_date:2016-09-16|start_open:0.44|end_date:2016-12-16|end_close:73.56|stock_return:166.181818
 timeframe:3mo|sector:Capital Goods|symbol:EKSO|start_date:2016-09-16|start_open:3.86|end_date:2016-12-16|end_close:4.35|stock_return:0.126943
 timeframe:3mo|sector:Capital Goods|symbol:ELSE|start_date:2016-09-16|start_open:3.52|end_date:2016-12-16|end_close:3.57|stock_return:0.014205
 timeframe:3mo|sector:Capital Goods|symbol:EME|start_date:2016-09-16|start_open:56.31|end_date:2016-12-16|end_close:71.75|stock_return:0.274196
@@ -276,7 +274,6 @@ timeframe:3mo|sector:Capital Goods|symbol:SSD|start_date:2016-09-16|start_open:4
 timeframe:3mo|sector:Capital Goods|symbol:ST|start_date:2016-09-16|start_open:38.29|end_date:2016-12-16|end_close:40.04|stock_return:0.045704
 timeframe:3mo|sector:Capital Goods|symbol:STRT|start_date:2016-09-16|start_open:38.70|end_date:2016-12-16|end_close:42.85|stock_return:0.107235
 timeframe:3mo|sector:Capital Goods|symbol:SUP|start_date:2016-09-16|start_open:29.22|end_date:2016-12-16|end_close:26.95|stock_return:-0.077687
-timeframe:3mo|sector:Capital Goods|symbol:SWH|start_date:2016-09-16|start_open:124.02|end_date:2016-12-16|end_close:0.31|stock_return:-0.997500
 timeframe:3mo|sector:Capital Goods|symbol:SWHC|start_date:2016-09-16|start_open:27.32|end_date:2016-12-16|end_close:21.59|stock_return:-0.209736
 timeframe:3mo|sector:Capital Goods|symbol:SWK|start_date:2016-09-16|start_open:120.50|end_date:2016-12-16|end_close:116.77|stock_return:-0.030954
 timeframe:3mo|sector:Capital Goods|symbol:SYPR|start_date:2016-09-16|start_open:1.03|end_date:2016-12-16|end_close:0.93|stock_return:-0.097087

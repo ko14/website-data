@@ -75,7 +75,6 @@ timeframe:3mo|sector:Consumer Non-Durables|symbol:GIL|start_date:2016-09-16|star
 timeframe:3mo|sector:Consumer Non-Durables|symbol:GIS|start_date:2016-09-16|start_open:65.26|end_date:2016-12-16|end_close:63.50|stock_return:-0.026969
 timeframe:3mo|sector:Consumer Non-Durables|symbol:GNC|start_date:2016-09-16|start_open:21.35|end_date:2016-12-16|end_close:13.02|stock_return:-0.390164
 timeframe:3mo|sector:Consumer Non-Durables|symbol:GPIC|start_date:2016-09-16|start_open:10.09|end_date:2016-12-16|end_close:11.75|stock_return:0.164519
-timeframe:3mo|sector:Consumer Non-Durables|symbol:GRO|start_date:2016-09-16|start_open:0.84|end_date:2016-12-16|end_close:0.16|stock_return:-0.809524
 timeframe:3mo|sector:Consumer Non-Durables|symbol:HAIN|start_date:2016-09-16|start_open:35.47|end_date:2016-12-16|end_close:39.66|stock_return:0.118128
 timeframe:3mo|sector:Consumer Non-Durables|symbol:HAR|start_date:2016-09-16|start_open:80.93|end_date:2016-12-16|end_close:110.93|stock_return:0.370691
 timeframe:3mo|sector:Consumer Non-Durables|symbol:HAS|start_date:2016-09-16|start_open:77.25|end_date:2016-12-16|end_close:80.87|stock_return:0.046861
@@ -137,7 +136,6 @@ timeframe:3mo|sector:Consumer Non-Durables|symbol:POPE|start_date:2016-09-16|sta
 timeframe:3mo|sector:Consumer Non-Durables|symbol:POST|start_date:2016-09-16|start_open:80.08|end_date:2016-12-16|end_close:77.71|stock_return:-0.029595
 timeframe:3mo|sector:Consumer Non-Durables|symbol:PPC|start_date:2016-09-16|start_open:20.87|end_date:2016-12-16|end_close:18.31|stock_return:-0.122664
 timeframe:3mo|sector:Consumer Non-Durables|symbol:PRMW|start_date:2016-09-16|start_open:11.35|end_date:2016-12-16|end_close:12.32|stock_return:0.085463
-timeframe:3mo|sector:Consumer Non-Durables|symbol:PSG|start_date:2016-09-16|start_open:3.50|end_date:2016-12-16|end_close:11.17|stock_return:2.191429
 timeframe:3mo|sector:Consumer Non-Durables|symbol:PVH|start_date:2016-09-16|start_open:106.65|end_date:2016-12-16|end_close:91.98|stock_return:-0.137553
 timeframe:3mo|sector:Consumer Non-Durables|symbol:RADA|start_date:2016-09-16|start_open:1.10|end_date:2016-12-16|end_close:1.13|stock_return:0.027273
 timeframe:3mo|sector:Consumer Non-Durables|symbol:RAI|start_date:2016-09-16|start_open:47.27|end_date:2016-12-16|end_close:55.54|stock_return:0.174952

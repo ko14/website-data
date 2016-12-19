@@ -14,7 +14,6 @@ timeframe:3mo|sector:Technology|symbol:ADP|start_date:2016-09-16|start_open:87.1
 timeframe:3mo|sector:Technology|symbol:ADSK|start_date:2016-09-16|start_open:66.90|end_date:2016-12-16|end_close:76.48|stock_return:0.143199
 timeframe:3mo|sector:Technology|symbol:AER|start_date:2016-09-16|start_open:39.84|end_date:2016-12-16|end_close:42.44|stock_return:0.065261
 timeframe:3mo|sector:Technology|symbol:AGYS|start_date:2016-09-16|start_open:10.90|end_date:2016-12-16|end_close:10.29|stock_return:-0.055963
-timeframe:3mo|sector:Technology|symbol:AHS|start_date:2016-09-16|start_open:34.56|end_date:2016-12-16|end_close:0.04|stock_return:-0.998843
 timeframe:3mo|sector:Technology|symbol:AIRG|start_date:2016-09-16|start_open:15.00|end_date:2016-12-16|end_close:15.26|stock_return:0.017333
 timeframe:3mo|sector:Technology|symbol:AIXG|start_date:2016-09-16|start_open:6.14|end_date:2016-12-16|end_close:3.63|stock_return:-0.408795
 timeframe:3mo|sector:Technology|symbol:AL|start_date:2016-09-16|start_open:28.60|end_date:2016-12-16|end_close:35.10|stock_return:0.227273
@@ -47,7 +46,6 @@ timeframe:3mo|sector:Technology|symbol:ATTU|start_date:2016-09-16|start_open:7.2
 timeframe:3mo|sector:Technology|symbol:ATU|start_date:2016-09-16|start_open:22.13|end_date:2016-12-16|end_close:27.85|stock_return:0.258473
 timeframe:3mo|sector:Technology|symbol:ATVI|start_date:2016-09-16|start_open:44.67|end_date:2016-12-16|end_close:36.47|stock_return:-0.183568
 timeframe:3mo|sector:Technology|symbol:AUO|start_date:2016-09-16|start_open:3.53|end_date:2016-12-16|end_close:3.63|stock_return:0.028329
-timeframe:3mo|sector:Technology|symbol:AVG|start_date:2016-09-16|start_open:24.84|end_date:2016-12-16|end_close:189.00|stock_return:6.608696
 timeframe:3mo|sector:Technology|symbol:AVGO|start_date:2016-09-16|start_open:172.42|end_date:2016-12-16|end_close:178.42|stock_return:0.034799
 timeframe:3mo|sector:Technology|symbol:AVID|start_date:2016-09-16|start_open:7.74|end_date:2016-12-16|end_close:4.32|stock_return:-0.441860
 timeframe:3mo|sector:Technology|symbol:AVNW|start_date:2016-09-16|start_open:8.79|end_date:2016-12-16|end_close:14.02|stock_return:0.594994
@@ -128,7 +126,6 @@ timeframe:3mo|sector:Technology|symbol:CTXS|start_date:2016-09-16|start_open:83.
 timeframe:3mo|sector:Technology|symbol:CUDA|start_date:2016-09-16|start_open:23.61|end_date:2016-12-16|end_close:22.42|stock_return:-0.050402
 timeframe:3mo|sector:Technology|symbol:CVG|start_date:2016-09-16|start_open:29.24|end_date:2016-12-16|end_close:24.52|stock_return:-0.161423
 timeframe:3mo|sector:Technology|symbol:CVLT|start_date:2016-09-16|start_open:53.00|end_date:2016-12-16|end_close:53.70|stock_return:0.013208
-timeframe:3mo|sector:Technology|symbol:CVT|start_date:2016-09-16|start_open:31.95|end_date:2016-12-16|end_close:0.08|stock_return:-0.997496
 timeframe:3mo|sector:Technology|symbol:CVV|start_date:2016-09-16|start_open:8.50|end_date:2016-12-16|end_close:8.34|stock_return:-0.018824
 timeframe:3mo|sector:Technology|symbol:CW|start_date:2016-09-16|start_open:86.57|end_date:2016-12-16|end_close:100.88|stock_return:0.165300
 timeframe:3mo|sector:Technology|symbol:CY|start_date:2016-09-16|start_open:11.91|end_date:2016-12-16|end_close:11.00|stock_return:-0.076406
@@ -166,7 +163,6 @@ timeframe:3mo|sector:Technology|symbol:ELLI|start_date:2016-09-16|start_open:94.
 timeframe:3mo|sector:Technology|symbol:ELNK|start_date:2016-09-16|start_open:6.19|end_date:2016-12-16|end_close:5.54|stock_return:-0.105008
 timeframe:3mo|sector:Technology|symbol:ELON|start_date:2016-09-16|start_open:5.23|end_date:2016-12-16|end_close:5.20|stock_return:-0.005736
 timeframe:3mo|sector:Technology|symbol:ELTK|start_date:2016-09-16|start_open:1.02|end_date:2016-12-16|end_close:0.87|stock_return:-0.147059
-timeframe:3mo|sector:Technology|symbol:EMC|start_date:2016-09-16|start_open:49.44|end_date:2016-12-16|end_close:2.80|stock_return:-0.943366
 timeframe:3mo|sector:Technology|symbol:EMKR|start_date:2016-09-16|start_open:5.16|end_date:2016-12-16|end_close:8.85|stock_return:0.715116
 timeframe:3mo|sector:Technology|symbol:ENOC|start_date:2016-09-16|start_open:5.47|end_date:2016-12-16|end_close:6.25|stock_return:0.142596
 timeframe:3mo|sector:Technology|symbol:ENPH|start_date:2016-09-16|start_open:1.66|end_date:2016-12-16|end_close:1.24|stock_return:-0.253012
@@ -183,7 +179,6 @@ timeframe:3mo|sector:Technology|symbol:EXTN|start_date:2016-09-16|start_open:13.
 timeframe:3mo|sector:Technology|symbol:EXTR|start_date:2016-09-16|start_open:4.37|end_date:2016-12-16|end_close:5.03|stock_return:0.151030
 timeframe:3mo|sector:Technology|symbol:FALC|start_date:2016-09-16|start_open:1.01|end_date:2016-12-16|end_close:0.60|stock_return:-0.405941
 timeframe:3mo|sector:Technology|symbol:FB|start_date:2016-09-16|start_open:128.20|end_date:2016-12-16|end_close:119.87|stock_return:-0.064977
-timeframe:3mo|sector:Technology|symbol:FCS|start_date:2016-09-16|start_open:19.88|end_date:2016-12-16|end_close:1209.00|stock_return:59.814889
 timeframe:3mo|sector:Technology|symbol:FDS|start_date:2016-09-16|start_open:177.09|end_date:2016-12-16|end_close:165.34|stock_return:-0.066350
 timeframe:3mo|sector:Technology|symbol:FEYE|start_date:2016-09-16|start_open:14.01|end_date:2016-12-16|end_close:13.21|stock_return:-0.057102
 timeframe:3mo|sector:Technology|symbol:FFIV|start_date:2016-09-16|start_open:118.39|end_date:2016-12-16|end_close:144.64|stock_return:0.221725
@@ -199,7 +194,6 @@ timeframe:3mo|sector:Technology|symbol:FSNN|start_date:2016-09-16|start_open:1.7
 timeframe:3mo|sector:Technology|symbol:FTNT|start_date:2016-09-16|start_open:35.68|end_date:2016-12-16|end_close:29.77|stock_return:-0.165639
 timeframe:3mo|sector:Technology|symbol:FUEL|start_date:2016-09-16|start_open:2.75|end_date:2016-12-16|end_close:1.85|stock_return:-0.327273
 timeframe:3mo|sector:Technology|symbol:GDDY|start_date:2016-09-16|start_open:33.14|end_date:2016-12-16|end_close:34.98|stock_return:0.055522
-timeframe:3mo|sector:Technology|symbol:GEC|start_date:2016-09-16|start_open:4.19|end_date:2016-12-16|end_close:30.48|stock_return:6.274463
 timeframe:3mo|sector:Technology|symbol:GFN|start_date:2016-09-16|start_open:4.67|end_date:2016-12-16|end_close:5.40|stock_return:0.156317
 timeframe:3mo|sector:Technology|symbol:GHM|start_date:2016-09-16|start_open:18.21|end_date:2016-12-16|end_close:22.56|stock_return:0.238880
 timeframe:3mo|sector:Technology|symbol:GIGM|start_date:2016-09-16|start_open:2.58|end_date:2016-12-16|end_close:2.94|stock_return:0.139535
@@ -230,7 +224,6 @@ timeframe:3mo|sector:Technology|symbol:IBM|start_date:2016-09-16|start_open:155.
 timeframe:3mo|sector:Technology|symbol:IDTI|start_date:2016-09-16|start_open:21.02|end_date:2016-12-16|end_close:24.61|stock_return:0.170790
 timeframe:3mo|sector:Technology|symbol:IIJI|start_date:2016-09-16|start_open:9.32|end_date:2016-12-16|end_close:7.41|stock_return:-0.204936
 timeframe:3mo|sector:Technology|symbol:IL|start_date:2016-09-16|start_open:9.60|end_date:2016-12-16|end_close:13.10|stock_return:0.364583
-timeframe:3mo|sector:Technology|symbol:IM|start_date:2016-09-16|start_open:34.85|end_date:2016-12-16|end_close:0.01|stock_return:-0.999713
 timeframe:3mo|sector:Technology|symbol:IMI|start_date:2016-09-16|start_open:1.00|end_date:2016-12-16|end_close:1.08|stock_return:0.080000
 timeframe:3mo|sector:Technology|symbol:IMMR|start_date:2016-09-16|start_open:7.76|end_date:2016-12-16|end_close:10.75|stock_return:0.385309
 timeframe:3mo|sector:Technology|symbol:IMN|start_date:2016-09-16|start_open:0.71|end_date:2016-12-16|end_close:1.05|stock_return:0.478873
@@ -415,7 +408,6 @@ timeframe:3mo|sector:Technology|symbol:QUIK|start_date:2016-09-16|start_open:0.8
 timeframe:3mo|sector:Technology|symbol:QUMU|start_date:2016-09-16|start_open:2.72|end_date:2016-12-16|end_close:2.73|stock_return:0.003676
 timeframe:3mo|sector:Technology|symbol:QUNR|start_date:2016-09-16|start_open:28.99|end_date:2016-12-16|end_close:29.85|stock_return:0.029665
 timeframe:3mo|sector:Technology|symbol:RATE|start_date:2016-09-16|start_open:7.67|end_date:2016-12-16|end_close:10.35|stock_return:0.349413
-timeframe:3mo|sector:Technology|symbol:RAX|start_date:2016-09-16|start_open:31.48|end_date:2016-12-16|end_close:32.95|stock_return:0.046696
 timeframe:3mo|sector:Technology|symbol:RBCN|start_date:2016-09-16|start_open:0.59|end_date:2016-12-16|end_close:0.49|stock_return:-0.169492
 timeframe:3mo|sector:Technology|symbol:RCII|start_date:2016-09-16|start_open:12.58|end_date:2016-12-16|end_close:11.78|stock_return:-0.063593
 timeframe:3mo|sector:Technology|symbol:RCMT|start_date:2016-09-16|start_open:5.95|end_date:2016-12-16|end_close:6.85|stock_return:0.151261
@@ -443,9 +435,7 @@ timeframe:3mo|sector:Technology|symbol:SCSC|start_date:2016-09-16|start_open:34.
 timeframe:3mo|sector:Technology|symbol:SCWX|start_date:2016-09-16|start_open:12.83|end_date:2016-12-16|end_close:10.60|stock_return:-0.173811
 timeframe:3mo|sector:Technology|symbol:SEAC|start_date:2016-09-16|start_open:2.81|end_date:2016-12-16|end_close:2.45|stock_return:-0.128114
 timeframe:3mo|sector:Technology|symbol:SEDG|start_date:2016-09-16|start_open:14.94|end_date:2016-12-16|end_close:13.40|stock_return:-0.103079
-timeframe:3mo|sector:Technology|symbol:SEMI|start_date:2016-09-16|start_open:11.44|end_date:2016-12-16|end_close:5.00|stock_return:-0.562937
 timeframe:3mo|sector:Technology|symbol:SFUN|start_date:2016-09-16|start_open:4.47|end_date:2016-12-16|end_close:3.00|stock_return:-0.328859
-timeframe:3mo|sector:Technology|symbol:SGI|start_date:2016-09-16|start_open:7.72|end_date:2016-12-16|end_close:10.00|stock_return:0.295337
 timeframe:3mo|sector:Technology|symbol:SGMA|start_date:2016-09-16|start_open:5.57|end_date:2016-12-16|end_close:4.59|stock_return:-0.175943
 timeframe:3mo|sector:Technology|symbol:SGMS|start_date:2016-09-16|start_open:10.66|end_date:2016-12-16|end_close:15.15|stock_return:0.421201
 timeframe:3mo|sector:Technology|symbol:SGOC|start_date:2016-09-16|start_open:3.31|end_date:2016-12-16|end_close:3.38|stock_return:0.021148
@@ -459,7 +449,6 @@ timeframe:3mo|sector:Technology|symbol:SINA|start_date:2016-09-16|start_open:76.
 timeframe:3mo|sector:Technology|symbol:SLAB|start_date:2016-09-16|start_open:56.08|end_date:2016-12-16|end_close:66.00|stock_return:0.176890
 timeframe:3mo|sector:Technology|symbol:SLP|start_date:2016-09-16|start_open:8.73|end_date:2016-12-16|end_close:9.00|stock_return:0.030928
 timeframe:3mo|sector:Technology|symbol:SMCI|start_date:2016-09-16|start_open:21.93|end_date:2016-12-16|end_close:28.30|stock_return:0.290470
-timeframe:3mo|sector:Technology|symbol:SMT|start_date:2016-09-16|start_open:1.96|end_date:2016-12-16|end_close:1.95|stock_return:-0.005102
 timeframe:3mo|sector:Technology|symbol:SMTC|start_date:2016-09-16|start_open:27.13|end_date:2016-12-16|end_close:32.20|stock_return:0.186878
 timeframe:3mo|sector:Technology|symbol:SMTX|start_date:2016-09-16|start_open:1.38|end_date:2016-12-16|end_close:1.57|stock_return:0.137681
 timeframe:3mo|sector:Technology|symbol:SNCR|start_date:2016-09-16|start_open:41.50|end_date:2016-12-16|end_close:41.78|stock_return:0.006747
@@ -545,7 +534,6 @@ timeframe:3mo|sector:Technology|symbol:VECO|start_date:2016-09-16|start_open:19.
 timeframe:3mo|sector:Technology|symbol:VEEV|start_date:2016-09-16|start_open:40.50|end_date:2016-12-16|end_close:42.70|stock_return:0.054321
 timeframe:3mo|sector:Technology|symbol:VIAV|start_date:2016-09-16|start_open:7.42|end_date:2016-12-16|end_close:8.38|stock_return:0.129380
 timeframe:3mo|sector:Technology|symbol:VISN|start_date:2016-09-16|start_open:6.68|end_date:2016-12-16|end_close:5.12|stock_return:-0.233533
-timeframe:3mo|sector:Technology|symbol:VMEM|start_date:2016-09-16|start_open:0.88|end_date:2016-12-16|end_close:0.05|stock_return:-0.943182
 timeframe:3mo|sector:Technology|symbol:VMW|start_date:2016-09-16|start_open:73.20|end_date:2016-12-16|end_close:80.79|stock_return:0.103689
 timeframe:3mo|sector:Technology|symbol:VNET|start_date:2016-09-16|start_open:8.25|end_date:2016-12-16|end_close:7.33|stock_return:-0.111515
 timeframe:3mo|sector:Technology|symbol:VRNS|start_date:2016-09-16|start_open:29.07|end_date:2016-12-16|end_close:24.85|stock_return:-0.145167

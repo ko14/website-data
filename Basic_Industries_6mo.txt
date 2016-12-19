@@ -32,7 +32,6 @@ timeframe:6mo|sector:Basic Industries|symbol:BIOA|start_date:2016-06-17|start_op
 timeframe:6mo|sector:Basic Industries|symbol:BLD|start_date:2016-06-17|start_open:35.52|end_date:2016-12-16|end_close:36.41|stock_return:0.025056
 timeframe:6mo|sector:Basic Industries|symbol:BVN|start_date:2016-06-17|start_open:10.75|end_date:2016-12-16|end_close:10.11|stock_return:-0.059535
 timeframe:6mo|sector:Basic Industries|symbol:CADC|start_date:2016-06-17|start_open:2.30|end_date:2016-12-16|end_close:2.20|stock_return:-0.043478
-timeframe:6mo|sector:Basic Industries|symbol:CAS|start_date:2016-06-17|start_open:1.78|end_date:2016-12-16|end_close:11.81|stock_return:5.634831
 timeframe:6mo|sector:Basic Industries|symbol:CBI|start_date:2016-06-17|start_open:35.88|end_date:2016-12-16|end_close:35.24|stock_return:-0.017837
 timeframe:6mo|sector:Basic Industries|symbol:CBT|start_date:2016-06-17|start_open:46.02|end_date:2016-12-16|end_close:52.61|stock_return:0.143199
 timeframe:6mo|sector:Basic Industries|symbol:CC|start_date:2016-06-17|start_open:8.97|end_date:2016-12-16|end_close:24.14|stock_return:1.691193
@@ -133,7 +132,6 @@ timeframe:6mo|sector:Basic Industries|symbol:KS|start_date:2016-06-17|start_open
 timeframe:6mo|sector:Basic Industries|symbol:KWR|start_date:2016-06-17|start_open:89.51|end_date:2016-12-16|end_close:128.75|stock_return:0.438387
 timeframe:6mo|sector:Basic Industries|symbol:LAYN|start_date:2016-06-17|start_open:7.31|end_date:2016-12-16|end_close:10.52|stock_return:0.439124
 timeframe:6mo|sector:Basic Industries|symbol:LEN|start_date:2016-06-17|start_open:45.69|end_date:2016-12-16|end_close:43.42|stock_return:-0.049683
-timeframe:6mo|sector:Basic Industries|symbol:LIME|start_date:2016-06-17|start_open:2.24|end_date:2016-12-16|end_close:2.00|stock_return:-0.107143
 timeframe:6mo|sector:Basic Industries|symbol:LNDC|start_date:2016-06-17|start_open:11.10|end_date:2016-12-16|end_close:13.55|stock_return:0.220721
 timeframe:6mo|sector:Basic Industries|symbol:LPX|start_date:2016-06-17|start_open:17.12|end_date:2016-12-16|end_close:19.79|stock_return:0.155958
 timeframe:6mo|sector:Basic Industries|symbol:LXFR|start_date:2016-06-17|start_open:12.57|end_date:2016-12-16|end_close:11.86|stock_return:-0.056484

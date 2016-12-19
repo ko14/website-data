@@ -95,7 +95,6 @@ timeframe:6mo|sector:Energy|symbol:GE|start_date:2016-06-17|start_open:30.65|end
 timeframe:6mo|sector:Energy|symbol:GEL|start_date:2016-06-17|start_open:38.15|end_date:2016-12-16|end_close:34.31|stock_return:-0.100655
 timeframe:6mo|sector:Energy|symbol:GLF|start_date:2016-06-17|start_open:3.61|end_date:2016-12-16|end_close:1.70|stock_return:-0.529086
 timeframe:6mo|sector:Energy|symbol:GLP|start_date:2016-06-17|start_open:13.32|end_date:2016-12-16|end_close:15.95|stock_return:0.197447
-timeframe:6mo|sector:Energy|symbol:GLRI|start_date:2016-06-17|start_open:0.26|end_date:2016-12-16|end_close:0.09|stock_return:-0.653846
 timeframe:6mo|sector:Energy|symbol:GPOR|start_date:2016-06-17|start_open:32.10|end_date:2016-12-16|end_close:21.71|stock_return:-0.323676
 timeframe:6mo|sector:Energy|symbol:GPRK|start_date:2016-06-17|start_open:3.00|end_date:2016-12-16|end_close:4.60|stock_return:0.533333
 timeframe:6mo|sector:Energy|symbol:HAL|start_date:2016-06-17|start_open:43.75|end_date:2016-12-16|end_close:53.99|stock_return:0.234057
@@ -131,7 +130,6 @@ timeframe:6mo|sector:Energy|symbol:MMP|start_date:2016-06-17|start_open:73.75|en
 timeframe:6mo|sector:Energy|symbol:MPC|start_date:2016-06-17|start_open:33.54|end_date:2016-12-16|end_close:50.11|stock_return:0.494037
 timeframe:6mo|sector:Energy|symbol:MPET|start_date:2016-06-17|start_open:1.29|end_date:2016-12-16|end_close:6.69|stock_return:4.186047
 timeframe:6mo|sector:Energy|symbol:MPLX|start_date:2016-06-17|start_open:32.79|end_date:2016-12-16|end_close:32.48|stock_return:-0.009454
-timeframe:6mo|sector:Energy|symbol:MRD|start_date:2016-06-17|start_open:16.11|end_date:2016-12-16|end_close:13.95|stock_return:-0.134078
 timeframe:6mo|sector:Energy|symbol:MRO|start_date:2016-06-17|start_open:12.98|end_date:2016-12-16|end_close:18.59|stock_return:0.432203
 timeframe:6mo|sector:Energy|symbol:MTDR|start_date:2016-06-17|start_open:21.91|end_date:2016-12-16|end_close:25.92|stock_return:0.183021
 timeframe:6mo|sector:Energy|symbol:MTR|start_date:2016-06-17|start_open:8.43|end_date:2016-12-16|end_close:11.35|stock_return:0.346382

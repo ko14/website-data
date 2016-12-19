@@ -95,7 +95,6 @@ timeframe:3mo|sector:Energy|symbol:GE|start_date:2016-09-16|start_open:29.63|end
 timeframe:3mo|sector:Energy|symbol:GEL|start_date:2016-09-16|start_open:33.25|end_date:2016-12-16|end_close:34.31|stock_return:0.031880
 timeframe:3mo|sector:Energy|symbol:GLF|start_date:2016-09-16|start_open:1.90|end_date:2016-12-16|end_close:1.70|stock_return:-0.105263
 timeframe:3mo|sector:Energy|symbol:GLP|start_date:2016-09-16|start_open:15.16|end_date:2016-12-16|end_close:15.95|stock_return:0.052111
-timeframe:3mo|sector:Energy|symbol:GLRI|start_date:2016-09-16|start_open:0.14|end_date:2016-12-16|end_close:0.09|stock_return:-0.357143
 timeframe:3mo|sector:Energy|symbol:GPOR|start_date:2016-09-16|start_open:27.93|end_date:2016-12-16|end_close:21.71|stock_return:-0.222700
 timeframe:3mo|sector:Energy|symbol:GPRK|start_date:2016-09-16|start_open:3.22|end_date:2016-12-16|end_close:4.60|stock_return:0.428571
 timeframe:3mo|sector:Energy|symbol:HAL|start_date:2016-09-16|start_open:40.77|end_date:2016-12-16|end_close:53.99|stock_return:0.324258

@@ -35,7 +35,6 @@ timeframe:1mo|sector:Basic Industries|symbol:BIOA|start_date:2016-11-16|start_op
 timeframe:1mo|sector:Basic Industries|symbol:BLD|start_date:2016-11-16|start_open:36.20|end_date:2016-12-16|end_close:36.41|stock_return:0.005801
 timeframe:1mo|sector:Basic Industries|symbol:BVN|start_date:2016-11-16|start_open:11.03|end_date:2016-12-16|end_close:10.11|stock_return:-0.083409
 timeframe:1mo|sector:Basic Industries|symbol:CADC|start_date:2016-11-16|start_open:2.50|end_date:2016-12-16|end_close:2.20|stock_return:-0.120000
-timeframe:1mo|sector:Basic Industries|symbol:CAS|start_date:2016-11-16|start_open:0.51|end_date:2016-12-16|end_close:11.81|stock_return:22.156863
 timeframe:1mo|sector:Basic Industries|symbol:CBI|start_date:2016-11-16|start_open:31.56|end_date:2016-12-16|end_close:35.24|stock_return:0.116603
 timeframe:1mo|sector:Basic Industries|symbol:CBT|start_date:2016-11-16|start_open:51.77|end_date:2016-12-16|end_close:52.61|stock_return:0.016226
 timeframe:1mo|sector:Basic Industries|symbol:CC|start_date:2016-11-16|start_open:22.17|end_date:2016-12-16|end_close:24.14|stock_return:0.088859
@@ -136,7 +135,6 @@ timeframe:1mo|sector:Basic Industries|symbol:KS|start_date:2016-11-16|start_open
 timeframe:1mo|sector:Basic Industries|symbol:KWR|start_date:2016-11-16|start_open:122.35|end_date:2016-12-16|end_close:128.75|stock_return:0.052309
 timeframe:1mo|sector:Basic Industries|symbol:LAYN|start_date:2016-11-16|start_open:10.29|end_date:2016-12-16|end_close:10.52|stock_return:0.022352
 timeframe:1mo|sector:Basic Industries|symbol:LEN|start_date:2016-11-16|start_open:41.87|end_date:2016-12-16|end_close:43.42|stock_return:0.037019
-timeframe:1mo|sector:Basic Industries|symbol:LIME|start_date:2016-11-16|start_open:2.06|end_date:2016-12-16|end_close:2.00|stock_return:-0.029126
 timeframe:1mo|sector:Basic Industries|symbol:LMB|start_date:2016-11-16|start_open:14.88|end_date:2016-12-16|end_close:13.50|stock_return:-0.092742
 timeframe:1mo|sector:Basic Industries|symbol:LNDC|start_date:2016-11-16|start_open:13.95|end_date:2016-12-16|end_close:13.55|stock_return:-0.028674
 timeframe:1mo|sector:Basic Industries|symbol:LPX|start_date:2016-11-16|start_open:18.60|end_date:2016-12-16|end_close:19.79|stock_return:0.063978

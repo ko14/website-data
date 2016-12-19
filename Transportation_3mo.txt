@@ -68,7 +68,6 @@ timeframe:3mo|sector:Transportation|symbol:PAC|start_date:2016-09-16|start_open:
 timeframe:3mo|sector:Transportation|symbol:PATI|start_date:2016-09-16|start_open:20.99|end_date:2016-12-16|end_close:23.13|stock_return:0.101953
 timeframe:3mo|sector:Transportation|symbol:PHIIK|start_date:2016-09-16|start_open:17.68|end_date:2016-12-16|end_close:17.37|stock_return:-0.017534
 timeframe:3mo|sector:Transportation|symbol:PTSI|start_date:2016-09-16|start_open:20.23|end_date:2016-12-16|end_close:26.44|stock_return:0.306970
-timeframe:3mo|sector:Transportation|symbol:PWX|start_date:2016-09-16|start_open:24.77|end_date:2016-12-16|end_close:16.70|stock_return:-0.325797
 timeframe:3mo|sector:Transportation|symbol:PXS|start_date:2016-09-16|start_open:3.09|end_date:2016-12-16|end_close:2.25|stock_return:-0.271845
 timeframe:3mo|sector:Transportation|symbol:RRTS|start_date:2016-09-16|start_open:8.28|end_date:2016-12-16|end_close:10.90|stock_return:0.316425
 timeframe:3mo|sector:Transportation|symbol:RYAAY|start_date:2016-09-16|start_open:77.39|end_date:2016-12-16|end_close:83.84|stock_return:0.083344
@@ -90,12 +89,10 @@ timeframe:3mo|sector:Transportation|symbol:TNP|start_date:2016-09-16|start_open:
 timeframe:3mo|sector:Transportation|symbol:TOPS|start_date:2016-09-16|start_open:3.40|end_date:2016-12-16|end_close:2.78|stock_return:-0.182353
 timeframe:3mo|sector:Transportation|symbol:UAL|start_date:2016-09-16|start_open:51.31|end_date:2016-12-16|end_close:74.42|stock_return:0.450400
 timeframe:3mo|sector:Transportation|symbol:ULH|start_date:2016-09-16|start_open:13.49|end_date:2016-12-16|end_close:16.20|stock_return:0.200890
-timeframe:3mo|sector:Transportation|symbol:ULTR|start_date:2016-09-16|start_open:0.32|end_date:2016-12-16|end_close:0.12|stock_return:-0.625000
 timeframe:3mo|sector:Transportation|symbol:UNP|start_date:2016-09-16|start_open:92.50|end_date:2016-12-16|end_close:103.31|stock_return:0.116865
 timeframe:3mo|sector:Transportation|symbol:UPS|start_date:2016-09-16|start_open:106.62|end_date:2016-12-16|end_close:115.81|stock_return:0.086194
 timeframe:3mo|sector:Transportation|symbol:USAK|start_date:2016-09-16|start_open:11.30|end_date:2016-12-16|end_close:8.99|stock_return:-0.204425
 timeframe:3mo|sector:Transportation|symbol:USDP|start_date:2016-09-16|start_open:11.74|end_date:2016-12-16|end_close:14.40|stock_return:0.226576
-timeframe:3mo|sector:Transportation|symbol:VA|start_date:2016-09-16|start_open:55.90|end_date:2016-12-16|end_close:29.60|stock_return:-0.470483
 timeframe:3mo|sector:Transportation|symbol:VLRS|start_date:2016-09-16|start_open:16.91|end_date:2016-12-16|end_close:15.00|stock_return:-0.112951
 timeframe:3mo|sector:Transportation|symbol:WERN|start_date:2016-09-16|start_open:23.93|end_date:2016-12-16|end_close:27.20|stock_return:0.136649
 timeframe:3mo|sector:Transportation|symbol:YRCW|start_date:2016-09-16|start_open:11.90|end_date:2016-12-16|end_close:14.72|stock_return:0.236975

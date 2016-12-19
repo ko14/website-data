@@ -69,7 +69,6 @@ timeframe:3mo|sector:n/a|symbol:BNDX|start_date:2016-09-16|start_open:55.59|end_
 timeframe:3mo|sector:n/a|symbol:BNJ|start_date:2016-09-16|start_open:16.00|end_date:2016-12-16|end_close:14.29|stock_return:-0.106875
 timeframe:3mo|sector:n/a|symbol:BNY|start_date:2016-09-16|start_open:15.99|end_date:2016-12-16|end_close:13.67|stock_return:-0.145091
 timeframe:3mo|sector:n/a|symbol:BOE|start_date:2016-09-16|start_open:12.03|end_date:2016-12-16|end_close:11.59|stock_return:-0.036575
-timeframe:3mo|sector:n/a|symbol:BOI|start_date:2016-09-16|start_open:14.99|end_date:2016-12-16|end_close:19600.00|stock_return:1306.538359
 timeframe:3mo|sector:n/a|symbol:BPK|start_date:2016-09-16|start_open:15.20|end_date:2016-12-16|end_close:15.01|stock_return:-0.012500
 timeframe:3mo|sector:n/a|symbol:BQH|start_date:2016-09-16|start_open:15.55|end_date:2016-12-16|end_close:13.76|stock_return:-0.115113
 timeframe:3mo|sector:n/a|symbol:BSD|start_date:2016-09-16|start_open:14.72|end_date:2016-12-16|end_close:13.54|stock_return:-0.080163
@@ -81,7 +80,6 @@ timeframe:3mo|sector:n/a|symbol:BTO|start_date:2016-09-16|start_open:27.61|end_d
 timeframe:3mo|sector:n/a|symbol:BTT|start_date:2016-09-16|start_open:23.53|end_date:2016-12-16|end_close:21.58|stock_return:-0.082873
 timeframe:3mo|sector:n/a|symbol:BTZ|start_date:2016-09-16|start_open:13.18|end_date:2016-12-16|end_close:12.51|stock_return:-0.050835
 timeframe:3mo|sector:n/a|symbol:BUI|start_date:2016-09-16|start_open:19.07|end_date:2016-12-16|end_close:18.27|stock_return:-0.041951
-timeframe:3mo|sector:n/a|symbol:BVA|start_date:2016-09-16|start_open:0.27|end_date:2016-12-16|end_close:0.26|stock_return:-0.037037
 timeframe:3mo|sector:n/a|symbol:BWG|start_date:2016-09-16|start_open:13.17|end_date:2016-12-16|end_close:11.69|stock_return:-0.112377
 timeframe:3mo|sector:n/a|symbol:BXMX|start_date:2016-09-16|start_open:12.87|end_date:2016-12-16|end_close:12.71|stock_return:-0.012432
 timeframe:3mo|sector:n/a|symbol:BYM|start_date:2016-09-16|start_open:15.43|end_date:2016-12-16|end_close:13.77|stock_return:-0.107583
@@ -271,7 +269,6 @@ timeframe:3mo|sector:n/a|symbol:GBAB|start_date:2016-09-16|start_open:22.73|end_
 timeframe:3mo|sector:n/a|symbol:GBDC|start_date:2016-09-16|start_open:18.54|end_date:2016-12-16|end_close:18.05|stock_return:-0.026429
 timeframe:3mo|sector:n/a|symbol:GCH|start_date:2016-09-16|start_open:9.09|end_date:2016-12-16|end_close:8.66|stock_return:-0.047305
 timeframe:3mo|sector:n/a|symbol:GCV|start_date:2016-09-16|start_open:4.64|end_date:2016-12-16|end_close:4.66|stock_return:0.004310
-timeframe:3mo|sector:n/a|symbol:GDF|start_date:2016-09-16|start_open:1.05|end_date:2016-12-16|end_close:1.04|stock_return:-0.009524
 timeframe:3mo|sector:n/a|symbol:GDL|start_date:2016-09-16|start_open:9.84|end_date:2016-12-16|end_close:9.72|stock_return:-0.012195
 timeframe:3mo|sector:n/a|symbol:GDO|start_date:2016-09-16|start_open:17.69|end_date:2016-12-16|end_close:17.02|stock_return:-0.037875
 timeframe:3mo|sector:n/a|symbol:GDV|start_date:2016-09-16|start_open:19.02|end_date:2016-12-16|end_close:20.04|stock_return:0.053628
@@ -303,7 +300,6 @@ timeframe:3mo|sector:n/a|symbol:GUT|start_date:2016-09-16|start_open:6.63|end_da
 timeframe:3mo|sector:n/a|symbol:HCAP|start_date:2016-09-16|start_open:12.39|end_date:2016-12-16|end_close:13.54|stock_return:0.092817
 timeframe:3mo|sector:n/a|symbol:HEES|start_date:2016-09-16|start_open:15.45|end_date:2016-12-16|end_close:23.16|stock_return:0.499029
 timeframe:3mo|sector:n/a|symbol:HEQ|start_date:2016-09-16|start_open:16.17|end_date:2016-12-16|end_close:15.86|stock_return:-0.019171
-timeframe:3mo|sector:n/a|symbol:HHY|start_date:2016-09-16|start_open:7.21|end_date:2016-12-16|end_close:0.12|stock_return:-0.983356
 timeframe:3mo|sector:n/a|symbol:HIE|start_date:2016-09-16|start_open:12.42|end_date:2016-12-16|end_close:12.08|stock_return:-0.027375
 timeframe:3mo|sector:n/a|symbol:HIFS|start_date:2016-09-16|start_open:138.43|end_date:2016-12-16|end_close:185.00|stock_return:0.336416
 timeframe:3mo|sector:n/a|symbol:HIO|start_date:2016-09-16|start_open:4.96|end_date:2016-12-16|end_close:4.96|stock_return:0.000000
@@ -318,7 +314,6 @@ timeframe:3mo|sector:n/a|symbol:HRZN|start_date:2016-09-16|start_open:13.19|end_
 timeframe:3mo|sector:n/a|symbol:HTD|start_date:2016-09-16|start_open:23.81|end_date:2016-12-16|end_close:22.13|stock_return:-0.070559
 timeframe:3mo|sector:n/a|symbol:HTF|start_date:2016-09-16|start_open:25.59|end_date:2016-12-16|end_close:25.36|stock_return:-0.008988
 timeframe:3mo|sector:n/a|symbol:HTGC|start_date:2016-09-16|start_open:13.46|end_date:2016-12-16|end_close:13.45|stock_return:-0.000743
-timeframe:3mo|sector:n/a|symbol:HTR|start_date:2016-09-16|start_open:22.06|end_date:2016-12-16|end_close:0.04|stock_return:-0.998187
 timeframe:3mo|sector:n/a|symbol:HTY|start_date:2016-09-16|start_open:10.21|end_date:2016-12-16|end_close:9.70|stock_return:-0.049951
 timeframe:3mo|sector:n/a|symbol:HYB|start_date:2016-09-16|start_open:8.97|end_date:2016-12-16|end_close:9.15|stock_return:0.020067
 timeframe:3mo|sector:n/a|symbol:HYI|start_date:2016-09-16|start_open:15.00|end_date:2016-12-16|end_close:15.07|stock_return:0.004667
@@ -346,7 +341,6 @@ timeframe:3mo|sector:n/a|symbol:IHD|start_date:2016-09-16|start_open:7.95|end_da
 timeframe:3mo|sector:n/a|symbol:IID|start_date:2016-09-16|start_open:6.73|end_date:2016-12-16|end_close:6.71|stock_return:-0.002972
 timeframe:3mo|sector:n/a|symbol:IIF|start_date:2016-09-16|start_open:28.37|end_date:2016-12-16|end_close:25.91|stock_return:-0.086711
 timeframe:3mo|sector:n/a|symbol:IIM|start_date:2016-09-16|start_open:16.22|end_date:2016-12-16|end_close:14.74|stock_return:-0.091245
-timeframe:3mo|sector:n/a|symbol:IMS|start_date:2016-09-16|start_open:29.86|end_date:2016-12-16|end_close:0.06|stock_return:-0.997991
 timeframe:3mo|sector:n/a|symbol:INB|start_date:2016-09-16|start_open:8.96|end_date:2016-12-16|end_close:8.61|stock_return:-0.039063
 timeframe:3mo|sector:n/a|symbol:INDY|start_date:2016-09-16|start_open:30.05|end_date:2016-12-16|end_close:27.46|stock_return:-0.086190
 timeframe:3mo|sector:n/a|symbol:INF|start_date:2016-09-16|start_open:13.11|end_date:2016-12-16|end_close:12.24|stock_return:-0.066362
@@ -506,9 +500,6 @@ timeframe:3mo|sector:n/a|symbol:NMZ|start_date:2016-09-16|start_open:14.40|end_d
 timeframe:3mo|sector:n/a|symbol:NNC|start_date:2016-09-16|start_open:14.22|end_date:2016-12-16|end_close:12.84|stock_return:-0.097046
 timeframe:3mo|sector:n/a|symbol:NNY|start_date:2016-09-16|start_open:10.39|end_date:2016-12-16|end_close:9.34|stock_return:-0.101059
 timeframe:3mo|sector:n/a|symbol:NOM|start_date:2016-09-16|start_open:15.66|end_date:2016-12-16|end_close:16.12|stock_return:0.029374
-timeframe:3mo|sector:n/a|symbol:NPF|start_date:2016-09-16|start_open:1.14|end_date:2016-12-16|end_close:1.02|stock_return:-0.105263
-timeframe:3mo|sector:n/a|symbol:NPI|start_date:2016-09-16|start_open:23.58|end_date:2016-12-16|end_close:23.18|stock_return:-0.016964
-timeframe:3mo|sector:n/a|symbol:NPP|start_date:2016-09-16|start_open:1.24|end_date:2016-12-16|end_close:1.30|stock_return:0.048387
 timeframe:3mo|sector:n/a|symbol:NPV|start_date:2016-09-16|start_open:14.53|end_date:2016-12-16|end_close:12.74|stock_return:-0.123193
 timeframe:3mo|sector:n/a|symbol:NQP|start_date:2016-09-16|start_open:14.82|end_date:2016-12-16|end_close:12.94|stock_return:-0.126856
 timeframe:3mo|sector:n/a|symbol:NRK|start_date:2016-09-16|start_open:14.07|end_date:2016-12-16|end_close:12.64|stock_return:-0.101635
@@ -532,7 +523,6 @@ timeframe:3mo|sector:n/a|symbol:NZF|start_date:2016-09-16|start_open:15.57|end_d
 timeframe:3mo|sector:n/a|symbol:OFS|start_date:2016-09-16|start_open:13.18|end_date:2016-12-16|end_close:13.05|stock_return:-0.009863
 timeframe:3mo|sector:n/a|symbol:OHAI|start_date:2016-09-16|start_open:2.69|end_date:2016-12-16|end_close:1.79|stock_return:-0.334572
 timeframe:3mo|sector:n/a|symbol:OIA|start_date:2016-09-16|start_open:8.12|end_date:2016-12-16|end_close:7.24|stock_return:-0.108374
-timeframe:3mo|sector:n/a|symbol:OILD|start_date:2016-09-16|start_open:563.71|end_date:2016-12-16|end_close:642.04|stock_return:0.138954
 timeframe:3mo|sector:n/a|symbol:OLD|start_date:2016-09-16|start_open:25.78|end_date:2016-12-16|end_close:23.17|stock_return:-0.101241
 timeframe:3mo|sector:n/a|symbol:ONEQ|start_date:2016-09-16|start_open:206.88|end_date:2016-12-16|end_close:214.64|stock_return:0.037510
 timeframe:3mo|sector:n/a|symbol:OPB|start_date:2016-09-16|start_open:34.65|end_date:2016-12-16|end_close:28.80|stock_return:-0.168831
@@ -575,7 +565,6 @@ timeframe:3mo|sector:n/a|symbol:PNF|start_date:2016-09-16|start_open:12.93|end_d
 timeframe:3mo|sector:n/a|symbol:PNI|start_date:2016-09-16|start_open:13.39|end_date:2016-12-16|end_close:12.07|stock_return:-0.098581
 timeframe:3mo|sector:n/a|symbol:PNNT|start_date:2016-09-16|start_open:7.78|end_date:2016-12-16|end_close:7.83|stock_return:0.006427
 timeframe:3mo|sector:n/a|symbol:PNQI|start_date:2016-09-16|start_open:85.65|end_date:2016-12-16|end_close:83.94|stock_return:-0.019965
-timeframe:3mo|sector:n/a|symbol:PNY|start_date:2016-09-16|start_open:60.13|end_date:2016-12-16|end_close:0.04|stock_return:-0.999335
 timeframe:3mo|sector:n/a|symbol:PPH|start_date:2016-09-16|start_open:58.76|end_date:2016-12-16|end_close:52.64|stock_return:-0.104152
 timeframe:3mo|sector:n/a|symbol:PPR|start_date:2016-09-16|start_open:5.18|end_date:2016-12-16|end_close:5.52|stock_return:0.065637
 timeframe:3mo|sector:n/a|symbol:PPT|start_date:2016-09-16|start_open:4.85|end_date:2016-12-16|end_close:4.94|stock_return:0.018557
@@ -678,7 +667,6 @@ timeframe:3mo|sector:n/a|symbol:UAE|start_date:2016-09-16|start_open:16.88|end_d
 timeframe:3mo|sector:n/a|symbol:UBIO|start_date:2016-09-16|start_open:29.01|end_date:2016-12-16|end_close:22.83|stock_return:-0.213030
 timeframe:3mo|sector:n/a|symbol:USA|start_date:2016-09-16|start_open:5.08|end_date:2016-12-16|end_close:5.20|stock_return:0.023622
 timeframe:3mo|sector:n/a|symbol:USLB|start_date:2016-09-16|start_open:26.09|end_date:2016-12-16|end_close:27.09|stock_return:0.038329
-timeframe:3mo|sector:n/a|symbol:UTES|start_date:2016-09-16|start_open:30.71|end_date:2016-12-16|end_close:30.03|stock_return:-0.022143
 timeframe:3mo|sector:n/a|symbol:UTF|start_date:2016-09-16|start_open:21.20|end_date:2016-12-16|end_close:19.79|stock_return:-0.066509
 timeframe:3mo|sector:n/a|symbol:VBF|start_date:2016-09-16|start_open:19.13|end_date:2016-12-16|end_close:18.57|stock_return:-0.029273
 timeframe:3mo|sector:n/a|symbol:VBND|start_date:2016-09-16|start_open:51.52|end_date:2016-12-16|end_close:49.30|stock_return:-0.043090

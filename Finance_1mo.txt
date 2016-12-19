@@ -67,7 +67,6 @@ timeframe:1mo|sector:Finance|symbol:BBD|start_date:2016-11-16|start_open:8.69|en
 timeframe:1mo|sector:Finance|symbol:BBDO|start_date:2016-11-16|start_open:7.96|end_date:2016-12-16|end_close:8.33|stock_return:0.046482
 timeframe:1mo|sector:Finance|symbol:BBT|start_date:2016-11-16|start_open:41.60|end_date:2016-12-16|end_close:46.59|stock_return:0.119952
 timeframe:1mo|sector:Finance|symbol:BBVA|start_date:2016-11-16|start_open:6.42|end_date:2016-12-16|end_close:6.80|stock_return:0.059190
-timeframe:1mo|sector:Finance|symbol:BBX|start_date:2016-11-16|start_open:21.09|end_date:2016-12-16|end_close:0.03|stock_return:-0.998578
 timeframe:1mo|sector:Finance|symbol:BCBP|start_date:2016-11-16|start_open:12.15|end_date:2016-12-16|end_close:12.55|stock_return:0.032922
 timeframe:1mo|sector:Finance|symbol:BCH|start_date:2016-11-16|start_open:68.41|end_date:2016-12-16|end_close:69.41|stock_return:0.014618
 timeframe:1mo|sector:Finance|symbol:BCRH|start_date:2016-11-16|start_open:18.35|end_date:2016-12-16|end_close:18.35|stock_return:0.000000
@@ -173,7 +172,6 @@ timeframe:1mo|sector:Finance|symbol:CNO|start_date:2016-11-16|start_open:17.41|e
 timeframe:1mo|sector:Finance|symbol:CNOB|start_date:2016-11-16|start_open:21.55|end_date:2016-12-16|end_close:26.15|stock_return:0.213457
 timeframe:1mo|sector:Finance|symbol:CNS|start_date:2016-11-16|start_open:33.43|end_date:2016-12-16|end_close:34.61|stock_return:0.035298
 timeframe:1mo|sector:Finance|symbol:CO|start_date:2016-11-16|start_open:5.03|end_date:2016-12-16|end_close:4.46|stock_return:-0.113320
-timeframe:1mo|sector:Finance|symbol:COB|start_date:2016-11-16|start_open:165.70|end_date:2016-12-16|end_close:174.60|stock_return:0.053712
 timeframe:1mo|sector:Finance|symbol:COBZ|start_date:2016-11-16|start_open:14.86|end_date:2016-12-16|end_close:16.61|stock_return:0.117766
 timeframe:1mo|sector:Finance|symbol:COF|start_date:2016-11-16|start_open:80.37|end_date:2016-12-16|end_close:89.67|stock_return:0.115715
 timeframe:1mo|sector:Finance|symbol:COLB|start_date:2016-11-16|start_open:38.54|end_date:2016-12-16|end_close:43.62|stock_return:0.131811
@@ -456,7 +454,6 @@ timeframe:1mo|sector:Finance|symbol:MSL|start_date:2016-11-16|start_open:10.75|e
 timeframe:1mo|sector:Finance|symbol:MTB|start_date:2016-11-16|start_open:136.88|end_date:2016-12-16|end_close:152.49|stock_return:0.114041
 timeframe:1mo|sector:Finance|symbol:MTG|start_date:2016-11-16|start_open:8.81|end_date:2016-12-16|end_close:10.29|stock_return:0.167991
 timeframe:1mo|sector:Finance|symbol:MTU|start_date:2016-11-16|start_open:6.22|end_date:2016-12-16|end_close:6.43|stock_return:0.033762
-timeframe:1mo|sector:Finance|symbol:NATL|start_date:2016-11-16|start_open:385.83|end_date:2016-12-16|end_close:416.54|stock_return:0.079595
 timeframe:1mo|sector:Finance|symbol:NAVG|start_date:2016-11-16|start_open:104.65|end_date:2016-12-16|end_close:114.80|stock_return:0.096990
 timeframe:1mo|sector:Finance|symbol:NAVI|start_date:2016-11-16|start_open:17.26|end_date:2016-12-16|end_close:16.37|stock_return:-0.051564
 timeframe:1mo|sector:Finance|symbol:NBHC|start_date:2016-11-16|start_open:26.34|end_date:2016-12-16|end_close:31.22|stock_return:0.185270
@@ -564,7 +561,6 @@ timeframe:1mo|sector:Finance|symbol:RBS|start_date:2016-11-16|start_open:5.23|en
 timeframe:1mo|sector:Finance|symbol:RDN|start_date:2016-11-16|start_open:14.20|end_date:2016-12-16|end_close:17.58|stock_return:0.238028
 timeframe:1mo|sector:Finance|symbol:RE|start_date:2016-11-16|start_open:212.09|end_date:2016-12-16|end_close:214.30|stock_return:0.010420
 timeframe:1mo|sector:Finance|symbol:RESI|start_date:2016-11-16|start_open:11.48|end_date:2016-12-16|end_close:11.24|stock_return:-0.020906
-timeframe:1mo|sector:Finance|symbol:REXI|start_date:2016-11-16|start_open:626.10|end_date:2016-12-16|end_close:626.71|stock_return:0.000974
 timeframe:1mo|sector:Finance|symbol:RF|start_date:2016-11-16|start_open:13.21|end_date:2016-12-16|end_close:14.20|stock_return:0.074943
 timeframe:1mo|sector:Finance|symbol:RGA|start_date:2016-11-16|start_open:119.80|end_date:2016-12-16|end_close:125.92|stock_return:0.051085
 timeframe:1mo|sector:Finance|symbol:RJF|start_date:2016-11-16|start_open:71.16|end_date:2016-12-16|end_close:71.63|stock_return:0.006605
@@ -718,7 +714,6 @@ timeframe:1mo|sector:Finance|symbol:WETF|start_date:2016-11-16|start_open:9.33|e
 timeframe:1mo|sector:Finance|symbol:WF|start_date:2016-11-16|start_open:30.70|end_date:2016-12-16|end_close:33.91|stock_return:0.104560
 timeframe:1mo|sector:Finance|symbol:WFBI|start_date:2016-11-16|start_open:25.92|end_date:2016-12-16|end_close:28.35|stock_return:0.093750
 timeframe:1mo|sector:Finance|symbol:WFC|start_date:2016-11-16|start_open:51.79|end_date:2016-12-16|end_close:55.34|stock_return:0.068546
-timeframe:1mo|sector:Finance|symbol:WFD|start_date:2016-11-16|start_open:8.50|end_date:2016-12-16|end_close:8.94|stock_return:0.051765
 timeframe:1mo|sector:Finance|symbol:WHG|start_date:2016-11-16|start_open:58.65|end_date:2016-12-16|end_close:61.86|stock_return:0.054731
 timeframe:1mo|sector:Finance|symbol:WINS|start_date:2016-11-16|start_open:70.00|end_date:2016-12-16|end_close:162.64|stock_return:1.323429
 timeframe:1mo|sector:Finance|symbol:WLTW|start_date:2016-11-16|start_open:123.17|end_date:2016-12-16|end_close:122.33|stock_return:-0.006820
