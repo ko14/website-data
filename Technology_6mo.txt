@@ -13,7 +13,6 @@ timeframe:6mo|sector:Technology|symbol:ADP|start_date:2016-07-01|start_open:92.0
 timeframe:6mo|sector:Technology|symbol:ADSK|start_date:2016-07-01|start_open:54.12|end_date:2016-12-30|end_close:74.01|stock_return:0.367517
 timeframe:6mo|sector:Technology|symbol:AER|start_date:2016-07-01|start_open:33.51|end_date:2016-12-30|end_close:41.61|stock_return:0.241719
 timeframe:6mo|sector:Technology|symbol:AGYS|start_date:2016-07-01|start_open:10.04|end_date:2016-12-30|end_close:10.36|stock_return:0.031873
-timeframe:6mo|sector:Technology|symbol:AIXG|start_date:2016-07-01|start_open:6.19|end_date:2016-12-30|end_close:3.06|stock_return:-0.505654
 timeframe:6mo|sector:Technology|symbol:AL|start_date:2016-07-01|start_open:26.73|end_date:2016-12-30|end_close:34.33|stock_return:0.284325
 timeframe:6mo|sector:Technology|symbol:ALLT|start_date:2016-07-01|start_open:4.94|end_date:2016-12-30|end_close:4.79|stock_return:-0.030364
 timeframe:6mo|sector:Technology|symbol:ALOT|start_date:2016-07-01|start_open:15.20|end_date:2016-12-30|end_close:14.25|stock_return:-0.062500

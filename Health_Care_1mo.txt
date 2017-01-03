@@ -268,7 +268,6 @@ timeframe:1mo|sector:Health Care|symbol:FCSC|start_date:2016-11-30|start_open:0.
 timeframe:1mo|sector:Health Care|symbol:FGEN|start_date:2016-11-30|start_open:23.15|end_date:2016-12-30|end_close:21.40|stock_return:-0.075594
 timeframe:1mo|sector:Health Care|symbol:FLGT|start_date:2016-11-30|start_open:9.78|end_date:2016-12-30|end_close:11.57|stock_return:0.183027
 timeframe:1mo|sector:Health Care|symbol:FLKS|start_date:2016-11-30|start_open:6.27|end_date:2016-12-30|end_close:5.28|stock_return:-0.157895
-timeframe:1mo|sector:Health Care|symbol:FLML|start_date:2016-11-30|start_open:10.78|end_date:2016-12-30|end_close:10.39|stock_return:-0.036178
 timeframe:1mo|sector:Health Care|symbol:FLXN|start_date:2016-11-30|start_open:17.46|end_date:2016-12-30|end_close:19.02|stock_return:0.089347
 timeframe:1mo|sector:Health Care|symbol:FMI|start_date:2016-11-30|start_open:21.30|end_date:2016-12-30|end_close:17.70|stock_return:-0.169014
 timeframe:1mo|sector:Health Care|symbol:FMS|start_date:2016-11-30|start_open:39.33|end_date:2016-12-30|end_close:42.21|stock_return:0.073227
@@ -494,7 +493,6 @@ timeframe:1mo|sector:Health Care|symbol:OTIC|start_date:2016-11-30|start_open:17
 timeframe:1mo|sector:Health Care|symbol:OVAS|start_date:2016-11-30|start_open:3.52|end_date:2016-12-30|end_close:1.53|stock_return:-0.565341
 timeframe:1mo|sector:Health Care|symbol:OXFD|start_date:2016-11-30|start_open:14.80|end_date:2016-12-30|end_close:14.95|stock_return:0.010135
 timeframe:1mo|sector:Health Care|symbol:PAHC|start_date:2016-11-30|start_open:27.80|end_date:2016-12-30|end_close:29.30|stock_return:0.053957
-timeframe:1mo|sector:Health Care|symbol:PARN|start_date:2016-11-30|start_open:1.27|end_date:2016-12-30|end_close:0.69|stock_return:-0.456693
 timeframe:1mo|sector:Health Care|symbol:PAVM|start_date:2016-11-30|start_open:7.46|end_date:2016-12-30|end_close:6.90|stock_return:-0.075067
 timeframe:1mo|sector:Health Care|symbol:PBH|start_date:2016-11-30|start_open:48.39|end_date:2016-12-30|end_close:52.10|stock_return:0.076669
 timeframe:1mo|sector:Health Care|symbol:PBMD|start_date:2016-11-30|start_open:0.86|end_date:2016-12-30|end_close:2.34|stock_return:1.720930

@@ -263,7 +263,6 @@ timeframe:3mo|sector:Health Care|symbol:FBIO|start_date:2016-09-30|start_open:2.
 timeframe:3mo|sector:Health Care|symbol:FCSC|start_date:2016-09-30|start_open:0.71|end_date:2016-12-30|end_close:0.63|stock_return:-0.112676
 timeframe:3mo|sector:Health Care|symbol:FGEN|start_date:2016-09-30|start_open:20.64|end_date:2016-12-30|end_close:21.40|stock_return:0.036822
 timeframe:3mo|sector:Health Care|symbol:FLKS|start_date:2016-09-30|start_open:11.27|end_date:2016-12-30|end_close:5.28|stock_return:-0.531500
-timeframe:3mo|sector:Health Care|symbol:FLML|start_date:2016-09-30|start_open:12.11|end_date:2016-12-30|end_close:10.39|stock_return:-0.142031
 timeframe:3mo|sector:Health Care|symbol:FLXN|start_date:2016-09-30|start_open:19.16|end_date:2016-12-30|end_close:19.02|stock_return:-0.007307
 timeframe:3mo|sector:Health Care|symbol:FMI|start_date:2016-09-30|start_open:22.68|end_date:2016-12-30|end_close:17.70|stock_return:-0.219577
 timeframe:3mo|sector:Health Care|symbol:FMS|start_date:2016-09-30|start_open:43.27|end_date:2016-12-30|end_close:42.21|stock_return:-0.024497
@@ -483,7 +482,6 @@ timeframe:3mo|sector:Health Care|symbol:OTIC|start_date:2016-09-30|start_open:17
 timeframe:3mo|sector:Health Care|symbol:OVAS|start_date:2016-09-30|start_open:7.26|end_date:2016-12-30|end_close:1.53|stock_return:-0.789256
 timeframe:3mo|sector:Health Care|symbol:OXFD|start_date:2016-09-30|start_open:11.92|end_date:2016-12-30|end_close:14.95|stock_return:0.254195
 timeframe:3mo|sector:Health Care|symbol:PAHC|start_date:2016-09-30|start_open:26.53|end_date:2016-12-30|end_close:29.30|stock_return:0.104410
-timeframe:3mo|sector:Health Care|symbol:PARN|start_date:2016-09-30|start_open:1.51|end_date:2016-12-30|end_close:0.69|stock_return:-0.543046
 timeframe:3mo|sector:Health Care|symbol:PBH|start_date:2016-09-30|start_open:47.97|end_date:2016-12-30|end_close:52.10|stock_return:0.086095
 timeframe:3mo|sector:Health Care|symbol:PBMD|start_date:2016-09-30|start_open:0.88|end_date:2016-12-30|end_close:2.34|stock_return:1.659091
 timeframe:3mo|sector:Health Care|symbol:PBYI|start_date:2016-09-30|start_open:63.07|end_date:2016-12-30|end_close:30.70|stock_return:-0.513239

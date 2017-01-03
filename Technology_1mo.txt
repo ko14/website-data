@@ -14,7 +14,6 @@ timeframe:1mo|sector:Technology|symbol:ADSK|start_date:2016-11-30|start_open:72.
 timeframe:1mo|sector:Technology|symbol:AER|start_date:2016-11-30|start_open:43.76|end_date:2016-12-30|end_close:41.61|stock_return:-0.049132
 timeframe:1mo|sector:Technology|symbol:AGYS|start_date:2016-11-30|start_open:10.49|end_date:2016-12-30|end_close:10.36|stock_return:-0.012393
 timeframe:1mo|sector:Technology|symbol:AIRG|start_date:2016-11-30|start_open:18.75|end_date:2016-12-30|end_close:14.40|stock_return:-0.232000
-timeframe:1mo|sector:Technology|symbol:AIXG|start_date:2016-11-30|start_open:4.10|end_date:2016-12-30|end_close:3.06|stock_return:-0.253659
 timeframe:1mo|sector:Technology|symbol:AL|start_date:2016-11-30|start_open:35.90|end_date:2016-12-30|end_close:34.33|stock_return:-0.043733
 timeframe:1mo|sector:Technology|symbol:ALLT|start_date:2016-11-30|start_open:4.73|end_date:2016-12-30|end_close:4.79|stock_return:0.012685
 timeframe:1mo|sector:Technology|symbol:ALRM|start_date:2016-11-30|start_open:30.00|end_date:2016-12-30|end_close:27.83|stock_return:-0.072333

@@ -88,7 +88,6 @@ timeframe:3mo|sector:Capital Goods|symbol:DHI|start_date:2016-09-30|start_open:3
 timeframe:3mo|sector:Capital Goods|symbol:DHR|start_date:2016-09-30|start_open:77.45|end_date:2016-12-30|end_close:77.84|stock_return:0.005036
 timeframe:3mo|sector:Capital Goods|symbol:DLPH|start_date:2016-09-30|start_open:70.05|end_date:2016-12-30|end_close:67.35|stock_return:-0.038544
 timeframe:3mo|sector:Capital Goods|symbol:DORM|start_date:2016-09-30|start_open:64.32|end_date:2016-12-30|end_close:73.06|stock_return:0.135883
-timeframe:3mo|sector:Capital Goods|symbol:DW|start_date:2016-09-30|start_open:98.43|end_date:2016-12-30|end_close:107.75|stock_return:0.094687
 timeframe:3mo|sector:Capital Goods|symbol:DXPE|start_date:2016-09-30|start_open:27.40|end_date:2016-12-30|end_close:34.74|stock_return:0.267883
 timeframe:3mo|sector:Capital Goods|symbol:DYSL|start_date:2016-09-30|start_open:0.99|end_date:2016-12-30|end_close:1.28|stock_return:0.292929
 timeframe:3mo|sector:Capital Goods|symbol:EKSO|start_date:2016-09-30|start_open:4.79|end_date:2016-12-30|end_close:3.98|stock_return:-0.169102
@@ -274,7 +273,6 @@ timeframe:3mo|sector:Capital Goods|symbol:SSD|start_date:2016-09-30|start_open:4
 timeframe:3mo|sector:Capital Goods|symbol:ST|start_date:2016-09-30|start_open:38.00|end_date:2016-12-30|end_close:38.95|stock_return:0.025000
 timeframe:3mo|sector:Capital Goods|symbol:STRT|start_date:2016-09-30|start_open:35.63|end_date:2016-12-30|end_close:40.30|stock_return:0.131069
 timeframe:3mo|sector:Capital Goods|symbol:SUP|start_date:2016-09-30|start_open:28.91|end_date:2016-12-30|end_close:26.35|stock_return:-0.088551
-timeframe:3mo|sector:Capital Goods|symbol:SWHC|start_date:2016-09-30|start_open:25.94|end_date:2016-12-30|end_close:21.08|stock_return:-0.187355
 timeframe:3mo|sector:Capital Goods|symbol:SWK|start_date:2016-09-30|start_open:122.39|end_date:2016-12-30|end_close:114.69|stock_return:-0.062914
 timeframe:3mo|sector:Capital Goods|symbol:SYPR|start_date:2016-09-30|start_open:1.00|end_date:2016-12-30|end_close:0.88|stock_return:-0.120000
 timeframe:3mo|sector:Capital Goods|symbol:TASR|start_date:2016-09-30|start_open:28.93|end_date:2016-12-30|end_close:24.24|stock_return:-0.162115

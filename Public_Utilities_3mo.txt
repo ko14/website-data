@@ -64,7 +64,6 @@ timeframe:3mo|sector:Public Utilities|symbol:DYN|start_date:2016-09-30|start_ope
 timeframe:3mo|sector:Public Utilities|symbol:DZSI|start_date:2016-09-30|start_open:1.12|end_date:2016-12-30|end_close:0.98|stock_return:-0.125000
 timeframe:3mo|sector:Public Utilities|symbol:ECOL|start_date:2016-09-30|start_open:44.16|end_date:2016-12-30|end_close:49.15|stock_return:0.112998
 timeframe:3mo|sector:Public Utilities|symbol:ED|start_date:2016-09-30|start_open:76.79|end_date:2016-12-30|end_close:73.68|stock_return:-0.040500
-timeframe:3mo|sector:Public Utilities|symbol:EDE|start_date:2016-09-30|start_open:34.13|end_date:2016-12-30|end_close:34.09|stock_return:-0.001172
 timeframe:3mo|sector:Public Utilities|symbol:EDN|start_date:2016-09-30|start_open:19.75|end_date:2016-12-30|end_close:27.85|stock_return:0.410127
 timeframe:3mo|sector:Public Utilities|symbol:EE|start_date:2016-09-30|start_open:47.16|end_date:2016-12-30|end_close:46.50|stock_return:-0.013995
 timeframe:3mo|sector:Public Utilities|symbol:EGHT|start_date:2016-09-30|start_open:15.30|end_date:2016-12-30|end_close:14.30|stock_return:-0.065359

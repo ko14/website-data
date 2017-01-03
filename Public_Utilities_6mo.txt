@@ -63,7 +63,6 @@ timeframe:6mo|sector:Public Utilities|symbol:DUK|start_date:2016-07-01|start_ope
 timeframe:6mo|sector:Public Utilities|symbol:DYN|start_date:2016-07-01|start_open:17.32|end_date:2016-12-30|end_close:8.46|stock_return:-0.511547
 timeframe:6mo|sector:Public Utilities|symbol:ECOL|start_date:2016-07-01|start_open:45.87|end_date:2016-12-30|end_close:49.15|stock_return:0.071506
 timeframe:6mo|sector:Public Utilities|symbol:ED|start_date:2016-07-01|start_open:80.81|end_date:2016-12-30|end_close:73.68|stock_return:-0.088232
-timeframe:6mo|sector:Public Utilities|symbol:EDE|start_date:2016-07-01|start_open:33.90|end_date:2016-12-30|end_close:34.09|stock_return:0.005605
 timeframe:6mo|sector:Public Utilities|symbol:EDN|start_date:2016-07-01|start_open:17.96|end_date:2016-12-30|end_close:27.85|stock_return:0.550668
 timeframe:6mo|sector:Public Utilities|symbol:EE|start_date:2016-07-01|start_open:47.51|end_date:2016-12-30|end_close:46.50|stock_return:-0.021259
 timeframe:6mo|sector:Public Utilities|symbol:EGHT|start_date:2016-07-01|start_open:14.68|end_date:2016-12-30|end_close:14.30|stock_return:-0.025886
