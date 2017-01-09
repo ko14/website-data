@@ -13,7 +13,6 @@ timeframe:6mo|sector:Energy|symbol:ARLP|start_date:2016-07-08|start_open:16.90|e
 timeframe:6mo|sector:Energy|symbol:AT|start_date:2016-07-08|start_open:2.42|end_date:2017-01-06|end_close:2.60|stock_return:0.074380
 timeframe:6mo|sector:Energy|symbol:ATW|start_date:2016-07-08|start_open:11.93|end_date:2017-01-06|end_close:13.24|stock_return:0.109807
 timeframe:6mo|sector:Energy|symbol:AXAS|start_date:2016-07-08|start_open:1.11|end_date:2017-01-06|end_close:2.78|stock_return:1.504505
-timeframe:6mo|sector:Energy|symbol:BAS|start_date:2016-07-08|start_open:1.48|end_date:2017-01-06|end_close:35.99|stock_return:23.317568
 timeframe:6mo|sector:Energy|symbol:BBG|start_date:2016-07-08|start_open:6.13|end_date:2017-01-06|end_close:7.36|stock_return:0.200653
 timeframe:6mo|sector:Energy|symbol:BBL|start_date:2016-07-08|start_open:24.89|end_date:2017-01-06|end_close:32.48|stock_return:0.304942
 timeframe:6mo|sector:Energy|symbol:BC|start_date:2016-07-08|start_open:47.01|end_date:2017-01-06|end_close:55.30|stock_return:0.176345

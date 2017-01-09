@@ -252,7 +252,6 @@ timeframe:1mo|sector:Health Care|symbol:EPIX|start_date:2016-12-07|start_open:2.
 timeframe:1mo|sector:Health Care|symbol:EPZM|start_date:2016-12-07|start_open:10.90|end_date:2017-01-06|end_close:12.10|stock_return:0.110092
 timeframe:1mo|sector:Health Care|symbol:ESPR|start_date:2016-12-07|start_open:11.48|end_date:2017-01-06|end_close:13.78|stock_return:0.200348
 timeframe:1mo|sector:Health Care|symbol:ESRX|start_date:2016-12-07|start_open:75.50|end_date:2017-01-06|end_close:70.75|stock_return:-0.062914
-timeframe:1mo|sector:Health Care|symbol:ETRM|start_date:2016-12-07|start_open:0.05|end_date:2017-01-06|end_close:9.19|stock_return:182.800000
 timeframe:1mo|sector:Health Care|symbol:EVAR|start_date:2016-12-07|start_open:0.81|end_date:2017-01-06|end_close:0.61|stock_return:-0.246914
 timeframe:1mo|sector:Health Care|symbol:EVHC|start_date:2016-12-07|start_open:73.01|end_date:2017-01-06|end_close:65.62|stock_return:-0.101219
 timeframe:1mo|sector:Health Care|symbol:EVOK|start_date:2016-12-07|start_open:1.53|end_date:2017-01-06|end_close:2.71|stock_return:0.771242
@@ -319,7 +318,6 @@ timeframe:1mo|sector:Health Care|symbol:ICLR|start_date:2016-12-07|start_open:76
 timeframe:1mo|sector:Health Care|symbol:ICPT|start_date:2016-12-07|start_open:104.74|end_date:2017-01-06|end_close:105.87|stock_return:0.010789
 timeframe:1mo|sector:Health Care|symbol:ICUI|start_date:2016-12-07|start_open:146.30|end_date:2017-01-06|end_close:131.88|stock_return:-0.098565
 timeframe:1mo|sector:Health Care|symbol:IDRA|start_date:2016-12-07|start_open:1.71|end_date:2017-01-06|end_close:1.57|stock_return:-0.081871
-timeframe:1mo|sector:Health Care|symbol:IDXG|start_date:2016-12-07|start_open:0.12|end_date:2017-01-06|end_close:6.47|stock_return:52.916667
 timeframe:1mo|sector:Health Care|symbol:IDXX|start_date:2016-12-07|start_open:115.73|end_date:2017-01-06|end_close:118.36|stock_return:0.022725
 timeframe:1mo|sector:Health Care|symbol:IMDZ|start_date:2016-12-07|start_open:7.45|end_date:2017-01-06|end_close:5.30|stock_return:-0.288591
 timeframe:1mo|sector:Health Care|symbol:IMGN|start_date:2016-12-07|start_open:1.94|end_date:2017-01-06|end_close:2.52|stock_return:0.298969
