@@ -403,7 +403,6 @@ timeframe:1mo|sector:Finance|symbol:LMFA|start_date:2016-12-14|start_open:5.19|e
 timeframe:1mo|sector:Finance|symbol:LNC|start_date:2016-12-14|start_open:65.55|end_date:2017-01-13|end_close:67.21|stock_return:0.025324
 timeframe:1mo|sector:Finance|symbol:LOB|start_date:2016-12-14|start_open:17.85|end_date:2017-01-13|end_close:19.05|stock_return:0.067227
 timeframe:1mo|sector:Finance|symbol:LPLA|start_date:2016-12-14|start_open:35.08|end_date:2017-01-13|end_close:38.59|stock_return:0.100057
-timeframe:1mo|sector:Finance|symbol:LSBG|start_date:2016-12-14|start_open:24.04|end_date:2017-01-13|end_close:21.94|stock_return:-0.087354
 timeframe:1mo|sector:Finance|symbol:LSBK|start_date:2016-12-14|start_open:15.20|end_date:2017-01-13|end_close:16.00|stock_return:0.052632
 timeframe:1mo|sector:Finance|symbol:LTXB|start_date:2016-12-14|start_open:40.45|end_date:2017-01-13|end_close:42.53|stock_return:0.051422
 timeframe:1mo|sector:Finance|symbol:LYG|start_date:2016-12-14|start_open:3.21|end_date:2017-01-13|end_close:3.26|stock_return:0.015576
