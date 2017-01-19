@@ -95,7 +95,6 @@ timeframe:1mo|sector:Basic Industries|symbol:FSTR|start_date:2016-12-16|start_op
 timeframe:1mo|sector:Basic Industries|symbol:FTK|start_date:2016-12-16|start_open:10.64|end_date:2017-01-17|end_close:10.25|stock_return:-0.036654
 timeframe:1mo|sector:Basic Industries|symbol:FUL|start_date:2016-12-16|start_open:49.13|end_date:2017-01-17|end_close:49.94|stock_return:0.016487
 timeframe:1mo|sector:Basic Industries|symbol:GCP|start_date:2016-12-16|start_open:27.85|end_date:2017-01-17|end_close:25.85|stock_return:-0.071813
-timeframe:1mo|sector:Basic Industries|symbol:GEVO|start_date:2016-12-16|start_open:0.23|end_date:2017-01-17|end_close:3.84|stock_return:15.695652
 timeframe:1mo|sector:Basic Industries|symbol:GFA|start_date:2016-12-16|start_open:1.19|end_date:2017-01-17|end_close:1.49|stock_return:0.252101
 timeframe:1mo|sector:Basic Industries|symbol:GFI|start_date:2016-12-16|start_open:2.71|end_date:2017-01-17|end_close:3.60|stock_return:0.328413
 timeframe:1mo|sector:Basic Industries|symbol:GG|start_date:2016-12-16|start_open:12.31|end_date:2017-01-17|end_close:15.15|stock_return:0.230707
@@ -248,7 +247,6 @@ timeframe:1mo|sector:Basic Industries|symbol:UFPI|start_date:2016-12-16|start_op
 timeframe:1mo|sector:Basic Industries|symbol:UFS|start_date:2016-12-16|start_open:39.56|end_date:2017-01-17|end_close:39.33|stock_return:-0.005814
 timeframe:1mo|sector:Basic Industries|symbol:UL|start_date:2016-12-16|start_open:39.79|end_date:2017-01-17|end_close:41.61|stock_return:0.045740
 timeframe:1mo|sector:Basic Industries|symbol:UN|start_date:2016-12-16|start_open:40.11|end_date:2017-01-17|end_close:41.41|stock_return:0.032411
-timeframe:1mo|sector:Basic Industries|symbol:URRE|start_date:2016-12-16|start_open:1.22|end_date:2017-01-17|end_close:2.33|stock_return:0.909836
 timeframe:1mo|sector:Basic Industries|symbol:USAP|start_date:2016-12-16|start_open:14.75|end_date:2017-01-17|end_close:14.60|stock_return:-0.010169
 timeframe:1mo|sector:Basic Industries|symbol:USLM|start_date:2016-12-16|start_open:75.16|end_date:2017-01-17|end_close:76.25|stock_return:0.014502
 timeframe:1mo|sector:Basic Industries|symbol:VAL|start_date:2016-12-16|start_open:103.18|end_date:2017-01-17|end_close:107.25|stock_return:0.039446

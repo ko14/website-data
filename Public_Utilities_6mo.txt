@@ -10,7 +10,6 @@ timeframe:6mo|sector:Public Utilities|symbol:AMID|start_date:2016-07-21|start_op
 timeframe:6mo|sector:Public Utilities|symbol:AMOV|start_date:2016-07-21|start_open:12.66|end_date:2017-01-17|end_close:12.27|stock_return:-0.030806
 timeframe:6mo|sector:Public Utilities|symbol:AMX|start_date:2016-07-21|start_open:12.75|end_date:2017-01-17|end_close:12.43|stock_return:-0.025098
 timeframe:6mo|sector:Public Utilities|symbol:APLP|start_date:2016-07-21|start_open:14.00|end_date:2017-01-17|end_close:17.76|stock_return:0.268571
-timeframe:6mo|sector:Public Utilities|symbol:AROC|start_date:2016-07-21|start_open:9.67|end_date:2017-01-17|end_close:15.15|stock_return:0.566701
 timeframe:6mo|sector:Public Utilities|symbol:ARTNA|start_date:2016-07-21|start_open:33.29|end_date:2017-01-17|end_close:30.73|stock_return:-0.076900
 timeframe:6mo|sector:Public Utilities|symbol:ATNI|start_date:2016-07-21|start_open:80.61|end_date:2017-01-17|end_close:81.56|stock_return:0.011785
 timeframe:6mo|sector:Public Utilities|symbol:ATO|start_date:2016-07-21|start_open:79.45|end_date:2017-01-17|end_close:74.74|stock_return:-0.059283
@@ -27,7 +26,6 @@ timeframe:6mo|sector:Public Utilities|symbol:BT|start_date:2016-07-21|start_open
 timeframe:6mo|sector:Public Utilities|symbol:BWP|start_date:2016-07-21|start_open:17.11|end_date:2017-01-17|end_close:18.20|stock_return:0.063705
 timeframe:6mo|sector:Public Utilities|symbol:CAFD|start_date:2016-07-21|start_open:17.06|end_date:2017-01-17|end_close:14.33|stock_return:-0.160023
 timeframe:6mo|sector:Public Utilities|symbol:CALL|start_date:2016-07-21|start_open:6.17|end_date:2017-01-17|end_close:8.20|stock_return:0.329011
-timeframe:6mo|sector:Public Utilities|symbol:CDZI|start_date:2016-07-21|start_open:6.83|end_date:2017-01-17|end_close:11.70|stock_return:0.713031
 timeframe:6mo|sector:Public Utilities|symbol:CEL|start_date:2016-07-21|start_open:6.95|end_date:2017-01-17|end_close:9.46|stock_return:0.361151
 timeframe:6mo|sector:Public Utilities|symbol:CHA|start_date:2016-07-21|start_open:48.47|end_date:2017-01-17|end_close:47.94|stock_return:-0.010935
 timeframe:6mo|sector:Public Utilities|symbol:CHL|start_date:2016-07-21|start_open:62.67|end_date:2017-01-17|end_close:55.27|stock_return:-0.118079
@@ -57,13 +55,11 @@ timeframe:6mo|sector:Public Utilities|symbol:DCUC|start_date:2016-07-21|start_op
 timeframe:6mo|sector:Public Utilities|symbol:DGAS|start_date:2016-07-21|start_open:26.25|end_date:2017-01-17|end_close:27.93|stock_return:0.064000
 timeframe:6mo|sector:Public Utilities|symbol:DM|start_date:2016-07-21|start_open:27.42|end_date:2017-01-17|end_close:30.20|stock_return:0.101386
 timeframe:6mo|sector:Public Utilities|symbol:DPM|start_date:2016-07-21|start_open:34.91|end_date:2017-01-17|end_close:38.43|stock_return:0.100831
-timeframe:6mo|sector:Public Utilities|symbol:DRWI|start_date:2016-07-21|start_open:4.71|end_date:2017-01-17|end_close:2.30|stock_return:-0.511677
 timeframe:6mo|sector:Public Utilities|symbol:DTE|start_date:2016-07-21|start_open:97.25|end_date:2017-01-17|end_close:99.20|stock_return:0.020051
 timeframe:6mo|sector:Public Utilities|symbol:DUK|start_date:2016-07-21|start_open:84.56|end_date:2017-01-17|end_close:77.46|stock_return:-0.083964
 timeframe:6mo|sector:Public Utilities|symbol:DYN|start_date:2016-07-21|start_open:16.77|end_date:2017-01-17|end_close:10.42|stock_return:-0.378652
 timeframe:6mo|sector:Public Utilities|symbol:ECOL|start_date:2016-07-21|start_open:47.31|end_date:2017-01-17|end_close:50.65|stock_return:0.070598
 timeframe:6mo|sector:Public Utilities|symbol:ED|start_date:2016-07-21|start_open:78.91|end_date:2017-01-17|end_close:74.60|stock_return:-0.054619
-timeframe:6mo|sector:Public Utilities|symbol:EDN|start_date:2016-07-21|start_open:17.13|end_date:2017-01-17|end_close:30.50|stock_return:0.780502
 timeframe:6mo|sector:Public Utilities|symbol:EE|start_date:2016-07-21|start_open:46.87|end_date:2017-01-17|end_close:46.30|stock_return:-0.012161
 timeframe:6mo|sector:Public Utilities|symbol:EGHT|start_date:2016-07-21|start_open:15.02|end_date:2017-01-17|end_close:14.95|stock_return:-0.004660
 timeframe:6mo|sector:Public Utilities|symbol:EIX|start_date:2016-07-21|start_open:76.27|end_date:2017-01-17|end_close:72.51|stock_return:-0.049299
@@ -99,7 +95,6 @@ timeframe:6mo|sector:Public Utilities|symbol:IDA|start_date:2016-07-21|start_ope
 timeframe:6mo|sector:Public Utilities|symbol:IDT|start_date:2016-07-21|start_open:15.70|end_date:2017-01-17|end_close:19.32|stock_return:0.230573
 timeframe:6mo|sector:Public Utilities|symbol:IGLD|start_date:2016-07-21|start_open:14.10|end_date:2017-01-17|end_close:10.51|stock_return:-0.254610
 timeframe:6mo|sector:Public Utilities|symbol:INFN|start_date:2016-07-21|start_open:12.13|end_date:2017-01-17|end_close:8.43|stock_return:-0.305029
-timeframe:6mo|sector:Public Utilities|symbol:INVT|start_date:2016-07-21|start_open:1.42|end_date:2017-01-17|end_close:0.54|stock_return:-0.619718
 timeframe:6mo|sector:Public Utilities|symbol:IQNT|start_date:2016-07-21|start_open:20.30|end_date:2017-01-17|end_close:22.94|stock_return:0.130049
 timeframe:6mo|sector:Public Utilities|symbol:JCS|start_date:2016-07-21|start_open:7.15|end_date:2017-01-17|end_close:4.91|stock_return:-0.313287
 timeframe:6mo|sector:Public Utilities|symbol:JE|start_date:2016-07-21|start_open:6.25|end_date:2017-01-17|end_close:5.50|stock_return:-0.120000
@@ -129,15 +124,11 @@ timeframe:6mo|sector:Public Utilities|symbol:NWN|start_date:2016-07-21|start_ope
 timeframe:6mo|sector:Public Utilities|symbol:NYLD|start_date:2016-07-21|start_open:17.36|end_date:2017-01-17|end_close:16.60|stock_return:-0.043779
 timeframe:6mo|sector:Public Utilities|symbol:OGE|start_date:2016-07-21|start_open:31.88|end_date:2017-01-17|end_close:33.78|stock_return:0.059598
 timeframe:6mo|sector:Public Utilities|symbol:OGS|start_date:2016-07-21|start_open:65.26|end_date:2017-01-17|end_close:62.66|stock_return:-0.039841
-timeframe:6mo|sector:Public Utilities|symbol:OHGI|start_date:2016-07-21|start_open:0.81|end_date:2017-01-17|end_close:0.33|stock_return:-0.592593
 timeframe:6mo|sector:Public Utilities|symbol:OKE|start_date:2016-07-21|start_open:47.25|end_date:2017-01-17|end_close:56.31|stock_return:0.191746
 timeframe:6mo|sector:Public Utilities|symbol:OKS|start_date:2016-07-21|start_open:41.75|end_date:2017-01-17|end_close:44.85|stock_return:0.074251
-timeframe:6mo|sector:Public Utilities|symbol:OPTT|start_date:2016-07-21|start_open:13.00|end_date:2017-01-17|end_close:3.04|stock_return:-0.766154
 timeframe:6mo|sector:Public Utilities|symbol:ORA|start_date:2016-07-21|start_open:44.51|end_date:2017-01-17|end_close:53.96|stock_return:0.212312
 timeframe:6mo|sector:Public Utilities|symbol:ORAN|start_date:2016-07-21|start_open:15.51|end_date:2017-01-17|end_close:16.06|stock_return:0.035461
-timeframe:6mo|sector:Public Utilities|symbol:OTEL|start_date:2016-07-21|start_open:4.15|end_date:2017-01-17|end_close:6.94|stock_return:0.672289
 timeframe:6mo|sector:Public Utilities|symbol:OTTR|start_date:2016-07-21|start_open:34.22|end_date:2017-01-17|end_close:38.25|stock_return:0.117767
-timeframe:6mo|sector:Public Utilities|symbol:PAM|start_date:2016-07-21|start_open:26.69|end_date:2017-01-17|end_close:42.18|stock_return:0.580367
 timeframe:6mo|sector:Public Utilities|symbol:PCG|start_date:2016-07-21|start_open:64.09|end_date:2017-01-17|end_close:61.78|stock_return:-0.036043
 timeframe:6mo|sector:Public Utilities|symbol:PCYO|start_date:2016-07-21|start_open:4.57|end_date:2017-01-17|end_close:5.10|stock_return:0.115974
 timeframe:6mo|sector:Public Utilities|symbol:PDVW|start_date:2016-07-21|start_open:22.87|end_date:2017-01-17|end_close:24.75|stock_return:0.082204
@@ -154,7 +145,6 @@ timeframe:6mo|sector:Public Utilities|symbol:PTXP|start_date:2016-07-21|start_op
 timeframe:6mo|sector:Public Utilities|symbol:RGCO|start_date:2016-07-21|start_open:24.85|end_date:2017-01-17|end_close:25.23|stock_return:0.015292
 timeframe:6mo|sector:Public Utilities|symbol:RMP|start_date:2016-07-21|start_open:20.16|end_date:2017-01-17|end_close:23.74|stock_return:0.177579
 timeframe:6mo|sector:Public Utilities|symbol:RSG|start_date:2016-07-21|start_open:52.34|end_date:2017-01-17|end_close:56.91|stock_return:0.087314
-timeframe:6mo|sector:Public Utilities|symbol:S|start_date:2016-07-21|start_open:4.53|end_date:2017-01-17|end_close:8.65|stock_return:0.909492
 timeframe:6mo|sector:Public Utilities|symbol:SBS|start_date:2016-07-21|start_open:9.14|end_date:2017-01-17|end_close:9.82|stock_return:0.074398
 timeframe:6mo|sector:Public Utilities|symbol:SCG|start_date:2016-07-21|start_open:73.33|end_date:2017-01-17|end_close:72.54|stock_return:-0.010773
 timeframe:6mo|sector:Public Utilities|symbol:SE|start_date:2016-07-21|start_open:36.66|end_date:2017-01-17|end_close:42.81|stock_return:0.167758
@@ -183,7 +173,6 @@ timeframe:6mo|sector:Public Utilities|symbol:TEGP|start_date:2016-07-21|start_op
 timeframe:6mo|sector:Public Utilities|symbol:TEO|start_date:2016-07-21|start_open:18.82|end_date:2017-01-17|end_close:19.60|stock_return:0.041445
 timeframe:6mo|sector:Public Utilities|symbol:TEP|start_date:2016-07-21|start_open:46.01|end_date:2017-01-17|end_close:49.12|stock_return:0.067594
 timeframe:6mo|sector:Public Utilities|symbol:TERP|start_date:2016-07-21|start_open:12.39|end_date:2017-01-17|end_close:12.56|stock_return:0.013721
-timeframe:6mo|sector:Public Utilities|symbol:TGS|start_date:2016-07-21|start_open:6.39|end_date:2017-01-17|end_close:9.98|stock_return:0.561815
 timeframe:6mo|sector:Public Utilities|symbol:TKC|start_date:2016-07-21|start_open:8.35|end_date:2017-01-17|end_close:7.03|stock_return:-0.158084
 timeframe:6mo|sector:Public Utilities|symbol:TMUS|start_date:2016-07-21|start_open:44.63|end_date:2017-01-17|end_close:57.05|stock_return:0.278288
 timeframe:6mo|sector:Public Utilities|symbol:TRGP|start_date:2016-07-21|start_open:41.66|end_date:2017-01-17|end_close:59.68|stock_return:0.432549

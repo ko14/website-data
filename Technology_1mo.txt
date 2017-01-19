@@ -196,7 +196,6 @@ timeframe:1mo|sector:Technology|symbol:FTNT|start_date:2016-12-16|start_open:30.
 timeframe:1mo|sector:Technology|symbol:FUEL|start_date:2016-12-16|start_open:1.88|end_date:2017-01-17|end_close:2.10|stock_return:0.117021
 timeframe:1mo|sector:Technology|symbol:GDDY|start_date:2016-12-16|start_open:35.17|end_date:2017-01-17|end_close:35.20|stock_return:0.000853
 timeframe:1mo|sector:Technology|symbol:GDS|start_date:2016-12-16|start_open:9.51|end_date:2017-01-17|end_close:8.05|stock_return:-0.153523
-timeframe:1mo|sector:Technology|symbol:GEC|start_date:2016-12-16|start_open:30.06|end_date:2017-01-17|end_close:3.65|stock_return:-0.878576
 timeframe:1mo|sector:Technology|symbol:GFN|start_date:2016-12-16|start_open:5.15|end_date:2017-01-17|end_close:5.00|stock_return:-0.029126
 timeframe:1mo|sector:Technology|symbol:GHM|start_date:2016-12-16|start_open:22.93|end_date:2017-01-17|end_close:22.02|stock_return:-0.039686
 timeframe:1mo|sector:Technology|symbol:GIGM|start_date:2016-12-16|start_open:2.77|end_date:2017-01-17|end_close:3.00|stock_return:0.083032
@@ -233,7 +232,6 @@ timeframe:1mo|sector:Technology|symbol:IMMR|start_date:2016-12-16|start_open:11.
 timeframe:1mo|sector:Technology|symbol:IMN|start_date:2016-12-16|start_open:1.00|end_date:2017-01-17|end_close:0.80|stock_return:-0.200000
 timeframe:1mo|sector:Technology|symbol:IMOS|start_date:2016-12-16|start_open:14.56|end_date:2017-01-17|end_close:15.54|stock_return:0.067308
 timeframe:1mo|sector:Technology|symbol:IMPV|start_date:2016-12-16|start_open:37.80|end_date:2017-01-17|end_close:40.05|stock_return:0.059524
-timeframe:1mo|sector:Technology|symbol:INAP|start_date:2016-12-16|start_open:0.89|end_date:2017-01-17|end_close:1.80|stock_return:1.022472
 timeframe:1mo|sector:Technology|symbol:INFO|start_date:2016-12-16|start_open:34.75|end_date:2017-01-17|end_close:38.33|stock_return:0.103022
 timeframe:1mo|sector:Technology|symbol:INFY|start_date:2016-12-16|start_open:14.99|end_date:2017-01-17|end_close:14.49|stock_return:-0.033356
 timeframe:1mo|sector:Technology|symbol:INOD|start_date:2016-12-16|start_open:2.15|end_date:2017-01-17|end_close:2.20|stock_return:0.023256
@@ -245,7 +243,6 @@ timeframe:1mo|sector:Technology|symbol:INTX|start_date:2016-12-16|start_open:3.8
 timeframe:1mo|sector:Technology|symbol:INVE|start_date:2016-12-16|start_open:3.90|end_date:2017-01-17|end_close:3.54|stock_return:-0.092308
 timeframe:1mo|sector:Technology|symbol:INVN|start_date:2016-12-16|start_open:10.87|end_date:2017-01-17|end_close:12.77|stock_return:0.174793
 timeframe:1mo|sector:Technology|symbol:INXN|start_date:2016-12-16|start_open:34.45|end_date:2017-01-17|end_close:37.62|stock_return:0.092017
-timeframe:1mo|sector:Technology|symbol:IOTS|start_date:2016-12-16|start_open:1.85|end_date:2017-01-17|end_close:3.25|stock_return:0.756757
 timeframe:1mo|sector:Technology|symbol:IPAS|start_date:2016-12-16|start_open:1.63|end_date:2017-01-17|end_close:1.59|stock_return:-0.024540
 timeframe:1mo|sector:Technology|symbol:IPG|start_date:2016-12-16|start_open:24.22|end_date:2017-01-17|end_close:23.52|stock_return:-0.028902
 timeframe:1mo|sector:Technology|symbol:IPGP|start_date:2016-12-16|start_open:99.64|end_date:2017-01-17|end_close:99.75|stock_return:0.001104

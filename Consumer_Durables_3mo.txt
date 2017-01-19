@@ -52,7 +52,6 @@ timeframe:3mo|sector:Consumer Durables|symbol:HI|start_date:2016-10-19|start_ope
 timeframe:3mo|sector:Consumer Durables|symbol:HNI|start_date:2016-10-19|start_open:37.65|end_date:2017-01-17|end_close:50.57|stock_return:0.343161
 timeframe:3mo|sector:Consumer Durables|symbol:HOFT|start_date:2016-10-19|start_open:26.55|end_date:2017-01-17|end_close:34.20|stock_return:0.288136
 timeframe:3mo|sector:Consumer Durables|symbol:HWKN|start_date:2016-10-19|start_open:41.10|end_date:2017-01-17|end_close:52.25|stock_return:0.271290
-timeframe:3mo|sector:Consumer Durables|symbol:IDSA|start_date:2016-10-19|start_open:1.15|end_date:2017-01-17|end_close:2.11|stock_return:0.834783
 timeframe:3mo|sector:Consumer Durables|symbol:IDSY|start_date:2016-10-19|start_open:5.19|end_date:2017-01-17|end_close:5.75|stock_return:0.107900
 timeframe:3mo|sector:Consumer Durables|symbol:INWK|start_date:2016-10-19|start_open:9.01|end_date:2017-01-17|end_close:9.84|stock_return:0.092120
 timeframe:3mo|sector:Consumer Durables|symbol:IPHS|start_date:2016-10-19|start_open:40.00|end_date:2017-01-17|end_close:50.75|stock_return:0.268750
@@ -88,11 +87,9 @@ timeframe:3mo|sector:Consumer Durables|symbol:NMRX|start_date:2016-10-19|start_o
 timeframe:3mo|sector:Consumer Durables|symbol:NSSC|start_date:2016-10-19|start_open:7.02|end_date:2017-01-17|end_close:8.65|stock_return:0.232194
 timeframe:3mo|sector:Consumer Durables|symbol:NTZ|start_date:2016-10-19|start_open:1.66|end_date:2017-01-17|end_close:2.14|stock_return:0.289157
 timeframe:3mo|sector:Consumer Durables|symbol:NUTR|start_date:2016-10-19|start_open:30.15|end_date:2017-01-17|end_close:36.15|stock_return:0.199005
-timeframe:3mo|sector:Consumer Durables|symbol:NVFY|start_date:2016-10-19|start_open:4.25|end_date:2017-01-17|end_close:1.68|stock_return:-0.604706
 timeframe:3mo|sector:Consumer Durables|symbol:NXEO|start_date:2016-10-19|start_open:7.97|end_date:2017-01-17|end_close:9.28|stock_return:0.164366
 timeframe:3mo|sector:Consumer Durables|symbol:OBCI|start_date:2016-10-19|start_open:2.75|end_date:2017-01-17|end_close:4.00|stock_return:0.454545
 timeframe:3mo|sector:Consumer Durables|symbol:ODC|start_date:2016-10-19|start_open:34.59|end_date:2017-01-17|end_close:34.21|stock_return:-0.010986
-timeframe:3mo|sector:Consumer Durables|symbol:OESX|start_date:2016-10-19|start_open:1.36|end_date:2017-01-17|end_close:2.10|stock_return:0.544118
 timeframe:3mo|sector:Consumer Durables|symbol:OI|start_date:2016-10-19|start_open:17.39|end_date:2017-01-17|end_close:19.30|stock_return:0.109833
 timeframe:3mo|sector:Consumer Durables|symbol:PAG|start_date:2016-10-19|start_open:45.64|end_date:2017-01-17|end_close:52.31|stock_return:0.146144
 timeframe:3mo|sector:Consumer Durables|symbol:PKG|start_date:2016-10-19|start_open:84.36|end_date:2017-01-17|end_close:85.67|stock_return:0.015529
@@ -107,7 +104,6 @@ timeframe:3mo|sector:Consumer Durables|symbol:SCHN|start_date:2016-10-19|start_o
 timeframe:3mo|sector:Consumer Durables|symbol:SCS|start_date:2016-10-19|start_open:13.45|end_date:2017-01-17|end_close:16.25|stock_return:0.208178
 timeframe:3mo|sector:Consumer Durables|symbol:SCSS|start_date:2016-10-19|start_open:21.12|end_date:2017-01-17|end_close:21.01|stock_return:-0.005208
 timeframe:3mo|sector:Consumer Durables|symbol:SLGN|start_date:2016-10-19|start_open:51.34|end_date:2017-01-17|end_close:55.51|stock_return:0.081223
-timeframe:3mo|sector:Consumer Durables|symbol:SODA|start_date:2016-10-19|start_open:24.41|end_date:2017-01-17|end_close:41.32|stock_return:0.692749
 timeframe:3mo|sector:Consumer Durables|symbol:SON|start_date:2016-10-19|start_open:50.60|end_date:2017-01-17|end_close:54.01|stock_return:0.067391
 timeframe:3mo|sector:Consumer Durables|symbol:STLY|start_date:2016-10-19|start_open:1.72|end_date:2017-01-17|end_close:0.92|stock_return:-0.465116
 timeframe:3mo|sector:Consumer Durables|symbol:SUMR|start_date:2016-10-19|start_open:2.03|end_date:2017-01-17|end_close:1.90|stock_return:-0.064039
@@ -125,4 +121,3 @@ timeframe:3mo|sector:Consumer Durables|symbol:WLFC|start_date:2016-10-19|start_o
 timeframe:3mo|sector:Consumer Durables|symbol:WMAR|start_date:2016-10-19|start_open:8.37|end_date:2017-01-17|end_close:10.11|stock_return:0.207885
 timeframe:3mo|sector:Consumer Durables|symbol:WRK|start_date:2016-10-19|start_open:48.08|end_date:2017-01-17|end_close:51.46|stock_return:0.070300
 timeframe:3mo|sector:Consumer Durables|symbol:WSO|start_date:2016-10-19|start_open:141.64|end_date:2017-01-17|end_close:149.65|stock_return:0.056552
-timeframe:3mo|sector:Consumer Durables|symbol:XGTI|start_date:2016-10-19|start_open:0.48|end_date:2017-01-17|end_close:2.05|stock_return:3.270833

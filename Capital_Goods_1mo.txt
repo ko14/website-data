@@ -280,7 +280,6 @@ timeframe:1mo|sector:Capital Goods|symbol:SYPR|start_date:2016-12-16|start_open:
 timeframe:1mo|sector:Capital Goods|symbol:TASR|start_date:2016-12-16|start_open:24.19|end_date:2017-01-17|end_close:24.82|stock_return:0.026044
 timeframe:1mo|sector:Capital Goods|symbol:TATT|start_date:2016-12-16|start_open:8.55|end_date:2017-01-17|end_close:8.80|stock_return:0.029240
 timeframe:1mo|sector:Capital Goods|symbol:TAYD|start_date:2016-12-16|start_open:15.27|end_date:2017-01-17|end_close:14.98|stock_return:-0.018991
-timeframe:1mo|sector:Capital Goods|symbol:TBIO|start_date:2016-12-16|start_open:0.31|end_date:2017-01-17|end_close:0.86|stock_return:1.774194
 timeframe:1mo|sector:Capital Goods|symbol:TDG|start_date:2016-12-16|start_open:253.95|end_date:2017-01-17|end_close:249.70|stock_return:-0.016736
 timeframe:1mo|sector:Capital Goods|symbol:TDY|start_date:2016-12-16|start_open:124.50|end_date:2017-01-17|end_close:121.47|stock_return:-0.024337
 timeframe:1mo|sector:Capital Goods|symbol:TEN|start_date:2016-12-16|start_open:64.72|end_date:2017-01-17|end_close:66.05|stock_return:0.020550

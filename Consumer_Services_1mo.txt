@@ -294,7 +294,6 @@ timeframe:1mo|sector:Consumer Services|symbol:GOOD|start_date:2016-12-16|start_o
 timeframe:1mo|sector:Consumer Services|symbol:GOODO|start_date:2016-12-16|start_open:25.04|end_date:2017-01-17|end_close:25.35|stock_return:0.012380
 timeframe:1mo|sector:Consumer Services|symbol:GOODP|start_date:2016-12-16|start_open:25.40|end_date:2017-01-17|end_close:25.42|stock_return:0.000787
 timeframe:1mo|sector:Consumer Services|symbol:GPS|start_date:2016-12-16|start_open:25.52|end_date:2017-01-17|end_close:24.15|stock_return:-0.053683
-timeframe:1mo|sector:Consumer Services|symbol:GPT|start_date:2016-12-16|start_open:8.45|end_date:2017-01-17|end_close:27.62|stock_return:2.268639
 timeframe:1mo|sector:Consumer Services|symbol:GPX|start_date:2016-12-16|start_open:27.85|end_date:2017-01-17|end_close:26.95|stock_return:-0.032316
 timeframe:1mo|sector:Consumer Services|symbol:GSOL|start_date:2016-12-16|start_open:9.20|end_date:2017-01-17|end_close:8.45|stock_return:-0.081522
 timeframe:1mo|sector:Consumer Services|symbol:GTIM|start_date:2016-12-16|start_open:3.20|end_date:2017-01-17|end_close:3.30|stock_return:0.031250
@@ -313,13 +312,11 @@ timeframe:1mo|sector:Consumer Services|symbol:HCP|start_date:2016-12-16|start_op
 timeframe:1mo|sector:Consumer Services|symbol:HD|start_date:2016-12-16|start_open:136.11|end_date:2017-01-17|end_close:135.93|stock_return:-0.001322
 timeframe:1mo|sector:Consumer Services|symbol:HDS|start_date:2016-12-16|start_open:41.89|end_date:2017-01-17|end_close:40.95|stock_return:-0.022440
 timeframe:1mo|sector:Consumer Services|symbol:HF|start_date:2016-12-16|start_open:30.53|end_date:2017-01-17|end_close:28.90|stock_return:-0.053390
-timeframe:1mo|sector:Consumer Services|symbol:HGG|start_date:2016-12-16|start_open:1.50|end_date:2017-01-17|end_close:0.72|stock_return:-0.520000
 timeframe:1mo|sector:Consumer Services|symbol:HHC|start_date:2016-12-16|start_open:115.86|end_date:2017-01-17|end_close:106.54|stock_return:-0.080442
 timeframe:1mo|sector:Consumer Services|symbol:HIBB|start_date:2016-12-16|start_open:40.05|end_date:2017-01-17|end_close:34.10|stock_return:-0.148564
 timeframe:1mo|sector:Consumer Services|symbol:HIFR|start_date:2016-12-16|start_open:17.48|end_date:2017-01-17|end_close:17.21|stock_return:-0.015446
 timeframe:1mo|sector:Consumer Services|symbol:HIL|start_date:2016-12-16|start_open:3.75|end_date:2017-01-17|end_close:5.40|stock_return:0.440000
 timeframe:1mo|sector:Consumer Services|symbol:HIW|start_date:2016-12-16|start_open:49.16|end_date:2017-01-17|end_close:51.93|stock_return:0.056347
-timeframe:1mo|sector:Consumer Services|symbol:HLT|start_date:2016-12-16|start_open:27.38|end_date:2017-01-17|end_close:56.09|stock_return:1.048576
 timeframe:1mo|sector:Consumer Services|symbol:HMHC|start_date:2016-12-16|start_open:10.85|end_date:2017-01-17|end_close:11.05|stock_return:0.018433
 timeframe:1mo|sector:Consumer Services|symbol:HMLP|start_date:2016-12-16|start_open:18.85|end_date:2017-01-17|end_close:19.00|stock_return:0.007958
 timeframe:1mo|sector:Consumer Services|symbol:HMNY|start_date:2016-12-16|start_open:4.11|end_date:2017-01-17|end_close:3.37|stock_return:-0.180049
@@ -351,7 +348,6 @@ timeframe:1mo|sector:Consumer Services|symbol:INN|start_date:2016-12-16|start_op
 timeframe:1mo|sector:Consumer Services|symbol:INSW|start_date:2016-12-16|start_open:13.77|end_date:2017-01-17|end_close:16.56|stock_return:0.202614
 timeframe:1mo|sector:Consumer Services|symbol:IRCP|start_date:2016-12-16|start_open:43.35|end_date:2017-01-17|end_close:42.00|stock_return:-0.031142
 timeframe:1mo|sector:Consumer Services|symbol:IRET|start_date:2016-12-16|start_open:6.55|end_date:2017-01-17|end_close:7.05|stock_return:0.076336
-timeframe:1mo|sector:Consumer Services|symbol:IRG|start_date:2016-12-16|start_open:0.32|end_date:2017-01-17|end_close:0.61|stock_return:0.906250
 timeframe:1mo|sector:Consumer Services|symbol:IRM|start_date:2016-12-16|start_open:31.85|end_date:2017-01-17|end_close:33.95|stock_return:0.065934
 timeframe:1mo|sector:Consumer Services|symbol:IRS|start_date:2016-12-16|start_open:18.96|end_date:2017-01-17|end_close:19.41|stock_return:0.023734
 timeframe:1mo|sector:Consumer Services|symbol:ISCA|start_date:2016-12-16|start_open:37.95|end_date:2017-01-17|end_close:37.20|stock_return:-0.019763
@@ -491,7 +487,6 @@ timeframe:1mo|sector:Consumer Services|symbol:OFC|start_date:2016-12-16|start_op
 timeframe:1mo|sector:Consumer Services|symbol:OHI|start_date:2016-12-16|start_open:29.73|end_date:2017-01-17|end_close:32.99|stock_return:0.109654
 timeframe:1mo|sector:Consumer Services|symbol:OLLI|start_date:2016-12-16|start_open:30.15|end_date:2017-01-17|end_close:31.15|stock_return:0.033167
 timeframe:1mo|sector:Consumer Services|symbol:OLP|start_date:2016-12-16|start_open:25.03|end_date:2017-01-17|end_close:24.51|stock_return:-0.020775
-timeframe:1mo|sector:Consumer Services|symbol:OMEX|start_date:2016-12-16|start_open:3.16|end_date:2017-01-17|end_close:5.34|stock_return:0.689873
 timeframe:1mo|sector:Consumer Services|symbol:ORBC|start_date:2016-12-16|start_open:8.95|end_date:2017-01-17|end_close:8.21|stock_return:-0.082682
 timeframe:1mo|sector:Consumer Services|symbol:ORC|start_date:2016-12-16|start_open:10.26|end_date:2017-01-17|end_close:11.44|stock_return:0.115010
 timeframe:1mo|sector:Consumer Services|symbol:ORLY|start_date:2016-12-16|start_open:279.45|end_date:2017-01-17|end_close:278.76|stock_return:-0.002469

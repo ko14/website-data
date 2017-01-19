@@ -83,7 +83,6 @@ timeframe:3mo|sector:Consumer Services|symbol:BOJA|start_date:2016-10-19|start_o
 timeframe:3mo|sector:Consumer Services|symbol:BONT|start_date:2016-10-19|start_open:1.59|end_date:2017-01-17|end_close:1.28|stock_return:-0.194969
 timeframe:3mo|sector:Consumer Services|symbol:BOOT|start_date:2016-10-19|start_open:10.98|end_date:2017-01-17|end_close:11.63|stock_return:0.059199
 timeframe:3mo|sector:Consumer Services|symbol:BOXC|start_date:2016-10-19|start_open:20.94|end_date:2017-01-17|end_close:19.99|stock_return:-0.045368
-timeframe:3mo|sector:Consumer Services|symbol:BPI|start_date:2016-10-19|start_open:6.77|end_date:2017-01-17|end_close:10.25|stock_return:0.514032
 timeframe:3mo|sector:Consumer Services|symbol:BRT|start_date:2016-10-19|start_open:7.75|end_date:2017-01-17|end_close:8.69|stock_return:0.121290
 timeframe:3mo|sector:Consumer Services|symbol:BRX|start_date:2016-10-19|start_open:26.89|end_date:2017-01-17|end_close:24.57|stock_return:-0.086277
 timeframe:3mo|sector:Consumer Services|symbol:BURL|start_date:2016-10-19|start_open:76.57|end_date:2017-01-17|end_close:83.87|stock_return:0.095338
@@ -155,7 +154,6 @@ timeframe:3mo|sector:Consumer Services|symbol:COST|start_date:2016-10-19|start_o
 timeframe:3mo|sector:Consumer Services|symbol:CPLA|start_date:2016-10-19|start_open:58.77|end_date:2017-01-17|end_close:85.25|stock_return:0.450570
 timeframe:3mo|sector:Consumer Services|symbol:CPT|start_date:2016-10-19|start_open:77.70|end_date:2017-01-17|end_close:82.59|stock_return:0.062934
 timeframe:3mo|sector:Consumer Services|symbol:CRCM|start_date:2016-10-19|start_open:9.19|end_date:2017-01-17|end_close:8.40|stock_return:-0.085963
-timeframe:3mo|sector:Consumer Services|symbol:CRTN|start_date:2016-10-19|start_open:0.68|end_date:2017-01-17|end_close:1.12|stock_return:0.647059
 timeframe:3mo|sector:Consumer Services|symbol:CSAL|start_date:2016-10-19|start_open:30.24|end_date:2017-01-17|end_close:26.64|stock_return:-0.119048
 timeframe:3mo|sector:Consumer Services|symbol:CSS|start_date:2016-10-19|start_open:25.08|end_date:2017-01-17|end_close:26.69|stock_return:0.064195
 timeframe:3mo|sector:Consumer Services|symbol:CSV|start_date:2016-10-19|start_open:23.96|end_date:2017-01-17|end_close:27.29|stock_return:0.138982
@@ -165,9 +163,7 @@ timeframe:3mo|sector:Consumer Services|symbol:CTT|start_date:2016-10-19|start_op
 timeframe:3mo|sector:Consumer Services|symbol:CUBE|start_date:2016-10-19|start_open:26.13|end_date:2017-01-17|end_close:25.67|stock_return:-0.017604
 timeframe:3mo|sector:Consumer Services|symbol:CUK|start_date:2016-10-19|start_open:46.48|end_date:2017-01-17|end_close:52.05|stock_return:0.119836
 timeframe:3mo|sector:Consumer Services|symbol:CUZ|start_date:2016-10-19|start_open:7.93|end_date:2017-01-17|end_close:8.34|stock_return:0.051702
-timeframe:3mo|sector:Consumer Services|symbol:CVEO|start_date:2016-10-19|start_open:1.18|end_date:2017-01-17|end_close:2.58|stock_return:1.186441
 timeframe:3mo|sector:Consumer Services|symbol:CXP|start_date:2016-10-19|start_open:22.06|end_date:2017-01-17|end_close:21.50|stock_return:-0.025385
-timeframe:3mo|sector:Consumer Services|symbol:CXW|start_date:2016-10-19|start_open:14.58|end_date:2017-01-17|end_close:27.72|stock_return:0.901235
 timeframe:3mo|sector:Consumer Services|symbol:CYS|start_date:2016-10-19|start_open:8.34|end_date:2017-01-17|end_close:7.97|stock_return:-0.044365
 timeframe:3mo|sector:Consumer Services|symbol:CZR|start_date:2016-10-19|start_open:7.35|end_date:2017-01-17|end_close:8.95|stock_return:0.217687
 timeframe:3mo|sector:Consumer Services|symbol:DAVE|start_date:2016-10-19|start_open:5.33|end_date:2017-01-17|end_close:5.25|stock_return:-0.015009
@@ -259,7 +255,6 @@ timeframe:3mo|sector:Consumer Services|symbol:FPI|start_date:2016-10-19|start_op
 timeframe:3mo|sector:Consumer Services|symbol:FPO|start_date:2016-10-19|start_open:8.97|end_date:2017-01-17|end_close:10.89|stock_return:0.214047
 timeframe:3mo|sector:Consumer Services|symbol:FR|start_date:2016-10-19|start_open:26.75|end_date:2017-01-17|end_close:27.73|stock_return:0.036636
 timeframe:3mo|sector:Consumer Services|symbol:FRAN|start_date:2016-10-19|start_open:15.80|end_date:2017-01-17|end_close:18.63|stock_return:0.179114
-timeframe:3mo|sector:Consumer Services|symbol:FRED|start_date:2016-10-19|start_open:8.84|end_date:2017-01-17|end_close:16.29|stock_return:0.842760
 timeframe:3mo|sector:Consumer Services|symbol:FRGI|start_date:2016-10-19|start_open:27.40|end_date:2017-01-17|end_close:26.95|stock_return:-0.016423
 timeframe:3mo|sector:Consumer Services|symbol:FRSH|start_date:2016-10-19|start_open:5.80|end_date:2017-01-17|end_close:4.59|stock_return:-0.208621
 timeframe:3mo|sector:Consumer Services|symbol:FRT|start_date:2016-10-19|start_open:147.39|end_date:2017-01-17|end_close:141.29|stock_return:-0.041387
@@ -272,7 +267,6 @@ timeframe:3mo|sector:Consumer Services|symbol:GATX|start_date:2016-10-19|start_o
 timeframe:3mo|sector:Consumer Services|symbol:GCI|start_date:2016-10-19|start_open:10.71|end_date:2017-01-17|end_close:9.68|stock_return:-0.096172
 timeframe:3mo|sector:Consumer Services|symbol:GCO|start_date:2016-10-19|start_open:53.55|end_date:2017-01-17|end_close:63.15|stock_return:0.179272
 timeframe:3mo|sector:Consumer Services|symbol:GDEN|start_date:2016-10-19|start_open:11.87|end_date:2017-01-17|end_close:11.38|stock_return:-0.041281
-timeframe:3mo|sector:Consumer Services|symbol:GEO|start_date:2016-10-19|start_open:24.19|end_date:2017-01-17|end_close:38.58|stock_return:0.594874
 timeframe:3mo|sector:Consumer Services|symbol:GGP|start_date:2016-10-19|start_open:26.16|end_date:2017-01-17|end_close:24.93|stock_return:-0.047018
 timeframe:3mo|sector:Consumer Services|symbol:GHC|start_date:2016-10-19|start_open:461.01|end_date:2017-01-17|end_close:522.85|stock_return:0.134140
 timeframe:3mo|sector:Consumer Services|symbol:GIB|start_date:2016-10-19|start_open:47.28|end_date:2017-01-17|end_close:49.47|stock_return:0.046320
@@ -292,7 +286,6 @@ timeframe:3mo|sector:Consumer Services|symbol:GOOD|start_date:2016-10-19|start_o
 timeframe:3mo|sector:Consumer Services|symbol:GOODO|start_date:2016-10-19|start_open:25.25|end_date:2017-01-17|end_close:25.35|stock_return:0.003960
 timeframe:3mo|sector:Consumer Services|symbol:GOODP|start_date:2016-10-19|start_open:25.35|end_date:2017-01-17|end_close:25.42|stock_return:0.002761
 timeframe:3mo|sector:Consumer Services|symbol:GPS|start_date:2016-10-19|start_open:25.99|end_date:2017-01-17|end_close:24.15|stock_return:-0.070796
-timeframe:3mo|sector:Consumer Services|symbol:GPT|start_date:2016-10-19|start_open:9.30|end_date:2017-01-17|end_close:27.62|stock_return:1.969892
 timeframe:3mo|sector:Consumer Services|symbol:GPX|start_date:2016-10-19|start_open:24.20|end_date:2017-01-17|end_close:26.95|stock_return:0.113636
 timeframe:3mo|sector:Consumer Services|symbol:GSOL|start_date:2016-10-19|start_open:8.25|end_date:2017-01-17|end_close:8.45|stock_return:0.024242
 timeframe:3mo|sector:Consumer Services|symbol:GTIM|start_date:2016-10-19|start_open:2.97|end_date:2017-01-17|end_close:3.30|stock_return:0.111111
@@ -311,13 +304,11 @@ timeframe:3mo|sector:Consumer Services|symbol:HCP|start_date:2016-10-19|start_op
 timeframe:3mo|sector:Consumer Services|symbol:HD|start_date:2016-10-19|start_open:125.76|end_date:2017-01-17|end_close:135.93|stock_return:0.080868
 timeframe:3mo|sector:Consumer Services|symbol:HDS|start_date:2016-10-19|start_open:32.18|end_date:2017-01-17|end_close:40.95|stock_return:0.272530
 timeframe:3mo|sector:Consumer Services|symbol:HF|start_date:2016-10-19|start_open:25.49|end_date:2017-01-17|end_close:28.90|stock_return:0.133778
-timeframe:3mo|sector:Consumer Services|symbol:HGG|start_date:2016-10-19|start_open:1.67|end_date:2017-01-17|end_close:0.72|stock_return:-0.568862
 timeframe:3mo|sector:Consumer Services|symbol:HHC|start_date:2016-10-19|start_open:107.78|end_date:2017-01-17|end_close:106.54|stock_return:-0.011505
 timeframe:3mo|sector:Consumer Services|symbol:HIBB|start_date:2016-10-19|start_open:39.30|end_date:2017-01-17|end_close:34.10|stock_return:-0.132316
 timeframe:3mo|sector:Consumer Services|symbol:HIFR|start_date:2016-10-19|start_open:17.11|end_date:2017-01-17|end_close:17.21|stock_return:0.005845
 timeframe:3mo|sector:Consumer Services|symbol:HIL|start_date:2016-10-19|start_open:4.10|end_date:2017-01-17|end_close:5.40|stock_return:0.317073
 timeframe:3mo|sector:Consumer Services|symbol:HIW|start_date:2016-10-19|start_open:50.62|end_date:2017-01-17|end_close:51.93|stock_return:0.025879
-timeframe:3mo|sector:Consumer Services|symbol:HLT|start_date:2016-10-19|start_open:23.13|end_date:2017-01-17|end_close:56.09|stock_return:1.424989
 timeframe:3mo|sector:Consumer Services|symbol:HMHC|start_date:2016-10-19|start_open:13.05|end_date:2017-01-17|end_close:11.05|stock_return:-0.153257
 timeframe:3mo|sector:Consumer Services|symbol:HMLP|start_date:2016-10-19|start_open:18.85|end_date:2017-01-17|end_close:19.00|stock_return:0.007958
 timeframe:3mo|sector:Consumer Services|symbol:HMNY|start_date:2016-10-19|start_open:5.97|end_date:2017-01-17|end_close:3.37|stock_return:-0.435511
@@ -504,7 +495,6 @@ timeframe:3mo|sector:Consumer Services|symbol:PERF|start_date:2016-10-19|start_o
 timeframe:3mo|sector:Consumer Services|symbol:PFMT|start_date:2016-10-19|start_open:3.07|end_date:2017-01-17|end_close:2.16|stock_return:-0.296417
 timeframe:3mo|sector:Consumer Services|symbol:PGRE|start_date:2016-10-19|start_open:15.93|end_date:2017-01-17|end_close:16.41|stock_return:0.030132
 timeframe:3mo|sector:Consumer Services|symbol:PINC|start_date:2016-10-19|start_open:32.25|end_date:2017-01-17|end_close:32.64|stock_return:0.012093
-timeframe:3mo|sector:Consumer Services|symbol:PIR|start_date:2016-10-19|start_open:4.41|end_date:2017-01-17|end_close:8.17|stock_return:0.852608
 timeframe:3mo|sector:Consumer Services|symbol:PLAY|start_date:2016-10-19|start_open:40.70|end_date:2017-01-17|end_close:54.49|stock_return:0.338821
 timeframe:3mo|sector:Consumer Services|symbol:PLCE|start_date:2016-10-19|start_open:74.05|end_date:2017-01-17|end_close:102.50|stock_return:0.384200
 timeframe:3mo|sector:Consumer Services|symbol:PLD|start_date:2016-10-19|start_open:52.00|end_date:2017-01-17|end_close:52.53|stock_return:0.010192
@@ -615,9 +605,7 @@ timeframe:3mo|sector:Consumer Services|symbol:STAY|start_date:2016-10-19|start_o
 timeframe:3mo|sector:Consumer Services|symbol:STKL|start_date:2016-10-19|start_open:6.72|end_date:2017-01-17|end_close:7.50|stock_return:0.116071
 timeframe:3mo|sector:Consumer Services|symbol:STKS|start_date:2016-10-19|start_open:2.35|end_date:2017-01-17|end_close:1.83|stock_return:-0.221277
 timeframe:3mo|sector:Consumer Services|symbol:STN|start_date:2016-10-19|start_open:23.43|end_date:2017-01-17|end_close:25.90|stock_return:0.105420
-timeframe:3mo|sector:Consumer Services|symbol:STON|start_date:2016-10-19|start_open:24.86|end_date:2017-01-17|end_close:10.89|stock_return:-0.561947
 timeframe:3mo|sector:Consumer Services|symbol:STOR|start_date:2016-10-19|start_open:28.24|end_date:2017-01-17|end_close:25.84|stock_return:-0.084986
-timeframe:3mo|sector:Consumer Services|symbol:STRA|start_date:2016-10-19|start_open:45.23|end_date:2017-01-17|end_close:78.84|stock_return:0.743091
 timeframe:3mo|sector:Consumer Services|symbol:STRS|start_date:2016-10-19|start_open:24.30|end_date:2017-01-17|end_close:32.45|stock_return:0.335391
 timeframe:3mo|sector:Consumer Services|symbol:STWD|start_date:2016-10-19|start_open:21.92|end_date:2017-01-17|end_close:22.44|stock_return:0.023723
 timeframe:3mo|sector:Consumer Services|symbol:SUI|start_date:2016-10-19|start_open:78.77|end_date:2017-01-17|end_close:77.82|stock_return:-0.012060
@@ -670,7 +658,6 @@ timeframe:3mo|sector:Consumer Services|symbol:ULTA|start_date:2016-10-19|start_o
 timeframe:3mo|sector:Consumer Services|symbol:UMH|start_date:2016-10-19|start_open:11.97|end_date:2017-01-17|end_close:14.12|stock_return:0.179616
 timeframe:3mo|sector:Consumer Services|symbol:UNF|start_date:2016-10-19|start_open:127.40|end_date:2017-01-17|end_close:130.85|stock_return:0.027080
 timeframe:3mo|sector:Consumer Services|symbol:URBN|start_date:2016-10-19|start_open:33.44|end_date:2017-01-17|end_close:26.95|stock_return:-0.194079
-timeframe:3mo|sector:Consumer Services|symbol:UTI|start_date:2016-10-19|start_open:1.64|end_date:2017-01-17|end_close:3.28|stock_return:1.000000
 timeframe:3mo|sector:Consumer Services|symbol:UVV|start_date:2016-10-19|start_open:55.85|end_date:2017-01-17|end_close:69.50|stock_return:0.244405
 timeframe:3mo|sector:Consumer Services|symbol:VDTH|start_date:2016-10-19|start_open:8.60|end_date:2017-01-17|end_close:8.72|stock_return:0.013953
 timeframe:3mo|sector:Consumer Services|symbol:VEC|start_date:2016-10-19|start_open:16.00|end_date:2017-01-17|end_close:23.38|stock_return:0.461250
@@ -692,7 +679,6 @@ timeframe:3mo|sector:Consumer Services|symbol:WHLRP|start_date:2016-10-19|start_
 timeframe:3mo|sector:Consumer Services|symbol:WIFI|start_date:2016-10-19|start_open:10.15|end_date:2017-01-17|end_close:12.24|stock_return:0.205911
 timeframe:3mo|sector:Consumer Services|symbol:WINA|start_date:2016-10-19|start_open:105.00|end_date:2017-01-17|end_close:113.80|stock_return:0.083810
 timeframe:3mo|sector:Consumer Services|symbol:WING|start_date:2016-10-19|start_open:28.96|end_date:2017-01-17|end_close:28.74|stock_return:-0.007597
-timeframe:3mo|sector:Consumer Services|symbol:WLDN|start_date:2016-10-19|start_open:17.68|end_date:2017-01-17|end_close:28.16|stock_return:0.592760
 timeframe:3mo|sector:Consumer Services|symbol:WMC|start_date:2016-10-19|start_open:9.97|end_date:2017-01-17|end_close:10.17|stock_return:0.020060
 timeframe:3mo|sector:Consumer Services|symbol:WMK|start_date:2016-10-19|start_open:54.98|end_date:2017-01-17|end_close:65.81|stock_return:0.196981
 timeframe:3mo|sector:Consumer Services|symbol:WMT|start_date:2016-10-19|start_open:69.22|end_date:2017-01-17|end_close:68.42|stock_return:-0.011557

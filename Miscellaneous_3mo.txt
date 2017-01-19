@@ -37,7 +37,6 @@ timeframe:3mo|sector:Miscellaneous|symbol:ENV|start_date:2016-10-19|start_open:3
 timeframe:3mo|sector:Miscellaneous|symbol:ESIO|start_date:2016-10-19|start_open:5.23|end_date:2017-01-17|end_close:6.41|stock_return:0.225621
 timeframe:3mo|sector:Miscellaneous|symbol:ETSY|start_date:2016-10-19|start_open:14.40|end_date:2017-01-17|end_close:12.77|stock_return:-0.113194
 timeframe:3mo|sector:Miscellaneous|symbol:EXLS|start_date:2016-10-19|start_open:48.57|end_date:2017-01-17|end_close:48.67|stock_return:0.002059
-timeframe:3mo|sector:Miscellaneous|symbol:FCEL|start_date:2016-10-19|start_open:4.90|end_date:2017-01-17|end_close:1.80|stock_return:-0.632653
 timeframe:3mo|sector:Miscellaneous|symbol:FDC|start_date:2016-10-19|start_open:13.79|end_date:2017-01-17|end_close:15.12|stock_return:0.096447
 timeframe:3mo|sector:Miscellaneous|symbol:FH|start_date:2016-10-19|start_open:3.14|end_date:2017-01-17|end_close:2.12|stock_return:-0.324841
 timeframe:3mo|sector:Miscellaneous|symbol:FICO|start_date:2016-10-19|start_open:122.21|end_date:2017-01-17|end_close:122.75|stock_return:0.004419
@@ -47,14 +46,12 @@ timeframe:3mo|sector:Miscellaneous|symbol:FNJN|start_date:2016-10-19|start_open:
 timeframe:3mo|sector:Miscellaneous|symbol:GPN|start_date:2016-10-19|start_open:74.25|end_date:2017-01-17|end_close:78.04|stock_return:0.051044
 timeframe:3mo|sector:Miscellaneous|symbol:GPRO|start_date:2016-10-19|start_open:14.75|end_date:2017-01-17|end_close:9.42|stock_return:-0.361356
 timeframe:3mo|sector:Miscellaneous|symbol:GRUB|start_date:2016-10-19|start_open:41.58|end_date:2017-01-17|end_close:39.13|stock_return:-0.058923
-timeframe:3mo|sector:Miscellaneous|symbol:GRVY|start_date:2016-10-19|start_open:4.86|end_date:2017-01-17|end_close:13.59|stock_return:1.796296
 timeframe:3mo|sector:Miscellaneous|symbol:HMSY|start_date:2016-10-19|start_open:21.40|end_date:2017-01-17|end_close:18.19|stock_return:-0.150000
 timeframe:3mo|sector:Miscellaneous|symbol:HPJ|start_date:2016-10-19|start_open:2.75|end_date:2017-01-17|end_close:2.23|stock_return:-0.189091
 timeframe:3mo|sector:Miscellaneous|symbol:HQY|start_date:2016-10-19|start_open:36.52|end_date:2017-01-17|end_close:47.47|stock_return:0.299836
 timeframe:3mo|sector:Miscellaneous|symbol:HRG|start_date:2016-10-19|start_open:15.41|end_date:2017-01-17|end_close:15.76|stock_return:0.022713
 timeframe:3mo|sector:Miscellaneous|symbol:IDCC|start_date:2016-10-19|start_open:78.75|end_date:2017-01-17|end_close:88.20|stock_return:0.120000
 timeframe:3mo|sector:Miscellaneous|symbol:IMAX|start_date:2016-10-19|start_open:30.32|end_date:2017-01-17|end_close:31.70|stock_return:0.045515
-timeframe:3mo|sector:Miscellaneous|symbol:ITGR|start_date:2016-10-19|start_open:19.48|end_date:2017-01-17|end_close:30.15|stock_return:0.547741
 timeframe:3mo|sector:Miscellaneous|symbol:ITUS|start_date:2016-10-19|start_open:6.16|end_date:2017-01-17|end_close:5.30|stock_return:-0.139610
 timeframe:3mo|sector:Miscellaneous|symbol:JYNT|start_date:2016-10-19|start_open:2.36|end_date:2017-01-17|end_close:3.38|stock_return:0.432203
 timeframe:3mo|sector:Miscellaneous|symbol:KGJI|start_date:2016-10-19|start_open:1.94|end_date:2017-01-17|end_close:1.33|stock_return:-0.314433
@@ -69,7 +66,6 @@ timeframe:3mo|sector:Miscellaneous|symbol:MA|start_date:2016-10-19|start_open:10
 timeframe:3mo|sector:Miscellaneous|symbol:MARA|start_date:2016-10-19|start_open:2.40|end_date:2017-01-17|end_close:1.83|stock_return:-0.237500
 timeframe:3mo|sector:Miscellaneous|symbol:MCHX|start_date:2016-10-19|start_open:2.59|end_date:2017-01-17|end_close:2.58|stock_return:-0.003861
 timeframe:3mo|sector:Miscellaneous|symbol:MELI|start_date:2016-10-19|start_open:168.62|end_date:2017-01-17|end_close:178.05|stock_return:0.055925
-timeframe:3mo|sector:Miscellaneous|symbol:MGI|start_date:2016-10-19|start_open:6.44|end_date:2017-01-17|end_close:11.77|stock_return:0.827640
 timeframe:3mo|sector:Miscellaneous|symbol:MLNK|start_date:2016-10-19|start_open:1.40|end_date:2017-01-17|end_close:1.95|stock_return:0.392857
 timeframe:3mo|sector:Miscellaneous|symbol:MMS|start_date:2016-10-19|start_open:54.18|end_date:2017-01-17|end_close:57.43|stock_return:0.059985
 timeframe:3mo|sector:Miscellaneous|symbol:MSCI|start_date:2016-10-19|start_open:82.95|end_date:2017-01-17|end_close:81.10|stock_return:-0.022303
@@ -89,7 +85,6 @@ timeframe:3mo|sector:Miscellaneous|symbol:PCO|start_date:2016-10-19|start_open:6
 timeframe:3mo|sector:Miscellaneous|symbol:PCOM|start_date:2016-10-19|start_open:8.00|end_date:2017-01-17|end_close:8.63|stock_return:0.078750
 timeframe:3mo|sector:Miscellaneous|symbol:PFSW|start_date:2016-10-19|start_open:8.51|end_date:2017-01-17|end_close:8.35|stock_return:-0.018801
 timeframe:3mo|sector:Miscellaneous|symbol:PLPM|start_date:2016-10-19|start_open:3.26|end_date:2017-01-17|end_close:4.27|stock_return:0.309816
-timeframe:3mo|sector:Miscellaneous|symbol:PRZM|start_date:2016-10-19|start_open:0.18|end_date:2017-01-17|end_close:0.35|stock_return:0.944444
 timeframe:3mo|sector:Miscellaneous|symbol:PYPL|start_date:2016-10-19|start_open:39.97|end_date:2017-01-17|end_close:41.27|stock_return:0.032524
 timeframe:3mo|sector:Miscellaneous|symbol:QIWI|start_date:2016-10-19|start_open:14.70|end_date:2017-01-17|end_close:12.37|stock_return:-0.158503
 timeframe:3mo|sector:Miscellaneous|symbol:QNST|start_date:2016-10-19|start_open:3.12|end_date:2017-01-17|end_close:3.92|stock_return:0.256410
@@ -105,7 +100,6 @@ timeframe:3mo|sector:Miscellaneous|symbol:SAJA|start_date:2016-10-19|start_open:
 timeframe:3mo|sector:Miscellaneous|symbol:SCOR|start_date:2016-10-19|start_open:29.89|end_date:2017-01-17|end_close:32.13|stock_return:0.074941
 timeframe:3mo|sector:Miscellaneous|symbol:SFLY|start_date:2016-10-19|start_open:43.60|end_date:2017-01-17|end_close:53.33|stock_return:0.223165
 timeframe:3mo|sector:Miscellaneous|symbol:SGRP|start_date:2016-10-19|start_open:1.04|end_date:2017-01-17|end_close:1.01|stock_return:-0.028846
-timeframe:3mo|sector:Miscellaneous|symbol:SITO|start_date:2016-10-19|start_open:5.27|end_date:2017-01-17|end_close:2.50|stock_return:-0.525617
 timeframe:3mo|sector:Miscellaneous|symbol:SPB|start_date:2016-10-19|start_open:135.95|end_date:2017-01-17|end_close:122.68|stock_return:-0.097609
 timeframe:3mo|sector:Miscellaneous|symbol:SPEX|start_date:2016-10-19|start_open:1.52|end_date:2017-01-17|end_close:1.18|stock_return:-0.223684
 timeframe:3mo|sector:Miscellaneous|symbol:SREV|start_date:2016-10-19|start_open:4.82|end_date:2017-01-17|end_close:5.43|stock_return:0.126556

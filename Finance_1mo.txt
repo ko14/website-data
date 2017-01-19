@@ -213,7 +213,6 @@ timeframe:1mo|sector:Finance|symbol:EGBN|start_date:2016-12-16|start_open:61.70|
 timeframe:1mo|sector:Finance|symbol:EHTH|start_date:2016-12-16|start_open:10.53|end_date:2017-01-17|end_close:12.29|stock_return:0.167142
 timeframe:1mo|sector:Finance|symbol:EIG|start_date:2016-12-16|start_open:37.25|end_date:2017-01-17|end_close:37.25|stock_return:0.000000
 timeframe:1mo|sector:Finance|symbol:EMCI|start_date:2016-12-16|start_open:29.71|end_date:2017-01-17|end_close:30.11|stock_return:0.013463
-timeframe:1mo|sector:Finance|symbol:EMG|start_date:2016-12-16|start_open:1.26|end_date:2017-01-17|end_close:0.36|stock_return:-0.714286
 timeframe:1mo|sector:Finance|symbol:ENFC|start_date:2016-12-16|start_open:20.02|end_date:2017-01-17|end_close:21.30|stock_return:0.063936
 timeframe:1mo|sector:Finance|symbol:ENH|start_date:2016-12-16|start_open:92.33|end_date:2017-01-17|end_close:92.68|stock_return:0.003791
 timeframe:1mo|sector:Finance|symbol:ENVA|start_date:2016-12-16|start_open:12.50|end_date:2017-01-17|end_close:13.80|stock_return:0.104000
@@ -593,7 +592,6 @@ timeframe:1mo|sector:Finance|symbol:SFST|start_date:2016-12-16|start_open:34.00|
 timeframe:1mo|sector:Finance|symbol:SGM|start_date:2016-12-16|start_open:4.99|end_date:2017-01-17|end_close:5.88|stock_return:0.178357
 timeframe:1mo|sector:Finance|symbol:SHBI|start_date:2016-12-16|start_open:15.80|end_date:2017-01-17|end_close:15.50|stock_return:-0.018987
 timeframe:1mo|sector:Finance|symbol:SHG|start_date:2016-12-16|start_open:40.03|end_date:2017-01-17|end_close:38.93|stock_return:-0.027479
-timeframe:1mo|sector:Finance|symbol:SIEB|start_date:2016-12-16|start_open:1.82|end_date:2017-01-17|end_close:3.17|stock_return:0.741758
 timeframe:1mo|sector:Finance|symbol:SIFI|start_date:2016-12-16|start_open:14.85|end_date:2017-01-17|end_close:14.75|stock_return:-0.006734
 timeframe:1mo|sector:Finance|symbol:SIGI|start_date:2016-12-16|start_open:42.90|end_date:2017-01-17|end_close:41.40|stock_return:-0.034965
 timeframe:1mo|sector:Finance|symbol:SIVB|start_date:2016-12-16|start_open:172.57|end_date:2017-01-17|end_close:167.57|stock_return:-0.028974
@@ -709,7 +707,6 @@ timeframe:1mo|sector:Finance|symbol:WF|start_date:2016-12-16|start_open:33.67|en
 timeframe:1mo|sector:Finance|symbol:WFBI|start_date:2016-12-16|start_open:28.15|end_date:2017-01-17|end_close:27.97|stock_return:-0.006394
 timeframe:1mo|sector:Finance|symbol:WFC|start_date:2016-12-16|start_open:55.49|end_date:2017-01-17|end_close:53.78|stock_return:-0.030816
 timeframe:1mo|sector:Finance|symbol:WHG|start_date:2016-12-16|start_open:62.00|end_date:2017-01-17|end_close:58.94|stock_return:-0.049355
-timeframe:1mo|sector:Finance|symbol:WINS|start_date:2016-12-16|start_open:112.61|end_date:2017-01-17|end_close:234.90|stock_return:1.085960
 timeframe:1mo|sector:Finance|symbol:WLTW|start_date:2016-12-16|start_open:122.44|end_date:2017-01-17|end_close:125.33|stock_return:0.023603
 timeframe:1mo|sector:Finance|symbol:WMIH|start_date:2016-12-16|start_open:1.50|end_date:2017-01-17|end_close:1.45|stock_return:-0.033333
 timeframe:1mo|sector:Finance|symbol:WNEB|start_date:2016-12-16|start_open:8.60|end_date:2017-01-17|end_close:9.00|stock_return:0.046512

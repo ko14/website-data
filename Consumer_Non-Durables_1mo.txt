@@ -122,7 +122,6 @@ timeframe:1mo|sector:Consumer Non-Durables|symbol:MKC|start_date:2016-12-16|star
 timeframe:1mo|sector:Consumer Non-Durables|symbol:MO|start_date:2016-12-16|start_open:66.25|end_date:2017-01-17|end_close:68.48|stock_return:0.033660
 timeframe:1mo|sector:Consumer Non-Durables|symbol:MOV|start_date:2016-12-16|start_open:30.20|end_date:2017-01-17|end_close:26.60|stock_return:-0.119205
 timeframe:1mo|sector:Consumer Non-Durables|symbol:MYE|start_date:2016-12-16|start_open:14.55|end_date:2017-01-17|end_close:13.60|stock_return:-0.065292
-timeframe:1mo|sector:Consumer Non-Durables|symbol:NAKD|start_date:2016-12-16|start_open:0.88|end_date:2017-01-17|end_close:1.69|stock_return:0.920455
 timeframe:1mo|sector:Consumer Non-Durables|symbol:NKE|start_date:2016-12-16|start_open:51.60|end_date:2017-01-17|end_close:53.65|stock_return:0.039729
 timeframe:1mo|sector:Consumer Non-Durables|symbol:NLS|start_date:2016-12-16|start_open:19.25|end_date:2017-01-17|end_close:15.85|stock_return:-0.176623
 timeframe:1mo|sector:Consumer Non-Durables|symbol:NOMD|start_date:2016-12-16|start_open:9.20|end_date:2017-01-17|end_close:10.37|stock_return:0.127174
