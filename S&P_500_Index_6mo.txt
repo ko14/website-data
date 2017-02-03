@@ -1,1 +1,1 @@
-timeframe:6mo|sector:S&P 500 Index|symbol:.inx|start_date:2016-08-05|start_open:2168.79|end_date:2017-02-01|end_close:2279.55|stock_return:0.051070
+timeframe:6mo|sector:S&P 500 Index|symbol:.inx|start_date:2016-08-05|start_open:2168.79|end_date:2017-02-02|end_close:2280.85|stock_return:0.051669
