@@ -1,3 +1,3 @@
 [
-{"timeframe":"6mo","sector":"S&P 500 Index","symbol":".inx","start_date":"2016-08-12","start_open":2183.74,"end_date":"2017-02-08","end_close":2294.67,"stock_return":0.050798}
+{"timeframe":"6mo","sector":"S&P 500 Index","symbol":".inx","start_date":"2016-08-12","start_open":2183.74,"end_date":"2017-02-09","end_close":2307.87,"stock_return":0.056843}
 ]
