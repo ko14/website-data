@@ -490,7 +490,6 @@
 {"timeframe":"6mo","sector":"Health Care","symbol":"UTHR","start_date":"2016-08-19","start_open":124.91,"end_date":"2017-02-17","end_close":168.16,"stock_return":0.346249},
 {"timeframe":"6mo","sector":"Health Care","symbol":"UTMD","start_date":"2016-08-19","start_open":63.43,"end_date":"2017-02-17","end_close":63.40,"stock_return":-0.000473},
 {"timeframe":"6mo","sector":"Health Care","symbol":"VAR","start_date":"2016-08-19","start_open":93.55,"end_date":"2017-02-17","end_close":83.61,"stock_return":-0.106253},
-{"timeframe":"6mo","sector":"Health Care","symbol":"VASC","start_date":"2016-08-19","start_open":47.79,"end_date":"2017-02-17","end_close":56.00,"stock_return":0.171793},
 {"timeframe":"6mo","sector":"Health Care","symbol":"VBIV","start_date":"2016-08-19","start_open":3.60,"end_date":"2017-02-17","end_close":4.79,"stock_return":0.330556},
 {"timeframe":"6mo","sector":"Health Care","symbol":"VBLT","start_date":"2016-08-19","start_open":3.97,"end_date":"2017-02-17","end_close":5.60,"stock_return":0.410579},
 {"timeframe":"6mo","sector":"Health Care","symbol":"VCEL","start_date":"2016-08-19","start_open":2.21,"end_date":"2017-02-17","end_close":3.05,"stock_return":0.380090},
