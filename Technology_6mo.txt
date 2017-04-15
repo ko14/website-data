@@ -237,7 +237,6 @@
 {"timeframe":"6mo","sector":"Technology","symbol":"KTEC","start_date":"2016-10-14","start_open":10.88,"end_date":"2017-04-13","end_close":13.11,"stock_return":0.204963},
 {"timeframe":"6mo","sector":"Technology","symbol":"KVHI","start_date":"2016-10-14","start_open":8.55,"end_date":"2017-04-13","end_close":8.05,"stock_return":-0.058480},
 {"timeframe":"6mo","sector":"Technology","symbol":"KYO","start_date":"2016-10-14","start_open":47.66,"end_date":"2017-04-13","end_close":54.10,"stock_return":0.135124},
-{"timeframe":"6mo","sector":"Technology","symbol":"KZ","start_date":"2016-10-14","start_open":6.67,"end_date":"2017-04-13","end_close":7.50,"stock_return":0.124438},
 {"timeframe":"6mo","sector":"Technology","symbol":"LDOS","start_date":"2016-10-14","start_open":41.75,"end_date":"2017-04-13","end_close":50.64,"stock_return":0.212934},
 {"timeframe":"6mo","sector":"Technology","symbol":"LECO","start_date":"2016-10-14","start_open":62.34,"end_date":"2017-04-13","end_close":81.90,"stock_return":0.313763},
 {"timeframe":"6mo","sector":"Technology","symbol":"LEDS","start_date":"2016-10-14","start_open":5.07,"end_date":"2017-04-13","end_close":3.19,"stock_return":-0.370809},
