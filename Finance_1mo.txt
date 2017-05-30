@@ -405,7 +405,6 @@
 {"timeframe":"1mo","sector":"Finance","symbol":"IX","start_date":"2017-04-26","start_open":78.02,"end_date":"2017-05-26","end_close":79.65,"stock_return":0.020892},
 {"timeframe":"1mo","sector":"Finance","symbol":"JLL","start_date":"2017-04-26","start_open":111.11,"end_date":"2017-05-26","end_close":114.52,"stock_return":0.030690},
 {"timeframe":"1mo","sector":"Finance","symbol":"JMP","start_date":"2017-04-26","start_open":6.01,"end_date":"2017-05-26","end_close":5.41,"stock_return":-0.099834},
-{"timeframe":"1mo","sector":"Finance","symbol":"JNS","start_date":"2017-04-26","start_open":13.44,"end_date":"2017-05-26","end_close":14.17,"stock_return":0.054315},
 {"timeframe":"1mo","sector":"Finance","symbol":"JPM","start_date":"2017-04-26","start_open":88.35,"end_date":"2017-05-26","end_close":85.36,"stock_return":-0.033843},
 {"timeframe":"1mo","sector":"Finance","symbol":"JRJC","start_date":"2017-04-26","start_open":2.65,"end_date":"2017-05-26","end_close":2.04,"stock_return":-0.230189},
 {"timeframe":"1mo","sector":"Finance","symbol":"JRVR","start_date":"2017-04-26","start_open":42.68,"end_date":"2017-05-26","end_close":42.60,"stock_return":-0.001874},

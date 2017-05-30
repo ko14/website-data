@@ -497,7 +497,6 @@
 {"timeframe":"3mo","sector":"Technology","symbol":"ULTI","start_date":"2017-02-24","start_open":195.35,"end_date":"2017-05-26","end_close":223.20,"stock_return":0.142565},
 {"timeframe":"3mo","sector":"Technology","symbol":"UMC","start_date":"2017-02-24","start_open":2.03,"end_date":"2017-05-26","end_close":2.06,"stock_return":0.014778},
 {"timeframe":"3mo","sector":"Technology","symbol":"URI","start_date":"2017-02-24","start_open":119.36,"end_date":"2017-05-26","end_close":111.17,"stock_return":-0.068616},
-{"timeframe":"3mo","sector":"Technology","symbol":"UTEK","start_date":"2017-02-24","start_open":29.01,"end_date":"2017-05-26","end_close":30.23,"stock_return":0.042054},
 {"timeframe":"3mo","sector":"Technology","symbol":"VDSI","start_date":"2017-02-24","start_open":13.45,"end_date":"2017-05-26","end_close":14.10,"stock_return":0.048327},
 {"timeframe":"3mo","sector":"Technology","symbol":"VECO","start_date":"2017-02-24","start_open":28.05,"end_date":"2017-05-26","end_close":32.00,"stock_return":0.140820},
 {"timeframe":"3mo","sector":"Technology","symbol":"VIAV","start_date":"2017-02-24","start_open":10.22,"end_date":"2017-05-26","end_close":11.36,"stock_return":0.111546},

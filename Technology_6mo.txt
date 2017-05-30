@@ -447,7 +447,6 @@
 {"timeframe":"6mo","sector":"Technology","symbol":"ULTI","start_date":"2016-11-25","start_open":209.70,"end_date":"2017-05-26","end_close":223.20,"stock_return":0.064378},
 {"timeframe":"6mo","sector":"Technology","symbol":"UMC","start_date":"2016-11-25","start_open":1.84,"end_date":"2017-05-26","end_close":2.06,"stock_return":0.119565},
 {"timeframe":"6mo","sector":"Technology","symbol":"URI","start_date":"2016-11-25","start_open":97.35,"end_date":"2017-05-26","end_close":111.17,"stock_return":0.141962},
-{"timeframe":"6mo","sector":"Technology","symbol":"UTEK","start_date":"2016-11-25","start_open":23.22,"end_date":"2017-05-26","end_close":30.23,"stock_return":0.301895},
 {"timeframe":"6mo","sector":"Technology","symbol":"VDSI","start_date":"2016-11-25","start_open":15.20,"end_date":"2017-05-26","end_close":14.10,"stock_return":-0.072368},
 {"timeframe":"6mo","sector":"Technology","symbol":"VECO","start_date":"2016-11-25","start_open":26.50,"end_date":"2017-05-26","end_close":32.00,"stock_return":0.207547},
 {"timeframe":"6mo","sector":"Technology","symbol":"VEEV","start_date":"2016-11-25","start_open":46.11,"end_date":"2017-05-26","end_close":66.82,"stock_return":0.449143},
