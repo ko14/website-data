@@ -1,5 +1,6 @@
 <?php
 
+//include files
 include 'load_announcements.php';
 include 'load_stocks.php';
 include 'load_prices.php';
@@ -12,6 +13,7 @@ if (!$conn)
 if (!mysql_select_db('stocks'))
 {die('Could not select database: ' . mysql_error());}
 
+//functions in include files
 run_load_announcements($conn);
 run_load_stocks($conn);
 run_load_prices($conn);
