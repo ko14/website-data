@@ -14,7 +14,7 @@ if (!mysql_select_db('stocks'))
 {die('Could not select database: ' . mysql_error());}
 
 //functions in include files
-run_load_announcements($conn);
+//run_load_announcements($conn); - no longer works - site format changed
 run_load_stocks($conn);
 run_load_prices($conn);
 run_load_streak($conn);
