@@ -49,7 +49,7 @@ if ($sp_array[2]<>"NoData")
 
 function get_data($date_ref,$symbol)
 {
-  $page = file_get_contents("http://website?symb=$symbol&closeDate=$date_ref");
+  $page = file_get_contents("https://bigcharts.marketwatch.com/historical?symb=$symbol&closeDate=$date_ref");
   if ($price_exists=strpos($page,"<th>Closing Price:</th>"))
   {
     $close_start=strpos($page,"<td>",$price_exists)+4;
