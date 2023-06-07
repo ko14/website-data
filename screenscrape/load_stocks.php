@@ -14,6 +14,7 @@ function run_load_stocks($conn)
 
 function &stock_load($conn,$exchange,$exchange_list)
 {
+  //exchange list files come from https://www.nasdaq.com/market-activity/stocks/screener and saved to "location" - separate auto process not in this repo
   $file = @fopen("location?exchange=$exchange&render=download", "r");
   fgets($file); //skip the first row with column headings
   while ($line = fgets($file)) 
